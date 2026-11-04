@@ -7,6 +7,24 @@
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
     {
+      "id": "df-dr-meter-fish-scale-110-lb",
+      "title": "Dr.meter Fish Scale, 110 lb Digital Luggage Scale with Tape, 110 lb Capacity, Backlit LCD, Built-In Tape, Includes 2 AAA Batteries, Compact Pocket Size",
+      "category": "Sports & Outdoors",
+      "condition": "Used - Like New",
+      "price": 5.99,
+      "new_price": 8.99,
+      "discount_percent": 33,
+      "currency": "USD",
+      "amazon_url": "https://www.amazon.com/dp/B00ZWNGZFO?tag=latestdealsdi-20",
+      "asin": "B00ZWNGZFO",
+      "image": "https://m.media-amazon.com/images/I/61XSM1vAHWL._AC_SL3840_.jpg",
+      "posted_at": "2026-11-04",
+      "updated": "2026-11-04",
+      "verified_on_amazon": false,
+      "discovery_source": "user-screenshot",
+      "seller_note": "Sold by Thousandshores Inc and Fulfilled by Amazon - not Amazon Warehouse/Resale"
+    },
+    {
       "id": "df-kohler-22061-vs-graze-semi-professional-3-function-commercial-kitchen-faucet-wit",
       "title": "Kohler 22061-VS Graze Semi-Professional, 3 Function Commercial Kitchen Faucet with Pull Down Sprayer, Standard, Vibrant Stainless",
       "title_en": "Kohler 22061-VS Graze Semi-Professional, 3 Function Commercial Kitchen Faucet with Pull Down Sprayer, Standard, Vibrant Stainless",
