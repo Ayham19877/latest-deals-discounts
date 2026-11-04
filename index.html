@@ -91,11 +91,37 @@
         text-align:center;font-weight:700;font-size:15px;padding:13px 18px;
       }
 
-      .filter-panel{
-        margin-top:22px;background:var(--surface);border:1px solid var(--line-soft);
-        border-radius:14px;padding:24px 26px;
-        display:grid;grid-template-columns:1fr 1fr;gap:10px 44px;
+      .menu-btn{
+        background:transparent;border:1px solid #3a4190;color:#fff;border-radius:10px;
+        width:46px;height:46px;display:grid;place-items:center;cursor:pointer;flex:none;
       }
+      .menu-btn svg{width:24px;height:24px;stroke:#fff}
+      .filter-backdrop{
+        position:fixed;inset:0;background:rgba(10,14,60,.55);z-index:99;
+        opacity:0;pointer-events:none;transition:opacity .2s ease;
+      }
+      body.drawer-open .filter-backdrop{opacity:1;pointer-events:auto}
+      .drawer-head{
+        display:flex;align-items:center;justify-content:space-between;
+        margin-bottom:16px;
+      }
+      .drawer-head h3{margin:0;font-size:20px;font-weight:800}
+      .drawer-close{
+        background:var(--surface-soft);border:1px solid var(--line);border-radius:10px;
+        width:40px;height:40px;font-size:22px;line-height:1;cursor:pointer;color:var(--ink);
+      }
+      .filter-panel{
+        position:fixed;top:0;left:0;bottom:0;z-index:100;
+        width:min(360px,86vw);overflow:auto;
+        background:var(--surface);border-right:1px solid var(--line-soft);
+        padding:20px 22px 28px;margin:0;
+        display:grid;grid-template-columns:1fr;gap:10px;
+        transform:translateX(-105%);transition:transform .25s ease;
+      }
+      body.drawer-open .filter-panel{transform:translateX(0)}
+      .top-search{display:flex;gap:10px;margin-top:18px;align-items:stretch}
+      .top-search .search-box{flex:1}
+      .top-search .btn{flex:none}
       .field{margin-bottom:16px}
       .field label,.field .label{
         display:block;font-weight:700;font-size:14.5px;margin-bottom:8px;
@@ -212,6 +238,9 @@
   <body id="top">
     <header class="site">
       <div class="wrap header-in">
+        <button type="button" class="menu-btn" id="menuBtn" aria-label="Open filters" aria-expanded="false" aria-controls="filterForm">
+          <svg viewBox="0 0 24 24" fill="none" stroke-width="2.4" stroke-linecap="round"><path d="M4 6h16M4 12h16M4 18h16"/></svg>
+        </button>
         <a class="brand" href="#top" aria-label="Latest Deals &amp; Discounts">
           <span class="brand-mark" aria-hidden="true">
             <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0 0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42 0l6.58-6.58a2.426 2.426 0 0 0 0-3.42z"/><circle cx="7.5" cy="7.5" r=".5" fill="currentColor"/></svg>
@@ -227,6 +256,7 @@
         </div>
       </div>
     </header>
+    <div class="filter-backdrop" id="filterBackdrop" aria-hidden="true"></div>
 
     <main>
       <section class="feed" id="picks" aria-label="Warehouse Deals">
@@ -238,7 +268,19 @@
 
           <p class="disclosure-strip">As an Amazon Associate, I earn from qualifying purchases.</p>
 
+          <form class="top-search" id="topSearchForm" role="search">
+            <div class="search-box">
+              <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+              <input type="search" id="qTop" name="qTop" placeholder="Search warehouse deals..." aria-label="Search warehouse deals" />
+            </div>
+            <button type="submit" class="btn btn-orange">Search</button>
+          </form>
+
           <form class="filter-panel" id="filterForm">
+            <div class="drawer-head">
+              <h3>Filters</h3>
+              <button type="button" class="drawer-close" id="drawerClose" aria-label="Close filters">&times;</button>
+            </div>
             <div>
               <div class="field">
                 <label for="q">Search Deals</label>
@@ -525,13 +567,42 @@
 
         function clearAll() {
           document.getElementById("filterForm").reset();
+          var qt = document.getElementById("qTop");
+          if (qt) qt.value = "";
           catAll.checked = true;
           catBox.querySelectorAll(".cat-check").forEach(function (b) { b.checked = false; });
           applyFilters();
         }
         document.getElementById("clearBtn").addEventListener("click", clearAll);
+        function closeDrawer() {
+          document.body.classList.remove("drawer-open");
+          var mb = document.getElementById("menuBtn");
+          if (mb) mb.setAttribute("aria-expanded", "false");
+        }
+        function openDrawer() {
+          document.body.classList.add("drawer-open");
+          var mb = document.getElementById("menuBtn");
+          if (mb) mb.setAttribute("aria-expanded", "true");
+        }
+        document.getElementById("menuBtn").addEventListener("click", openDrawer);
+        document.getElementById("drawerClose").addEventListener("click", closeDrawer);
+        document.getElementById("filterBackdrop").addEventListener("click", closeDrawer);
+        document.addEventListener("keydown", function (e) {
+          if (e.key === "Escape") closeDrawer();
+        });
         document.getElementById("filterForm").addEventListener("submit", function (e) {
           e.preventDefault();
+          var qt = document.getElementById("qTop");
+          var qf = document.getElementById("q");
+          if (qt && qf) qt.value = qf.value;
+          applyFilters();
+          closeDrawer();
+        });
+        document.getElementById("topSearchForm").addEventListener("submit", function (e) {
+          e.preventDefault();
+          var qt = document.getElementById("qTop");
+          var qf = document.getElementById("q");
+          if (qt && qf) qf.value = qt.value;
           applyFilters();
         });
 
