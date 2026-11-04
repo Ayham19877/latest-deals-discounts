@@ -1851,6 +1851,24 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0FPF5DCJC"
+    },
+    {
+      "id": "df-mr-heater-125-000-btu-forced-air-propane-heater",
+      "title": "Mr Heater 125,000 BTU Forced Air Propane Heater",
+      "title_en": "Mr Heater 125,000 BTU Forced Air Propane Heater",
+      "category": "Home & Kitchen",
+      "condition": "",
+      "currency": "USD",
+      "price": 143.44,
+      "new_price": null,
+      "discount_percent": 39,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/s?k=Mr+Heater+125%2C000+BTU+Forced+Air+Propane+Heater&tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31cYZi-1CuL._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-04",
+      "updated": "2026-11-04",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only"
     }
   ]
 }
