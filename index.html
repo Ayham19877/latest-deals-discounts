@@ -156,10 +156,15 @@
         border-radius:6px;padding:2px 8px;margin-left:8px;vertical-align:2px;
       }
       .deal-price .rating{color:#9a5a06;font-weight:700}
-      .deal-foot{display:flex;align-items:center;gap:16px;flex-wrap:wrap;margin-top:auto}
+      .deal-foot{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-top:auto}
       .deal-foot .btn{padding:10px 20px;font-size:14.5px}
       .deal-foot .btn svg{width:15px;height:15px;stroke:#fff}
-      .posted{color:var(--ink-soft);font-size:13.5px}
+      .deal-foot .btn-share svg{stroke:var(--ink)}
+      .deal-foot .btn-share.copied{border-color:var(--orange);color:#9a5a06}
+      .deal-img-link{display:block;line-height:0;text-decoration:none}
+      .deal-title-link{color:inherit;text-decoration:none}
+      .deal-title-link:hover{text-decoration:underline;text-underline-offset:3px}
+      .posted{color:var(--ink-soft);font-size:13.5px;margin-left:6px}
       .empty{
         background:var(--surface);border:1px dashed var(--line);border-radius:14px;
         padding:34px 24px;text-align:center;color:var(--ink-soft);
@@ -498,16 +503,19 @@
               priceHtml = "Warehouse price on Amazon.";
             }
             return '<article class="deal-card">' +
-              (d.image ? '<img src="' + esc(d.image) + '" alt="' + esc(d.category) + ' category illustration" loading="lazy" />' : "") +
+              (d.image ? '<a class="deal-img-link" href="' + esc(d.amazon_url) + '" target="_blank" rel="noopener" aria-label="View on Amazon: ' + esc(d.title) + '"><img src="' + esc(d.image) + '" alt="' + esc(d.category) + ' category illustration" loading="lazy" /></a>' : "") +
               '<div class="deal-body">' +
                 '<div class="deal-cat">' + esc(d.category) + "</div>" +
-                "<h3>" + esc(d.title) + "</h3>" +
+                '<h3><a class="deal-title-link" href="' + esc(d.amazon_url) + '" target="_blank" rel="noopener">' + esc(d.title) + "</a></h3>" +
                 (d.condition ? '<span class="cond-pill">' + esc(d.condition) + "</span>" : "") +
                 '<p class="deal-price">' + priceHtml + "</p>" +
                 '<div class="deal-foot">' +
                   '<a class="btn btn-navy" href="' + esc(d.amazon_url) + '" target="_blank" rel="noopener">' +
                     '<svg viewBox="0 0 24 24" fill="none" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17 17 7"/><path d="M8 7h9v9"/></svg>' +
-                    "Amazon</a>" +
+                    "View on Amazon</a>" +
+                  '<button type="button" class="btn btn-ghost btn-share" data-share-url="' + esc(d.amazon_url) + '" data-share-title="' + esc(d.title) + '" aria-label="Share this deal">' +
+                    '<svg viewBox="0 0 24 24" fill="none" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="m8.6 13.5 6.8 4M15.4 6.5l-6.8 4"/></svg>' +
+                    '<span class="share-label">Share</span></button>' +
                   '<span class="posted">Posted ' + esc(fmtDate(d.posted_at || d.updated)) + "</span>" +
                 "</div>" +
               "</div>" +
@@ -527,7 +535,47 @@
           applyFilters();
         });
 
-        fetch("deals.json", { cache: "no-cache" }).then(function (r) { if (!r.ok) throw new Error("feed"); return r.json(); }).catch(function () { return fetch("data:application/json;base64,ewogImRlYWxzIjogWwogIHsKICAgImFtYXpvbl91cmwiOiAiaHR0cHM6Ly93d3cuYW1hem9uLmNvbS9BbWF6b24tUmVzYWxlL2I/aWU9VVRGOCZub2RlPTEwMTU4OTc2MDExIiwKICAgImNhdGVnb3J5IjogIkVsZWN0cm9uaWNzIiwKICAgImNvbmRpdGlvbiI6ICJVc2VkIC0gTGlrZSBOZXciLAogICAiY3VycmVuY3kiOiAiVVNEIiwKICAgImlkIjogInJlc2FsZS1lbGVjdHJvbmljcy1saWtlbmV3IiwKICAgInByaWNlIjogbnVsbCwKICAgInRpdGxlIjogIkVsZWN0cm9uaWNzIOKAlCBBbWF6b24gUmVzYWxlLCBVc2VkIC0gTGlrZSBOZXciLAogICAidGl0bGVfZW4iOiAiRWxlY3Ryb25pY3Mg4oCUIEFtYXpvbiBSZXNhbGUsIFVzZWQgLSBMaWtlIE5ldyIsCiAgICJ1cGRhdGVkIjogIjIwMjYtMTEtMDMiLAogICAibmV3X3ByaWNlIjogbnVsbCwKICAgImRpc2NvdW50X3BlcmNlbnQiOiBudWxsLAogICAicG9zdGVkX2F0IjogIjIwMjYtMTEtMDMiLAogICAiaW1hZ2UiOiAiYXNzZXRzL2NhdC1lbGVjdHJvbmljcy53ZWJwIiwKICAgImRlYWxfcmF0aW5nIjogbnVsbAogIH0sCiAgewogICAiYW1hem9uX3VybCI6ICJodHRwczovL3d3dy5hbWF6b24uY29tL0FtYXpvbi1SZXNhbGUvYj9pZT1VVEY4Jm5vZGU9MTAxNTg5NzYwMTEiLAogICAiY2F0ZWdvcnkiOiAiSG9tZSAmIEtpdGNoZW4iLAogICAiY29uZGl0aW9uIjogIlVzZWQgLSBMaWtlIE5ldyAvIFZlcnkgR29vZCIsCiAgICJjdXJyZW5jeSI6ICJVU0QiLAogICAiaWQiOiAicmVzYWxlLWhvbWUta2l0Y2hlbiIsCiAgICJwcmljZSI6IG51bGwsCiAgICJ0aXRsZSI6ICJIb21lICYgS2l0Y2hlbiDigJQgb3Blbi1ib3ggYW5kIGluc3BlY3RlZCByZXR1cm5zIiwKICAgInRpdGxlX2VuIjogIkhvbWUgJiBLaXRjaGVuIOKAlCBvcGVuLWJveCBhbmQgaW5zcGVjdGVkIHJldHVybnMiLAogICAidXBkYXRlZCI6ICIyMDI2LTExLTAzIiwKICAgIm5ld19wcmljZSI6IG51bGwsCiAgICJkaXNjb3VudF9wZXJjZW50IjogbnVsbCwKICAgInBvc3RlZF9hdCI6ICIyMDI2LTExLTAzIiwKICAgImltYWdlIjogImFzc2V0cy9jYXQta2l0Y2hlbi53ZWJwIiwKICAgImRlYWxfcmF0aW5nIjogbnVsbAogIH0sCiAgewogICAiYW1hem9uX3VybCI6ICJodHRwczovL3d3dy5hbWF6b24uY29tL0FtYXpvbi1SZXNhbGUvYj9pZT1VVEY4Jm5vZGU9MTAxNTg5NzYwMTEiLAogICAiY2F0ZWdvcnkiOiAiRWxlY3Ryb25pY3MiLAogICAiY29uZGl0aW9uIjogIlVzZWQgLSBMaWtlIE5ldyAvIFZlcnkgR29vZCIsCiAgICJjdXJyZW5jeSI6ICJVU0QiLAogICAiaWQiOiAicmVzYWxlLWNvbXB1dGVycy10YWJsZXRzIiwKICAgInByaWNlIjogbnVsbCwKICAgInRpdGxlIjogIkNvbXB1dGVycywgdGFibGV0cyAmIHBob25lcyDigJQgaW5zcGVjdGVkLCBncmFkZWQgV2FyZWhvdXNlIG9mZmVycyIsCiAgICJ0aXRsZV9lbiI6ICJDb21wdXRlcnMsIHRhYmxldHMgJiBwaG9uZXMg4oCUIGluc3BlY3RlZCwgZ3JhZGVkIFdhcmVob3VzZSBvZmZlcnMiLAogICAidXBkYXRlZCI6ICIyMDI2LTExLTAzIiwKICAgIm5ld19wcmljZSI6IG51bGwsCiAgICJkaXNjb3VudF9wZXJjZW50IjogbnVsbCwKICAgInBvc3RlZF9hdCI6ICIyMDI2LTExLTAzIiwKICAgImltYWdlIjogImFzc2V0cy9jYXQtY29tcHV0ZXJzLndlYnAiLAogICAiZGVhbF9yYXRpbmciOiBudWxsCiAgfSwKICB7CiAgICJhbWF6b25fdXJsIjogImh0dHBzOi8vd3d3LmFtYXpvbi5jb20vQW1hem9uLVJlc2FsZS9iP2llPVVURjgmbm9kZT0xMDE1ODk3NjAxMSIsCiAgICJjYXRlZ29yeSI6ICJUb29scyAmIEhvbWUgSW1wcm92ZW1lbnQiLAogICAiY29uZGl0aW9uIjogIlVzZWQgLSBWZXJ5IEdvb2QgLyBHb29kIiwKICAgImN1cnJlbmN5IjogIlVTRCIsCiAgICJpZCI6ICJyZXNhbGUtdG9vbHMtaG9tZS1pbXByb3ZlbWVudCIsCiAgICJwcmljZSI6IG51bGwsCiAgICJ0aXRsZSI6ICJUb29scyAmIGhvbWUgaW1wcm92ZW1lbnQg4oCUIHJldHVybmVkIGl0ZW1zIGJlbG93IG5ldyBwcmljZSIsCiAgICJ0aXRsZV9lbiI6ICJUb29scyAmIGhvbWUgaW1wcm92ZW1lbnQg4oCUIHJldHVybmVkIGl0ZW1zIGJlbG93IG5ldyBwcmljZSIsCiAgICJ1cGRhdGVkIjogIjIwMjYtMTEtMDMiLAogICAibmV3X3ByaWNlIjogbnVsbCwKICAgImRpc2NvdW50X3BlcmNlbnQiOiBudWxsLAogICAicG9zdGVkX2F0IjogIjIwMjYtMTEtMDMiLAogICAiaW1hZ2UiOiAiYXNzZXRzL2NhdC10b29scy53ZWJwIiwKICAgImRlYWxfcmF0aW5nIjogbnVsbAogIH0sCiAgewogICAiYW1hem9uX3VybCI6ICJodHRwczovL3d3dy5hbWF6b24uY29tL0FtYXpvbi1SZXNhbGUvYj9pZT1VVEY4Jm5vZGU9MTAxNTg5NzYwMTEiLAogICAiY2F0ZWdvcnkiOiAiT3RoZXIiLAogICAiY29uZGl0aW9uIjogIlVzZWQgLSBMaWtlIE5ldyAvIFZlcnkgR29vZCIsCiAgICJjdXJyZW5jeSI6ICJVU0QiLAogICAiaWQiOiAicmVzYWxlLWZ1cm5pdHVyZSIsCiAgICJwcmljZSI6IG51bGwsCiAgICJ0aXRsZSI6ICJGdXJuaXR1cmUg4oCUIGRhbWFnZWQtYm94IGl0ZW1zIHdpdGggc291bmQgY29udGVudHMiLAogICAidGl0bGVfZW4iOiAiRnVybml0dXJlIOKAlCBkYW1hZ2VkLWJveCBpdGVtcyB3aXRoIHNvdW5kIGNvbnRlbnRzIiwKICAgInVwZGF0ZWQiOiAiMjAyNi0xMS0wMyIsCiAgICJuZXdfcHJpY2UiOiBudWxsLAogICAiZGlzY291bnRfcGVyY2VudCI6IG51bGwsCiAgICJwb3N0ZWRfYXQiOiAiMjAyNi0xMS0wMyIsCiAgICJpbWFnZSI6ICJhc3NldHMvY2F0LWZ1cm5pdHVyZS53ZWJwIiwKICAgImRlYWxfcmF0aW5nIjogbnVsbAogIH0sCiAgewogICAiYW1hem9uX3VybCI6ICJodHRwczovL3d3dy5hbWF6b24uY29tL0FtYXpvbi1SZXNhbGUvYj9pZT1VVEY4Jm5vZGU9MTAxNTg5NzYwMTEiLAogICAiY2F0ZWdvcnkiOiAiU3BvcnRzICYgT3V0ZG9vcnMiLAogICAiY29uZGl0aW9uIjogIlVzZWQgLSBMaWtlIE5ldyAvIFZlcnkgR29vZCIsCiAgICJjdXJyZW5jeSI6ICJVU0QiLAogICAiaWQiOiAicmVzYWxlLXNwb3J0cy1vdXRkb29ycyIsCiAgICJwcmljZSI6IG51bGwsCiAgICJ0aXRsZSI6ICJTcG9ydHMgJiBvdXRkb29ycyDigJQgQW1hem9uLWluc3BlY3RlZCByZXR1cm5lZCBnZWFyIiwKICAgInRpdGxlX2VuIjogIlNwb3J0cyAmIG91dGRvb3JzIOKAlCBBbWF6b24taW5zcGVjdGVkIHJldHVybmVkIGdlYXIiLAogICAidXBkYXRlZCI6ICIyMDI2LTExLTAzIiwKICAgIm5ld19wcmljZSI6IG51bGwsCiAgICJkaXNjb3VudF9wZXJjZW50IjogbnVsbCwKICAgInBvc3RlZF9hdCI6ICIyMDI2LTExLTAzIiwKICAgImltYWdlIjogImFzc2V0cy9jYXQtc3BvcnRzLndlYnAiLAogICAiZGVhbF9yYXRpbmciOiBudWxsCiAgfQogXSwKICJmZWVkIjogIkxhdGVzdCBEZWFscyAmIERpc2NvdW50cyDigJQgQW1hem9uIFdhcmVob3VzZSAoQW1hem9uIFJlc2FsZSkgcGlja3MiLAogIm5vdGUiOiAiRWFjaCBlbnRyeSBpcyBhIGxpdmUgYnJvd3NlIGVudHJ5IHBvaW50IG9uIEFtYXpvbiBSZXNhbGUuIFdhcmVob3VzZSBzdG9jayBpcyBvbmUtb2Ytb25lOiBwcmljZXMgYW5kIGF2YWlsYWJpbGl0eSBhcmUgc2hvd24gb24gQW1hem9uIGFuZCBjaGFuZ2UgZmFzdCwgc28gcHJpY2UvbmV3X3ByaWNlL2Rpc2NvdW50X3BlcmNlbnQgc3RheSBudWxsIGluIHRoaXMgZmVlZCB1bnRpbCBhIHNwZWNpZmljIG9uZS1vZmYgZGVhbCBpcyBwdWJsaXNoZWQgd2l0aCBpdHMgcmVhbCBBbWF6b24gcHJpY2UuIE9wZW4gdGhlIEFtYXpvbiBsaW5rLCB0aGVuIHBpY2sgYSBVc2VkIG9mZmVyIHNvbGQgYnkgQW1hem9uIFJlc2FsZSAvIEFtYXpvbiBXYXJlaG91c2UgYW5kIHJlYWQgdGhlIHNlbGxlciBjb25kaXRpb24gbm90ZSBiZWZvcmUgYnV5aW5nLiIsCiAic2VydmljZSI6ICJMYXRlc3QgRGVhbHMgJiBEaXNjb3VudHMiLAogInNvdXJjZV9zdG9yZSI6ICJBbWF6b24gUmVzYWxlIChmb3JtZXJseSBBbWF6b24gV2FyZWhvdXNlIERlYWxzKSIsCiAidXBkYXRlZCI6ICIyMDI2LTExLTAzIgp9Cg==", { cache: "no-cache" }).then(function (r) { if (!r.ok) throw new Error("feed"); return r.json(); }); }).then(function (data) {
+        // Share a deal: opens the system share sheet with the deal's Amazon
+        // link; where that is unavailable, copies the link instead and says so
+        // on the button itself.
+        listEl.addEventListener("click", function (e) {
+          var btn = e.target.closest ? e.target.closest(".btn-share") : null;
+          if (!btn) return;
+          var url = btn.getAttribute("data-share-url") || "";
+          var title = btn.getAttribute("data-share-title") || "Warehouse deal";
+          if (navigator.share) {
+            navigator.share({ title: title, text: title, url: url }).catch(function () {});
+            return;
+          }
+          var label = btn.querySelector(".share-label");
+          function done(ok) {
+            if (!label) return;
+            label.textContent = ok ? "Link copied" : "Copy failed";
+            btn.classList.add("copied");
+            setTimeout(function () {
+              label.textContent = "Share";
+              btn.classList.remove("copied");
+            }, 2200);
+          }
+          if (navigator.clipboard && navigator.clipboard.writeText) {
+            navigator.clipboard.writeText(url).then(function () { done(true); }, function () { done(false); });
+          } else {
+            var ta = document.createElement("textarea");
+            ta.value = url;
+            ta.style.position = "fixed";
+            ta.style.opacity = "0";
+            document.body.appendChild(ta);
+            ta.select();
+            var ok = false;
+            try { ok = document.execCommand("copy"); } catch (err) { ok = false; }
+            document.body.removeChild(ta);
+            done(ok);
+          }
+        });
+
+        fetch("deals.json", { cache: "no-cache" })
+          .then(function (r) { if (!r.ok) throw new Error("feed"); return r.json(); })
+          .then(function (data) {
             deals = (data && data.deals) || [];
             if (data && data.updated) {
               document.getElementById("feedUpdated").textContent = "Last updated: " + fmtDate(data.updated);
