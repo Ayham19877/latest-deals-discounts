@@ -36,7 +36,7 @@
         font-family:system-ui,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
         line-height:1.5;
       }
-      h1,h2,h3,.brand-name,.btn,.live-pill{font-family:"Archivo",system-ui,sans-serif}
+      h1,h2,h3,.brand-name,.btn{font-family:"Archivo",system-ui,sans-serif}
       a{color:inherit}
       .wrap{max-width:1440px;margin:0 auto;padding:0 24px}
 
@@ -68,12 +68,6 @@
         font-family:"Archivo",system-ui,sans-serif;font-weight:700;font-size:16px;
         color:#fff;text-decoration:none;
       }
-      .live-pill{
-        display:inline-flex;align-items:center;gap:8px;
-        border:1.5px solid #4a55a8;border-radius:999px;padding:6px 16px;
-        font-weight:700;font-size:14px;color:#f3c98a;
-      }
-      .live-dot{width:9px;height:9px;border-radius:50%;background:var(--red);flex:none}
       .btn{
         display:inline-flex;align-items:center;gap:8px;
         font-weight:700;font-size:15px;text-decoration:none;cursor:pointer;
@@ -224,7 +218,6 @@
         </a>
         <div class="header-nav">
           <a class="nav-link" href="#picks">Warehouse Deals</a>
-          <span class="live-pill"><span class="live-dot" aria-hidden="true"></span>Live</span>
           <a class="btn btn-orange" href="https://www.amazon.com/Amazon-Resale/b?ie=UTF8&amp;node=10158976011" target="_blank" rel="noopener">Amazon Resale Store</a>
         </div>
       </div>
@@ -502,7 +495,7 @@
               if (d.discount_percent != null) priceHtml += '<span class="save-badge">Save ' + d.discount_percent + "%</span>";
               if (d.deal_rating != null) priceHtml += '<br /><span class="rating">Deal rating: ' + esc(d.deal_rating) + " / 10</span>";
             } else {
-              priceHtml = "Live Warehouse price on Amazon.";
+              priceHtml = "Warehouse price on Amazon.";
             }
             return '<article class="deal-card">' +
               (d.image ? '<img src="' + esc(d.image) + '" alt="' + esc(d.category) + ' category illustration" loading="lazy" />' : "") +
