@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <meta name="color-scheme" content="light" />
-    <meta name="description" content="Latest Deals & Discounts — Amazon Warehouse (Amazon Resale) open-box and used deals, searchable and filterable. As an Amazon Associate, I earn from qualifying purchases." />
+    <meta name="description" content="Latest Deals & Discounts — Amazon Warehouse (Amazon Resale) open-box and used deals, searchable and filterable. As an Amazon Associate, I earn a commission from qualifying purchases." />
     <link rel="icon" href="data:," />
     <title>Latest Deals &amp; Discounts</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -119,6 +119,11 @@
         transform:translateX(-105%);transition:transform .25s ease;
       }
       body.drawer-open .filter-panel{transform:translateX(0)}
+
+      .top-banner{position:sticky;top:0;z-index:90;background:var(--surface);box-shadow:0 2px 12px rgba(10,14,60,.12)}
+      .sticky-bar{padding:12px 0 10px;border-bottom:1px solid var(--line-soft)}
+      .sticky-bar .top-search{margin-top:0}
+      .commission-line{margin:8px 0 0;text-align:center;font-size:13px;font-weight:700;color:var(--ink-soft)}
       .top-search{display:flex;gap:10px;margin-top:18px;align-items:stretch}
       .top-search .search-box{flex:1}
       .top-search .btn{flex:none}
@@ -236,6 +241,7 @@
     </style>
   </head>
   <body id="top">
+    <div class="top-banner">
     <header class="site">
       <div class="wrap header-in">
         <button type="button" class="menu-btn" id="menuBtn" aria-label="Open filters" aria-expanded="false" aria-controls="filterForm">
@@ -256,6 +262,17 @@
         </div>
       </div>
     </header>
+    <div class="sticky-bar"><div class="wrap">
+<form class="top-search" id="topSearchForm" role="search">
+            <div class="search-box">
+              <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+              <input type="search" id="qTop" name="qTop" placeholder="Search warehouse deals..." aria-label="Search warehouse deals" />
+            </div>
+            <button type="submit" class="btn btn-orange">Search</button>
+          </form>
+          <p class="commission-line">I earn a commission from qualifying purchases.</p>
+        </div></div>
+    </div>
     <div class="filter-backdrop" id="filterBackdrop" aria-hidden="true"></div>
 
     <main>
@@ -268,13 +285,6 @@
 
           <p class="disclosure-strip">As an Amazon Associate, I earn from qualifying purchases.</p>
 
-          <form class="top-search" id="topSearchForm" role="search">
-            <div class="search-box">
-              <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
-              <input type="search" id="qTop" name="qTop" placeholder="Search warehouse deals..." aria-label="Search warehouse deals" />
-            </div>
-            <button type="submit" class="btn btn-orange">Search</button>
-          </form>
 
           <form class="filter-panel" id="filterForm">
             <div class="drawer-head">
