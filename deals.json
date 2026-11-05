@@ -17,13 +17,13 @@
       "new_price": null,
       "discount_percent": 68,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B0DP2QK267?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=Nike+Men%27s+Court+Vision+Lo+SC+Lifestyle+Shoes%2C+Sail%2FMidnight+Navy-Gum+Light+Brown%2C+12&tag=latestdealsdi-20",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31i6hlcFujL._AC_UL200_SR220,200_._SL500_.jpg",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "asin-resolved",
-      "asin": "B0DP2QK267"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-carhartt-men-s-marquette-1-4-zip-mock-neck-sweatshirt-black-x-large",
@@ -150,13 +150,13 @@
       "new_price": null,
       "discount_percent": 64,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B0BQWWY4JM?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=Jetpilot+Mens+Venture+Long+John+Wetsuit&tag=latestdealsdi-20",
       "image": "https://jetpilot.com.au/cdn/shop/files/JA24154_VENTURE_JOHN_BLACK_4.jpg?v=1722833190&width=800",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B0BQWWY4JM"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-callaway-apex-19-hybrid-golf-club",
@@ -245,13 +245,13 @@
       "new_price": null,
       "discount_percent": 59,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B0F5WNLLZ9?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=Vidalido+Large+Pop+Up+Canopy+12x12+ft+Outdoor+Shade&tag=latestdealsdi-20",
       "image": "",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B0F5WNLLZ9"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-200-pack-precut-tennis-balls-for-crafts-replacement",
@@ -359,13 +359,13 @@
       "new_price": null,
       "discount_percent": 79,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B0DP4TTKZC?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=Yard+Force+40V+20%22+Cordless+Garden+Tiller&tag=latestdealsdi-20",
       "image": "https://image.rakuten.co.jp/rcmd/cabinet/jt02/jt-6939500721785-001.jpg",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B0DP4TTKZC"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-yankee-candle-22oz-large-jar",
@@ -397,13 +397,13 @@
       "new_price": null,
       "discount_percent": 42,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B004UMGRO2?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=POLYWOOD+Chippendale+48%22+Rocking+Chair&tag=latestdealsdi-20",
       "image": "https://imageresizer.furnituredealer.net/img/remote/images.furnituredealer.net/b/p/783e50c03e7e686b231c9bc4d6e46302/assets/342c82130c894ec1ba8b81d46268c5ba.jpg?format=jpg&quality=95&width=1248&height=1248&scale=both&trim.threshold=20&trim.percentpadding=1",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B004UMGRO2"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-aofeite-8-ft-raised-garden-bed",
@@ -454,13 +454,13 @@
       "new_price": null,
       "discount_percent": 49,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B0F8HDC9RK?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=MAKHOON+Modular+Raised+Garden+Bed+Planter+Box&tag=latestdealsdi-20",
       "image": "",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B0F8HDC9RK"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-cordless-leaf-blower-for-makita-18v-battery",
@@ -473,18 +473,18 @@
       "new_price": null,
       "discount_percent": 72,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B0FGDHKP55?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/dp/B0C71M7BCN?tag=latestdealsdi-20",
       "image": "https://m.media-amazon.com/images/I/71r0a24yLoL.jpg",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B0FGDHKP55"
+      "discovery_source": "asin-resolved",
+      "asin": "B0C71M7BCN"
     },
     {
-      "id": "df-arris-surfboard-s33-docsis-3-1-modem",
-      "title": "ARRIS SURFboard S33 DOCSIS 3.1 Modem",
-      "title_en": "ARRIS SURFboard S33 DOCSIS 3.1 Modem",
+      "id": "df-arris-surfboard-max-pro-w31-tri-band-mesh-ready-wi-fi-6-router-ax11000-wi-fi-speeds-up-to-11-gbps-coverage-up-to-3-000-sq-ft-1-router-alexa-support",
+      "title": "ARRIS SURFboard mAX Pro W31 Tri-Band Mesh Ready Wi-Fi 6 Router, AX11000 Wi-Fi Speeds up to 11 Gbps, Coverage up to 3,000 sq ft, 1 Router, Alexa Support",
+      "title_en": "ARRIS SURFboard mAX Pro W31 Tri-Band Mesh Ready Wi-Fi 6 Router, AX11000 Wi-Fi Speeds up to 11 Gbps, Coverage up to 3,000 sq ft, 1 Router, Alexa Support",
       "category": "Electronics",
       "condition": "",
       "currency": "USD",
@@ -497,7 +497,7 @@
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
+      "discovery_source": "audit-title-fix",
       "asin": "B07M8TZ1KM"
     },
     {
@@ -530,13 +530,13 @@
       "new_price": null,
       "discount_percent": 76,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B0DVBWHNZT?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=Cellular+10ft+iPhone+Charging+Cable&tag=latestdealsdi-20",
       "image": "",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B0DVBWHNZT"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-fhumsh-10ft-usb-c-fast-charging-cable",
@@ -568,13 +568,13 @@
       "new_price": null,
       "discount_percent": 61,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B0BQQZF86N?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/dp/B0B11YMNQY?tag=latestdealsdi-20",
       "image": "https://cdn.shopify.com/s/files/1/0884/1648/5725/files/AputureLS600dProVmoun.jpg?v=1739356484",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B0BQQZF86N"
+      "discovery_source": "asin-resolved",
+      "asin": "B0B11YMNQY"
     },
     {
       "id": "df-nikon-d3500-two-lens-kit-with-18-55mm-70-300mm",
@@ -587,13 +587,13 @@
       "new_price": null,
       "discount_percent": 61,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B07JC1NLNQ?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/dp/B07GW23M7T?tag=latestdealsdi-20",
       "image": "https://www.nikon.cz/globalassets/digizuite/166136-en-d3500_18_55_70_300_kit-v6BE5EACE5621.png/OptimizelyDesktopPNG",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B07JC1NLNQ"
+      "discovery_source": "asin-resolved",
+      "asin": "B07GW23M7T"
     },
     {
       "id": "df-hdmi-wireless-transmitter-and-receiver-4k",
@@ -644,13 +644,13 @@
       "new_price": null,
       "discount_percent": 67,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B00HQ4W4PC?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/dp/B004Y1AYAC?tag=latestdealsdi-20",
       "image": "https://img.pccomponentes.com/articles/8/82752/nikon-af-s-nikkor-50mm-f-1-8g.jpg",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B00HQ4W4PC"
+      "discovery_source": "asin-resolved",
+      "asin": "B004Y1AYAC"
     },
     {
       "id": "df-j-tech-digital-4k-60hz-4x1-hdmi-switch",
@@ -663,13 +663,13 @@
       "new_price": null,
       "discount_percent": 59,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B00QJEUYSE?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=J-Tech+Digital+4K+60Hz+4x1+HDMI+Switch&tag=latestdealsdi-20",
       "image": "",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B00QJEUYSE"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-linksys-ea7300-dual-band-ac1750-gigabit-router",
@@ -682,13 +682,13 @@
       "new_price": null,
       "discount_percent": 65,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B00KEK4Q5Q?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/dp/B01JOXW58I?tag=latestdealsdi-20",
       "image": "https://m.media-amazon.com/images/I/71GJ-wqdqqL.SS700.jpg",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B00KEK4Q5Q"
+      "discovery_source": "asin-resolved",
+      "asin": "B01JOXW58I"
     },
     {
       "id": "df-logitech-g923-trueforce-racing-wheel",
@@ -701,13 +701,13 @@
       "new_price": null,
       "discount_percent": 63,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B07THRG5T7?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/dp/B07PFB72NL?tag=latestdealsdi-20",
       "image": "https://cdn.multitronic.fi/images/prod/4/A/991-000531-1.webp",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B07THRG5T7"
+      "discovery_source": "asin-resolved",
+      "asin": "B07PFB72NL"
     },
     {
       "id": "df-jabra-elite-10-gen-2-true-wireless-noise-cancelling-earbuds",
@@ -720,13 +720,13 @@
       "new_price": null,
       "discount_percent": 68,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B0865439LD?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/dp/B0D49TK9Q1?tag=latestdealsdi-20",
       "image": "https://m.media-amazon.com/images/I/41V2bkZ6YJL._AC_SL2000_SR1200,630_.jpg",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B0865439LD"
+      "discovery_source": "asin-resolved",
+      "asin": "B0D49TK9Q1"
     },
     {
       "id": "df-minolta-mn35z-20mp-fhd-bridge-digital-camera-blue",
@@ -739,13 +739,13 @@
       "new_price": null,
       "discount_percent": 69,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B0DT56W1FH?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=Minolta+MN35Z+20MP+FHD+Bridge+Digital+Camera%2C+Blue&tag=latestdealsdi-20",
       "image": "",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B0DT56W1FH"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-dell-ultrasharp-27-4k-usb-c-monitor-u2723qe",
@@ -758,13 +758,13 @@
       "new_price": null,
       "discount_percent": 65,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B08MR1YJWD?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/dp/B09TQZP9CL?tag=latestdealsdi-20",
       "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/u-series/u2723qe/media-gallery/monitor-u2723qe-gallery-3.psd?fmt=png-alpha&pscan=auto&scl=1&hei=804&wid=872&qlt=100,1&resMode=sharp2&size=872,804&chrss=full",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B08MR1YJWD"
+      "discovery_source": "asin-resolved",
+      "asin": "B09TQZP9CL"
     },
     {
       "id": "df-samsung-25w-usb-c-super-fast-charging-wall-charger-black",
@@ -777,13 +777,13 @@
       "new_price": null,
       "discount_percent": 61,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B08M2X68W5?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/dp/B07VKXSD91?tag=latestdealsdi-20",
       "image": "https://target.scene7.com/is/image/Target/GUEST_f2c2d814-04dc-42cd-82c5-27fe774bf378",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B08M2X68W5"
+      "discovery_source": "asin-resolved",
+      "asin": "B07VKXSD91"
     },
     {
       "id": "df-milleloom-handmade-jute-area-rug",
@@ -834,13 +834,13 @@
       "new_price": null,
       "discount_percent": 69,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B0F6BJRZXQ?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=Deep+Fryer+Pot+with+Thermometer%2C+6+Quart&tag=latestdealsdi-20",
       "image": "",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B0F6BJRZXQ"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-deco-79-gold-metallic-curtains",
@@ -853,13 +853,13 @@
       "new_price": null,
       "discount_percent": 81,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B0CDZ8H2GF?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=Deco+79%22+Gold+Metallic+Curtains&tag=latestdealsdi-20",
       "image": "",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B0CDZ8H2GF"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-aerozy-24-linen-fabric-storage-ottoman",
@@ -872,13 +872,13 @@
       "new_price": null,
       "discount_percent": 73,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B0FD3QZKDJ?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=AEROZY+24%22+Linen+Fabric+Storage+Ottoman&tag=latestdealsdi-20",
       "image": "",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B0FD3QZKDJ"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-merxeng-8-000-btu-portable-air-conditioner-ac-unit-with-built-in-cool-dehumidifi",
@@ -910,13 +910,13 @@
       "new_price": null,
       "discount_percent": 74,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B01M99F4H3?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=Tribeca+Living+14-Pc+Bamboo+Towel+Set&tag=latestdealsdi-20",
       "image": "",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B01M99F4H3"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-holme-hadfield-the-original-knife-block",
@@ -929,13 +929,13 @@
       "new_price": null,
       "discount_percent": 54,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B0C5Y165L5?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=Holme+%26+Hadfield+The+Original+Knife+Block&tag=latestdealsdi-20",
       "image": "https://cdn11.bigcommerce.com/s-zv2yzuk65y/images/stencil/797x683/products/33513/150445/holmhadfield__54411.1670414159.1280.1280__39229.1670415253.jpg?c=1",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B0C5Y165L5"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-vicnie-36-bathroom-vanity-cabinet",
@@ -948,13 +948,13 @@
       "new_price": null,
       "discount_percent": 50,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B07W684CNQ?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=VICNIE+36%22+Bathroom+Vanity+Cabinet&tag=latestdealsdi-20",
       "image": "",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B07W684CNQ"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-snaplock-48-x-24-drainage-tiles",
@@ -1005,13 +1005,13 @@
       "new_price": null,
       "discount_percent": 67,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B0D9LDJJGS?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=DJSUNPACKING+12+Pack+Cabinet+Handles&tag=latestdealsdi-20",
       "image": "",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B0D9LDJJGS"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-24x24-carpet-tiles-12-pack",
@@ -1024,13 +1024,13 @@
       "new_price": null,
       "discount_percent": 61,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B0FR43Y388?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=24x24+Carpet+Tiles+12+Pack&tag=latestdealsdi-20",
       "image": "",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B0FR43Y388"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-delta-junction-brushed-gold-kitchen-faucet-with-pull-down-sprayer-modern-brushed",
@@ -1062,13 +1062,13 @@
       "new_price": null,
       "discount_percent": 50,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B017JO7U1Q?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=4-1%2F2%22+Wet+Diamond+Cutting+Blade&tag=latestdealsdi-20",
       "image": "https://images.thdstatic.com/productImages/1867a225-1468-4f12-b37a-ff4d77229ea9/svn/bosch-diamond-blades-db4566c-64_1000.jpg",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B017JO7U1Q"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-bus-norton-20v-cordless-drill-driver",
@@ -1081,13 +1081,13 @@
       "new_price": null,
       "discount_percent": 68,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B0D7F4V9CF?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=bus+Norton+20V+Cordless+Drill+Driver&tag=latestdealsdi-20",
       "image": "",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B0D7F4V9CF"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-amerock-bar-pulls-10-pack-3-3-4-champagne-bronze",
@@ -1100,13 +1100,13 @@
       "new_price": null,
       "discount_percent": 60,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B0D3S8NTTD?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=Amerock+Bar+Pulls+10+Pack+3-3%2F4%22+Champagne+Bronze&tag=latestdealsdi-20",
       "image": "https://target.scene7.com/is/image/Target/GUEST_c4ba5fad-3720-45a4-b1ad-d92fa77a4165",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B0D3S8NTTD"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-comllen-30-large-wall-mounted-bathroom-vanity",
@@ -1119,13 +1119,13 @@
       "new_price": null,
       "discount_percent": 43,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B07TC313PL?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=Comllen+30%22+Large+Wall+Mounted+Bathroom+Vanity&tag=latestdealsdi-20",
       "image": "https://images.thdstatic.com/productImages/cad4f4af-00b2-43d3-81b0-3b52b242da2d/svn/comllen-bathroom-vanities-with-tops-com-bc041-fysxmb-90el-1-64_600.jpg",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B07TC313PL"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-kraus-standart-pro-16-gauge-undermount-kitchen-sink",
@@ -1138,13 +1138,13 @@
       "new_price": null,
       "discount_percent": 35,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B07S5Q5J6Q?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=KRAUS+Standart+PRO+16+Gauge+Undermount+Kitchen+Sink&tag=latestdealsdi-20",
       "image": "https://m.media-amazon.com/images/I/61ceS2npXQL._AC_US1000_.jpg",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B07S5Q5J6Q"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-sarlai-36-double-vanity-with-sink",
@@ -1157,13 +1157,13 @@
       "new_price": null,
       "discount_percent": 49,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B08616HF5D?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=Sarlai+36%22+Double+Vanity+with+Sink&tag=latestdealsdi-20",
       "image": "",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B08616HF5D"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-hansgrohe-1-75-gpm-single-handle-kitchen-faucet",
@@ -1176,13 +1176,13 @@
       "new_price": null,
       "discount_percent": 69,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B0BV8H2HXZ?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/dp/B0869FLFSF?tag=latestdealsdi-20",
       "image": "https://s3.img-b.com/image/private/t_base,c_lpad,f_auto,dpr_auto,w_1200,h_630/product/hansgrohe/hansgrohe-72846801-8783533.jpg",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B0BV8H2HXZ"
+      "discovery_source": "asin-resolved",
+      "asin": "B0869FLFSF"
     },
     {
       "id": "df-bamboo-20-towel-bar",
@@ -1195,13 +1195,13 @@
       "new_price": null,
       "discount_percent": 58,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B0DQJ77KSP?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=Bamboo+20%22+Towel+Bar&tag=latestdealsdi-20",
       "image": "https://m.media-amazon.com/images/I/41zP9n5Lz1L.jpg",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B0DQJ77KSP"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-kingston-3-pack-24-brushed-nickel-pull",
@@ -1214,13 +1214,13 @@
       "new_price": null,
       "discount_percent": 68,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B08J8DJVKD?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=Kingston+3+Pack+24%22+Brushed+Nickel+Pull&tag=latestdealsdi-20",
       "image": "",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B08J8DJVKD"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-livex-lighting-2-light-chandelier",
@@ -1233,13 +1233,13 @@
       "new_price": null,
       "discount_percent": 59,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B01DKHMMI2?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=Livex+Lighting+2-Light+Chandelier&tag=latestdealsdi-20",
       "image": "https://livexlightinglights.com/dw/image/v2/BHCF_PRD/on/demandware.static/-/Sites-master-catalog-lny/default/dw1dd37301/brand/lvx/productimages/6476-04_b2.webp?sw=386&sh=386&sm=fit&sfrm=jpg",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B01DKHMMI2"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-globe-electric-3-light-chrome-vanity-light",
@@ -1252,13 +1252,13 @@
       "new_price": null,
       "discount_percent": 74,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B0C6L7PMXP?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=Globe+Electric+3-Light+Chrome+Vanity+Light&tag=latestdealsdi-20",
       "image": "https://images.thdstatic.com/productImages/b5e13368-592f-41da-bd9f-2f26a1ac6c9d/svn/chrome-globe-electric-vanity-lighting-51476-64_1000.jpg",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B0C6L7PMXP"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-delta-faucet-cassidy-champagne-bronze-bathroom-faucet",
@@ -1271,13 +1271,13 @@
       "new_price": null,
       "discount_percent": 53,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B00472JVGG?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/dp/B008JVLH1S?tag=latestdealsdi-20",
       "image": "https://i5.walmartimages.com/seo/Delta-Cassidy-Two-Handle-Widespread-Bathroom-Faucet-in-Champagne-Bronze-3597LF-CZMPU_3c9b886f-3438-497a-84f4-6dfeeb1617a5_1.5d63ddec9509dfd65e002608249adb4d.png",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B00472JVGG"
+      "discovery_source": "asin-resolved",
+      "asin": "B008JVLH1S"
     },
     {
       "id": "df-hamilyeah-2-pack-toilet-paper-holder",
@@ -1290,13 +1290,13 @@
       "new_price": null,
       "discount_percent": 61,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B0965T9WVD?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=Hamilyeah+2+Pack+Toilet+Paper+Holder&tag=latestdealsdi-20",
       "image": "",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B0965T9WVD"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-kingston-3-3-4-center-to-center-brushed-nickel-pull",
@@ -1309,13 +1309,13 @@
       "new_price": null,
       "discount_percent": 62,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B000COF4Y6?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=Kingston+3-3%2F4%22+Center+to+Center+Brushed+Nickel+Pull&tag=latestdealsdi-20",
       "image": "https://assets.wfcdn.com/im/0/resize-h755-w755%5Ecompr-r85/0/197731864/default_name.jpg",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B000COF4Y6"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-khtumeware-stainless-steel-4-pack-serving-pieces",
@@ -1328,13 +1328,13 @@
       "new_price": null,
       "discount_percent": 65,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B0DNYHTXBR?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=khtumeware+Stainless+Steel+4-Pack+Serving+Pieces&tag=latestdealsdi-20",
       "image": "",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B0DNYHTXBR"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-galvanized-2-x-4-welded-wire-fence",
@@ -1347,13 +1347,13 @@
       "new_price": null,
       "discount_percent": 82,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B08128RB1T?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=Galvanized+2%22+x+4%22+Welded+Wire+Fence&tag=latestdealsdi-20",
       "image": "https://m.media-amazon.com/images/I/51ik+OLDsFL._SL500_.jpg",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B08128RB1T"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-vinyl-fence-pickets-48-x-6-black-white",
@@ -1366,13 +1366,13 @@
       "new_price": null,
       "discount_percent": 50,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B0FQCBRPBY?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=Vinyl+Fence+Pickets+48%22+x+6%22+Black+%26+White&tag=latestdealsdi-20",
       "image": "",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B0FQCBRPBY"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-amerock-bar-pulls-10-pack-3-3-4-center-brushed-nickel",
@@ -1385,13 +1385,13 @@
       "new_price": null,
       "discount_percent": 60,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B0D472QYZY?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=Amerock+Bar+Pulls+10+Pack+3-3%2F4%22+Center%2C+Brushed+Nickel&tag=latestdealsdi-20",
       "image": "https://m.media-amazon.com/images/I/51dFRDT6JlL.jpg",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B0D472QYZY"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-peerless-sfa-4-5-diameter-220-grit-resin-bond-diamond-blade",
@@ -1404,13 +1404,13 @@
       "new_price": null,
       "discount_percent": 66,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B0CTHXFCCV?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=Peerless+SFA+4.5%22+Diameter+220+Grit+Resin+Bond+Diamond+Blade&tag=latestdealsdi-20",
       "image": "",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B0CTHXFCCV"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-cabdm-9-5-toilet-paper-holder-brushed-nickel",
@@ -1423,13 +1423,13 @@
       "new_price": null,
       "discount_percent": 55,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B0DPGW9TX4?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=CABDM+9.5%22+Toilet+Paper+Holder+Brushed+Nickel&tag=latestdealsdi-20",
       "image": "",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B0DPGW9TX4"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-kichler-16-wall-mirror-with-decorative-antique-glass",
@@ -1442,13 +1442,13 @@
       "new_price": null,
       "discount_percent": 50,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B0F1BDL8LN?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=Kichler+16%22+Wall+Mirror+with+Decorative+Antique+Glass&tag=latestdealsdi-20",
       "image": "",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B0F1BDL8LN"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-alice-24-black-shower-grab-bar",
@@ -1461,13 +1461,13 @@
       "new_price": null,
       "discount_percent": 83,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B0B6F7ZMX3?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=ALICE+24%22+Black+Shower+Grab+Bar&tag=latestdealsdi-20",
       "image": "https://i5.walmartimages.com/seo/Decorative-Shower-Grab-Bar-24-Black-Bathroom-Bars-Seniors-Non-Slip-Household-Handicap-Safety-Bar-Elderly-Wall-Handle-Secure-Grip-Home-Care-Accessorie_d72acb43-cfa5-4d60-8905-94516af5beb3.81ac48a24ad53b6c862d881717f705f1.jpeg?odnHeight=372&odnWidth=372&odnBg=FFFFFF",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B0B6F7ZMX3"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-hansgrohe-talis-s-1-5-gpm-single-lever-basin-faucet",
@@ -1480,13 +1480,13 @@
       "new_price": null,
       "discount_percent": 54,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B000UGIA2Y?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=hansgrohe+Talis+S+1.5+GPM+Single+Lever+Basin+Faucet&tag=latestdealsdi-20",
       "image": "https://files.ekmcdn.com/d2b774/images/hansgrohe-talis-s-single-lever-basin-mixer-80-without-waste-72012000-chrome-13983-p.png?w=570&h=9999&v=412023-153124",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B000UGIA2Y"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-sanitemodar-double-rod-shower-curtain-rod-with-shower-curtain",
@@ -1499,13 +1499,13 @@
       "new_price": null,
       "discount_percent": 53,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B07RT4FQTF?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=SaniteModar+Double+Rod+Shower+Curtain+Rod+with+Shower+Curtain&tag=latestdealsdi-20",
       "image": "",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B07RT4FQTF"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-shonelighting-solar-step-lights-for-outside-33-focused-beam-high-brightness-leds",
@@ -1518,13 +1518,13 @@
       "new_price": null,
       "discount_percent": 49,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B0DKTG7738?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=SHONELIGHTING+Solar+Step+Lights+for+Outside%2C+33+Focused-Beam+High-Brightness+LEDs%2C+Waterproof+Aluminum+Outdoor+Stair+Light+for+Risers%2C+Curbsides%2C+Poolsides%2C+Planter+Edges+%28Warm+White%29&tag=latestdealsdi-20",
       "image": "https://m.media-amazon.com/images/I/81xbGJdNFjL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_QL100_.jpg",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B0DKTG7738"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-magnetize-52-inch-10pcs-heavy-duty-magnetic-tool-holder-strips",
@@ -1537,13 +1537,13 @@
       "new_price": null,
       "discount_percent": 78,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B09LJVCG8T?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=Magnetize+52+Inch+10Pcs+Heavy+Duty+Magnetic+Tool+Holder+Strips&tag=latestdealsdi-20",
       "image": "",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B09LJVCG8T"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-art3d-14-pack-3d-wall-panels-peel-and-stick-white-brick",
@@ -1556,13 +1556,13 @@
       "new_price": null,
       "discount_percent": 51,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B0CWN95QLD?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=Art3d+14-Pack+3D+Wall+Panels+Peel+and+Stick+White+Brick&tag=latestdealsdi-20",
       "image": "https://images-na.ssl-images-amazon.com/images/I/61tR9bMsw4L.jpg",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B0CWN95QLD"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-delta-faucet-linden-chrome-two-handle-bathroom-sink-faucet",
@@ -1575,13 +1575,13 @@
       "new_price": null,
       "discount_percent": 41,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B087466GKM?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=Delta+Faucet+Linden+Chrome+Two-Handle+Bathroom+Sink+Faucet&tag=latestdealsdi-20",
       "image": "https://assets.wfcdn.com/im/31024278/compr-r85/1669/16691621/Linden+Centerset+Bathroom+Faucet+with+Drain+Assembly%2C+2-handle+Bathroom+Sink+Faucet.jpg",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B087466GKM"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-trimold-1-set-of-12-pack-white-round-wall-corner-guards",
@@ -1594,13 +1594,13 @@
       "new_price": null,
       "discount_percent": 66,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B0BWJCSCTD?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=Trimold+1+Set+of+12+Pack+White+Round+Wall+Corner+Guards&tag=latestdealsdi-20",
       "image": "",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B0BWJCSCTD"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-wingbo-large-bathroom-vanity-36-double-sinks-mirror-cabinet",
@@ -1613,13 +1613,13 @@
       "new_price": null,
       "discount_percent": 47,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B0CLS136ZR?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=WINGBO+Large+Bathroom+Vanity+36%22+Double+Sinks+Mirror+Cabinet&tag=latestdealsdi-20",
       "image": "https://m.media-amazon.com/images/I/81LoSaQLUdL._UF894,1000_QL80_.jpg",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B0CLS136ZR"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-hansgrohe-raindance-s-240-air-overhead-shower-1-jet-chrome",
@@ -1727,13 +1727,13 @@
       "new_price": null,
       "discount_percent": 50,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B00HQ4W1QE?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/dp/B0CJDG3BF8?tag=latestdealsdi-20",
       "image": "https://assets.kogan.com/images/jacobsdigital/JDG-47278985281795/1-db79924cfc-eyjidwnrzxqioij3zwitbmluametaw1hz2vziiwia2v5ijoibgfja2xhbmrzbmv3xc9pbwfnzxncl3byb2rpbwdclzexmjcyxzeuanbniiwizwrpdhmionsicmvzaxplijp7indpzhroijo3mdasimhlawdodci6nzawlcjmaxqioijpbnnpzgu.jpg?width=768&height=512&auto=webp&bg-color=fff&canvas=768%2C512&fit=bounds&quality=90",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B00HQ4W1QE"
+      "discovery_source": "asin-resolved",
+      "asin": "B0CJDG3BF8"
     },
     {
       "id": "df-kinro-3-3-4-wide-2-1-2-long",
@@ -1765,13 +1765,13 @@
       "new_price": null,
       "discount_percent": 54,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B01DA0086M?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=Nostalgic+Ware+Fenton+Porcelain+Enamel+on+Steel&tag=latestdealsdi-20",
       "image": "",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B01DA0086M"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-american-standard-7-8-bathroom-sink-faucet",
@@ -1822,13 +1822,13 @@
       "new_price": null,
       "discount_percent": 46,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B0DRY2QR98?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/dp/B000X9HPNS?tag=latestdealsdi-20",
       "image": "https://cdn.uniflasycook.com/cdn/10662/2026/02/12/For-Weber-Q-Griddle-6506-Cast-Iron-Griddle-for-Weber-Q300-Q320-Q3000-Q3100-Q3200-Series-Gas-Grills-Parts-Grill-Griddle-Insert-for-weber-57060001-58600-4555252-834.jpg",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B0DRY2QR98"
+      "discovery_source": "asin-resolved",
+      "asin": "B000X9HPNS"
     },
     {
       "id": "df-bojue-60-inch-ceiling-fans-with-lights-and-remote-control",
@@ -2097,9 +2097,9 @@
       "asin": "B0DLGZQVGD"
     },
     {
-      "id": "df-vtech-4-showerhead-with-59-hose",
-      "title": "VTech 4\" Showerhead with 59\" Hose",
-      "title_en": "VTech 4\" Showerhead with 59\" Hose",
+      "id": "df-shomixer-4-functions-handheld-showerhead-with-59-hose",
+      "title": "SHOMIXER 4 Functions Handheld Showerhead with 59\" Hose",
+      "title_en": "SHOMIXER 4 Functions Handheld Showerhead with 59\" Hose",
       "category": "Tools & Home Improvement",
       "condition": "Warehouse deal",
       "currency": "USD",
@@ -2107,13 +2107,13 @@
       "new_price": null,
       "discount_percent": 81,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B09VT3FZWH?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/dp/B09QPQRPNJ?tag=latestdealsdi-20",
       "image": "https://img.bobshop.co.za/f_auto,q_auto:eco,c_fit,w_800,h_800,d_notfound.png/https%3A%2F%2Fimages.sello.io%2Fproducts%2Facc%2F52697%2F117073262%2F31bab7b9e3eddbc5750a93f9ec37a92b.jpg",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B09VT3FZWH"
+      "discovery_source": "asin-resolved",
+      "asin": "B09QPQRPNJ"
     },
     {
       "id": "df-vessel-sink-undermount-16-x13-ceramic",
@@ -2126,13 +2126,13 @@
       "new_price": null,
       "discount_percent": 61,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B0DL5JYL3R?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=Vessel+Sink+Undermount+16%27%27x13%27%27+Ceramic&tag=latestdealsdi-20",
       "image": "https://images.thdstatic.com/productImages/74f1cb99-8219-4bd0-9218-3e018258e1fd/svn/gloss-white-lordear-vessel-sinks-hmp8476-64_1000.jpg",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B0DL5JYL3R"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-progress-lighting-p360065-020",
@@ -2297,13 +2297,13 @@
       "new_price": null,
       "discount_percent": 35,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B08P1YT65D?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=maxmill+Gold+Metal+Ring+Pendants%2C+100+Pieces&tag=latestdealsdi-20",
       "image": "https://i5.walmartimages.com/seo/100pcs-10mm-Gold-Plated-Split-Rings-Smooth-Round-Edge-Keychain-Ring-Double-Ring-Jump-Rings-Craft-Making-Wind-Chimes-Clothing-Ornaments-Gold_c46a547a-bf27-4bfd-af9b-a45a89757a90.2cdb51681d0cd925a0ad8abf554715e3.jpeg",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B08P1YT65D"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-stangh-self-adhesive-wall-hooks-3-pcs",
@@ -2335,13 +2335,13 @@
       "new_price": null,
       "discount_percent": 58,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B0CKKNVT2D?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=Tajsoon+3%2F8%27%27+Drive+Ratcheting+Wrench&tag=latestdealsdi-20",
       "image": "https://yaretools.com/wp-content/uploads/2026/03/2749P-3-8-600x600.webp",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B0CKKNVT2D"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-m-mcirco-outdoor-faucet-covers-2-packs",
@@ -2354,13 +2354,13 @@
       "new_price": null,
       "discount_percent": 45,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B0BS8ZTQFL?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=M+MCIRCO+Outdoor+Faucet+Covers%2C+2+Packs&tag=latestdealsdi-20",
       "image": "https://www.picclickimg.com/CCcAAOSwYppnDvPC/Pipe-Covers-for-outside-Faucet-Locks-Outdoor-Water.webp",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B0BS8ZTQFL"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-e-jen-wooden-drawer-fronts-cabinet-door-2-pcs",
@@ -2373,13 +2373,13 @@
       "new_price": null,
       "discount_percent": 62,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B0791S2VCW?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=e-jen+Wooden+Drawer+Fronts+Cabinet+Door%2C+2+Pcs&tag=latestdealsdi-20",
       "image": "https://pl.juanafurniture.net/uploads/39775/panel-flat-door-wooden-kitchen-cabinetd208a.jpg",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B0791S2VCW"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-hananona-3d-flower-wall-decal-3-pack",
@@ -2392,13 +2392,13 @@
       "new_price": null,
       "discount_percent": 51,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B09C6DJHBM?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=Hananona+3D+Flower+Wall+Decal%2C+3-Pack&tag=latestdealsdi-20",
       "image": "https://i5.walmartimages.com/seo/3D-Vase-Wall-Stickers-3-Pcs-Vintage-Flower-Wall-Art-Colorful-Floral-Blossom-Wall-Decals-Self-Adhesive-Bedroom-Peel-Stick-Art-Decals-Living-Room-Sofa_3c5beea2-078c-48da-abc2-430402a553e3.5aa7cdb1183f44053e5e6087df2d599b.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B09C6DJHBM"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-hecasa-2-in-1-lift-garage-door",
@@ -2487,13 +2487,13 @@
       "new_price": null,
       "discount_percent": 58,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B09JSN4GC5?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=USB+Outlet+Receptacle%2C+2+Pack&tag=latestdealsdi-20",
       "image": "https://i5.walmartimages.com/seo/Faith-2-Pack-4-6A-USB-Outlet-and-15A-Decorator-Tamper-Resistant-Duplex-Receptacle-with-Wall-Plate-White-2-Pack_fe9f3c40-a551-4574-b49a-d1ae83bfba49.26244d76390a0e45988f8d91c0be90aa.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B09JSN4GC5"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-dgodrt-black-silicone-keyboard-cover",
@@ -2506,13 +2506,13 @@
       "new_price": null,
       "discount_percent": 39,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B0B2HWY1L5?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=DGODRT+Black+Silicone+Keyboard+Cover&tag=latestdealsdi-20",
       "image": "https://down-vn.img.susercontent.com/file/sg-11134201-7rasd-mb7i58p8jyllb3@resize_w1920_nl.webp",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B0B2HWY1L5"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-hython-acrylic-mirror-sheets",
@@ -2582,13 +2582,13 @@
       "new_price": null,
       "discount_percent": 53,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B0D69MX2X3?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=ALMLZL+11x14+Brown+Picture+Frames&tag=latestdealsdi-20",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41CLzXG5y3L.jpg",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B0D69MX2X3"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-timekettle-fluentalk-t1-mini-translator",
@@ -2639,13 +2639,13 @@
       "new_price": null,
       "discount_percent": 64,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B00KNFGC90?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=McFarlane+Toys+DC+Multiverse&tag=latestdealsdi-20",
       "image": "",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B00KNFGC90"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-pac-2-pack-25mm-carburetor-adjustment-tool",
@@ -2658,13 +2658,13 @@
       "new_price": null,
       "discount_percent": 26,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B001U3ULQO?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=PAC+2+Pack+25mm+Carburetor+Adjustment+Tool&tag=latestdealsdi-20",
       "image": "https://m.media-amazon.com/images/I/31mGy6OA+7L._SL320_.jpg",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B001U3ULQO"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-somiliss-high-waisted-wide-leg-pants",
@@ -2715,13 +2715,13 @@
       "new_price": null,
       "discount_percent": 25,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B08KGLGZW6?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/dp/B002VED42O?tag=latestdealsdi-20",
       "image": "https://img.everymarket.com/ujkvuhs7fzipl7905wpop2wrkz3k?width=600&height=600&format=jpg",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B08KGLGZW6"
+      "discovery_source": "asin-resolved",
+      "asin": "B002VED42O"
     },
     {
       "id": "df-2-in-1-universal-wall-mount-bracket",
@@ -4618,13 +4618,13 @@
       "new_price": null,
       "discount_percent": 70,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B083PP4R6V?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=Kohler+22061-VS+Graze+Semi-Professional%2C+3+Function+Commercial+Kitchen+Faucet+with+Pull+Down+Sprayer%2C+Standard%2C+Vibrant+Stainless&tag=latestdealsdi-20",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31TV6H7ppNL._AC_UL200_SR220,200_.jpg",
       "posted_at": "2026-11-04",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B083PP4R6V"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-dr-meter-fish-scale-110-lb",
