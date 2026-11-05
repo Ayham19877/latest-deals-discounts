@@ -7,6 +7,24 @@
  "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
  "deals": [
   {
+   "id": "df-nike-men-s-court-vision-lo-sc-lifestyle-shoes-sail-midnight-navy-gum-light-brown",
+   "title": "Nike Men's Court Vision Lo SC Lifestyle Shoes, Sail/Midnight Navy-Gum Light Brown, 12",
+   "title_en": "Nike Men's Court Vision Lo SC Lifestyle Shoes, Sail/Midnight Navy-Gum Light Brown, 12",
+   "category": "Clothing, Shoes, & Jewelry",
+   "condition": "",
+   "currency": "USD",
+   "price": 24.95,
+   "new_price": null,
+   "discount_percent": 68,
+   "deal_rating": null,
+   "amazon_url": "https://www.amazon.com/s?k=Nike+Men%27s+Court+Vision+Lo+SC+Lifestyle+Shoes%2C+Sail%2FMidnight+Navy-Gum+Light+Brown%2C+12&tag=latestdealsdi-20",
+   "image": "https://images-na.ssl-images-amazon.com/images/I/31i6hlcFujL._AC_UL200_SR220,200_._SL500_.jpg",
+   "posted_at": "2026-11-05",
+   "updated": "2026-11-05",
+   "verified_on_amazon": false,
+   "discovery_source": "dealforager-discovery-only"
+  },
+  {
    "id": "df-carhartt-men-s-marquette-1-4-zip-mock-neck-sweatshirt-black-x-large",
    "title": "Carhartt Men's Marquette 1/4-Zip Mock-Neck Sweatshirt, Black, X-Large",
    "title_en": "Carhartt Men's Marquette 1/4-Zip Mock-Neck Sweatshirt, Black, X-Large",
