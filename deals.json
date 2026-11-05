@@ -492,13 +492,13 @@
       "new_price": null,
       "discount_percent": 63,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/s?k=ARRIS+SURFboard+mAX+Pro+W31+Tri-Band+Mesh+Ready+Wi-Fi+6+Router%2C+AX11000+Wi-Fi+Speeds+up+to+11+Gbps%2C+Coverage+up+to+3%2C000+sq+ft%2C+1+Router%2C+Alexa+Support&tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/dp/B07M8TZ1KM?tag=latestdealsdi-20",
       "image": "https://www.tanotis.com/cdn/shop/files/1660907119_1719387_800x.jpg?v=1690821661",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "audit-search-url",
-      "asin": null
+      "discovery_source": "audit-title-fix",
+      "asin": "B07M8TZ1KM"
     },
     {
       "id": "df-11-4-carplay-screen-portable-car-display",
@@ -2107,13 +2107,13 @@
       "new_price": null,
       "discount_percent": 81,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/s?k=SHOMIXER+4+Functions+Handheld+Showerhead+with+59%22+Hose&tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/dp/B09QPQRPNJ?tag=latestdealsdi-20",
       "image": "https://img.bobshop.co.za/f_auto,q_auto:eco,c_fit,w_800,h_800,d_notfound.png/https%3A%2F%2Fimages.sello.io%2Fproducts%2Facc%2F52697%2F117073262%2F31bab7b9e3eddbc5750a93f9ec37a92b.jpg",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "audit-search-url",
-      "asin": null
+      "discovery_source": "asin-resolved",
+      "asin": "B09QPQRPNJ"
     },
     {
       "id": "df-vessel-sink-undermount-16-x13-ceramic",
