@@ -93,13 +93,13 @@
       "new_price": null,
       "discount_percent": 71,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B0055D3CAM?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=Leviton+20A+125V+Duplex+Receptacle&tag=latestdealsdi-20",
       "image": "https://media.distributordatasolutions.com/476/csv_leviton/large/9dda52dd9eb91b4f2ffe42f515b567b0ed48f9bd-large.png?did=302&pid=2865188",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B0055D3CAM"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-krowne-16-utility-shelf",
@@ -131,13 +131,13 @@
       "new_price": null,
       "discount_percent": 62,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B01GJH6Y0W?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=Naviskin+Men%27s+UPF+50%2B+Sun+Protection+Long+Sleeve+Shirt&tag=latestdealsdi-20",
       "image": "https://m.media-amazon.com/images/I/61yN527zNdL._AC_SL1500_.jpg",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B01GJH6Y0W"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-jetpilot-mens-venture-long-john-wetsuit",
@@ -169,13 +169,13 @@
       "new_price": null,
       "discount_percent": 56,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B0D94Y4QZH?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=Callaway+Apex+19+Hybrid+Golf+Club&tag=latestdealsdi-20",
       "image": "https://image.globalgolf.com/dynamic/1046669/abr/sole-view/callaway-apex-19-hybrid.jpg?s=350",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B0D94Y4QZH"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-pro-standard-2-pack-youth-soccer-socks",
@@ -283,13 +283,13 @@
       "new_price": null,
       "discount_percent": 62,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/dp/B0GD6GXJVR?tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/s?k=MAYGO+20%22+Outdoor+Patio+Chair+Cushions&tag=latestdealsdi-20",
       "image": "https://m.media-amazon.com/images/I/71zxcdfRnqL._AC_SL1500_.jpg",
       "posted_at": "2026-11-05",
       "updated": "2026-11-05",
       "verified_on_amazon": false,
-      "discovery_source": "dealforager-discovery-only",
-      "asin": "B0GD6GXJVR"
+      "discovery_source": "audit-search-url",
+      "asin": null
     },
     {
       "id": "df-jesimaik-7-5ft-patio-umbrella",
