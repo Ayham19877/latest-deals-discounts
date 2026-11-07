@@ -7,6 +7,25 @@
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
     {
+      "id": "df-motorcycle-half-helmet-dot-approved-adult-men-women-retro-open-face-helmets-for-",
+      "title": "Motorcycle Half Helmet, DOT Approved Adult Men Women Retro Open Face Helmets for Adults, Half Shell Helmets (Black, X-Large)",
+      "title_en": "Motorcycle Half Helmet, DOT Approved Adult Men Women Retro Open Face Helmets for Adults, Half Shell Helmets (Black, X-Large)",
+      "category": "Auto Parts & Accessories",
+      "condition": "",
+      "currency": "USD",
+      "price": 23.68,
+      "new_price": null,
+      "discount_percent": 39,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B0BXYBN4B1?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41ZQp0ES9SL._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-06",
+      "updated": "2026-11-06",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B0BXYBN4B1"
+    },
+    {
       "id": "df-arlington-flbc4580-recessed-power-and-data-round-floor-box-for-existing-or-new-c",
       "title": "Arlington FLBC4580 Recessed Power and Data Round Floor Box for Existing or New Concrete Floor Boxes (Fits in Most 4.5\" Inside Diameter Round PVC Concrete Floor Boxes) (Nickel)",
       "title_en": "Arlington FLBC4580 Recessed Power and Data Round Floor Box for Existing or New Concrete Floor Boxes (Fits in Most 4.5\" Inside Diameter Round PVC Concrete Floor Boxes) (Nickel)",
