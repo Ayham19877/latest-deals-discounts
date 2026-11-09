@@ -196,6 +196,7 @@
       }
       .deal-foot .btn-navy{white-space:nowrap}
       .deal-price .rating{color:#9a5a06;font-weight:700}
+      .deal-seen{color:var(--ink-soft);font-size:12.5px;margin:0 0 8px}
       .deal-foot{display:flex;align-items:center;gap:6px;flex-wrap:wrap;margin-top:auto}
       .deal-foot .btn{padding:6px 10px;font-size:12.5px}
       .deal-foot .btn svg{width:15px;height:15px;stroke:#fff}
@@ -580,6 +581,7 @@
                 '<h3><a class="deal-title-link" href="' + esc(d.amazon_url) + '" target="_blank" rel="noopener">' + esc(d.title) + "</a></h3>" +
                 (d.condition ? '<span class="cond-pill">' + esc(d.condition) + "</span>" : "") +
                 '<p class="deal-price">' + priceHtml + "</p>" +
+                '<div class="deal-seen">Last seen ' + esc(fmtDate(d.last_seen || d.posted_at || d.updated)) + "</div>" +
                 '<div class="deal-foot">' +
                   '<a class="btn btn-navy" href="' + esc(d.amazon_url) + '" target="_blank" rel="noopener">' +
                     '<svg viewBox="0 0 24 24" fill="none" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17 17 7"/><path d="M8 7h9v9"/></svg>' +
