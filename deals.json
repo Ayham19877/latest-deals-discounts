@@ -7,6 +7,26 @@
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
     {
+      "id": "df-samsung-dg92-01232b-range-control-board",
+      "title": "Samsung DG92-01232B Range Control Board",
+      "title_en": "Samsung DG92-01232B Range Control Board",
+      "category": "Appliances",
+      "condition": "",
+      "currency": "USD",
+      "price": 71.99,
+      "new_price": null,
+      "discount_percent": 55,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B0CKS1QJ8C?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31KJBaB1K3L._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-09",
+      "updated": "2026-11-09",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B0CKS1QJ8C",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "df-cr-fence-rail-handrails-for-outdoor-steps-indoor-stair-railing-kit-4-5-steps-saf",
       "title": "CR Fence & Rail Handrails for Outdoor Steps & Indoor Stair Railing Kit, 4-5 Steps Safety Hand Rail for Porch & Deck (Pack of 2)",
       "title_en": "CR Fence & Rail Handrails for Outdoor Steps & Indoor Stair Railing Kit, 4-5 Steps Safety Hand Rail for Porch & Deck (Pack of 2)",
