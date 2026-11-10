@@ -7,6 +7,26 @@
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
     {
+      "id": "df-juicy-couture-faux-fur-leopard-backrest-pillow-30-x17-supportive-bed-rest-pillow",
+      "title": "Juicy Couture Faux Fur Leopard Backrest Pillow - 30\"x17\" Supportive Bed Rest Pillow for Reading, Gaming, or Relaxing",
+      "title_en": "Juicy Couture Faux Fur Leopard Backrest Pillow - 30\"x17\" Supportive Bed Rest Pillow for Reading, Gaming, or Relaxing",
+      "category": "Home & Kitchen",
+      "condition": "",
+      "currency": "USD",
+      "price": 43.54,
+      "new_price": null,
+      "discount_percent": 52,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B0FK5RVLYS?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51hjlFcXPlL._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-09",
+      "updated": "2026-11-09",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B0FK5RVLYS",
+      "last_seen": "2026-11-09"
+    },
+    {
       "id": "df-samsung-dg92-01232b-range-control-board",
       "title": "Samsung DG92-01232B Range Control Board",
       "title_en": "Samsung DG92-01232B Range Control Board",
