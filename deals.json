@@ -2,7 +2,7 @@
   "service": "Latest Deals & Discounts",
   "feed": "Latest Deals & Discounts — Amazon Warehouse (Amazon Resale) picks",
   "source_store": "Amazon Resale (formerly Amazon Warehouse Deals)",
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "sync": "auto-discovery-sync-v1, every 6 hours via GitHub Actions. Prices are as discovered at pull time, not live Amazon-verified prices; check the Used offer on Amazon before buying. Warehouse stock is one-of-one.",
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
@@ -24,7 +24,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0CS932KQP",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-11"
     },
     {
       "id": "df-kubua-slippers-for-men-and-women-comfortable-slip-on-house-shoes",
@@ -44,7 +44,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B08QRF82NY",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-11"
     },
     {
       "id": "df-lavari-jewelers-7-inches-long-wide-open-plain-cuff-bangle-bracelet",
@@ -244,7 +244,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B09N951XK6",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-11"
     },
     {
       "id": "df-juicy-couture-faux-fur-leopard-backrest-pillow-30-x17-supportive-bed-rest-pillow",
@@ -264,7 +264,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0FK5RVLYS",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-11"
     },
     {
       "id": "df-samsung-dg92-01232b-range-control-board",
@@ -284,7 +284,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0CKS1QJ8C",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-11"
     },
     {
       "id": "df-cr-fence-rail-handrails-for-outdoor-steps-indoor-stair-railing-kit-4-5-steps-saf",
@@ -324,7 +324,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0CDCJYLK9",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-11"
     },
     {
       "id": "df-spavzeme-modern-led-chandeliers-dimmable-3-color-kitchen-island-pendant-light-fo",
@@ -344,7 +344,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0D22W9RDC",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-11"
     },
     {
       "id": "df-junk-food-nfl-philadelphia-eagles-bold-logo-adult-ss-t-shirt-black",
@@ -364,7 +364,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B09VB47L5J",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-11"
     },
     {
       "id": "df-southwire-woods-indoor-8-outlet-power-strip-timer-power-strip-with-built-in-mech",
@@ -384,7 +384,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B002L706K4",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-11"
     },
     {
       "id": "df-jonathan-y-boho-medallion-indoor-outdoor-round-area-rug-9-ft-black-gray-malta-te",
@@ -424,7 +424,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0DXYFQ5ML",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-11"
     },
     {
       "id": "df-motorcycle-half-helmet-dot-approved-adult-men-women-retro-open-face-helmets-for-",
@@ -444,7 +444,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0BXYBN4B1",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-11"
     },
     {
       "id": "df-arlington-flbc4580-recessed-power-and-data-round-floor-box-for-existing-or-new-c",
@@ -464,7 +464,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B086VSX11S",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-11"
     },
     {
       "id": "df-xtreme-outdoor-power-equipment-x0239-pto-clutch-compatible-with-replacement-for-",
@@ -484,7 +484,7 @@
       "verified_on_amazon": false,
       "discovery_source": "asin-resolved",
       "asin": "B0B5KF974Q",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-11"
     },
     {
       "id": "df-aofeite-8-ft-raised-garden-bed",
@@ -1822,7 +1822,7 @@
       "updated": "2026-11-05",
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-11"
     },
     {
       "id": "df-kala-ka-c-satin-mahogany-concert-ukulele",
@@ -1900,7 +1900,7 @@
       "verified_on_amazon": false,
       "discovery_source": "asin-resolved",
       "asin": "B0B94J1T7G",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-11"
     },
     {
       "id": "df-merkaunis-round-tablecloth-8-pack-60-inch-black-polyester-washable-cover",
@@ -1920,7 +1920,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0C8HF668Y",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-11"
     },
     {
       "id": "df-mr-pen-bulk-highlighter-set-144-pack-assorted-colors-chisel-tip",
@@ -1940,7 +1940,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0D1V9NPCS",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-11"
     },
     {
       "id": "df-camelbak-women-s-rim-runner-x20-hiking-hydration-pack-50oz-dusty-purple",
@@ -1960,7 +1960,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0DR3948DT",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-11"
     },
     {
       "id": "df-mind-reader-monitor-stand-laptop-riser-desktop-organizer-storage-drawer-office-p",
@@ -1980,7 +1980,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B01D1XUBRO",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-11"
     },
     {
       "id": "df-dr-scholl-s-shoes-women-s-webster-slip-on-loafer-black-10-wide-us",
@@ -2000,7 +2000,7 @@
       "verified_on_amazon": false,
       "discovery_source": "unverifiable-keep",
       "asin": "B07YVT88JC",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-11"
     },
     {
       "id": "df-martha-stewart-honeycomb-modern-farmhouse-tablecloth-charcoal-grey-60-x84",
@@ -2020,7 +2020,7 @@
       "verified_on_amazon": false,
       "discovery_source": "unverifiable-keep",
       "asin": "B0BR5X1GK2",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-11"
     },
     {
       "id": "df-dmi-sports-tan-cricketpro-dartboard-cabinet-designed-for-arachnid-15-5-cricketpr",
@@ -2040,7 +2040,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B09F2KCTK2",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-11"
     },
     {
       "id": "df-yimobra-long-bathroom-rugs-44-x24-extra-soft-non-slip-bath-mat-for-tub-super-abs",
@@ -2060,7 +2060,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0B13ZK91R",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-11"
     },
     {
       "id": "df-naturalizer-soul-women-s-gift-ballet-flat-black-8-5-m",
@@ -2100,7 +2100,7 @@
       "verified_on_amazon": false,
       "discovery_source": "unverifiable-keep",
       "asin": "B088RKQ9GW",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-11"
     },
     {
       "id": "df-emitever-warm-white-led-strip-light-2700k-16-4ft-ip67-waterproof-dimmable",
@@ -2140,7 +2140,7 @@
       "verified_on_amazon": false,
       "discovery_source": "asin-resolved",
       "asin": "B0DQTF6K1S",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-11"
     },
     {
       "id": "df-summit-collars-iscc-050-050-single-split-clamp-shaft-coupler-1cc-050-050-1-2-x-1",
@@ -2160,7 +2160,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0D7DRN32P",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-11"
     },
     {
       "id": "df-champro-formation-5-pad-girdle-adult-2xl-white",
@@ -2180,7 +2180,7 @@
       "verified_on_amazon": false,
       "discovery_source": "asin-resolved",
       "asin": "B0F4F1XBPV",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-11"
     },
     {
       "id": "df-dr-meter-fish-scale-110-lb",
