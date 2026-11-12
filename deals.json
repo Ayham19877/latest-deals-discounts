@@ -2,10 +2,130 @@
   "service": "Latest Deals & Discounts",
   "feed": "Latest Deals & Discounts — Amazon Warehouse (Amazon Resale) picks",
   "source_store": "Amazon Resale (formerly Amazon Warehouse Deals)",
-  "updated": "2026-11-11",
+  "updated": "2026-11-12",
   "sync": "auto-discovery-sync-v1, every 6 hours via GitHub Actions. Prices are as discovered at pull time, not live Amazon-verified prices; check the Used offer on Amazon before buying. Warehouse stock is one-of-one.",
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
+    {
+      "id": "df-leydebong-10-pack-door-knob-with-lock-keyed-alike-door-handles-entry-door-lock-w",
+      "title": "Leydebong 10 Pack Door Knob with Lock, Keyed Alike Door Handles, Entry Door Lock, Wave Style Door Levers, Universal Handing, Drop Lever Shape,Finish in Oil Rubbed Bronze",
+      "title_en": "Leydebong 10 Pack Door Knob with Lock, Keyed Alike Door Handles, Entry Door Lock, Wave Style Door Levers, Universal Handing, Drop Lever Shape,Finish in Oil Rubbed Bronze",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 35.15,
+      "new_price": null,
+      "discount_percent": 79,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B07Z4WVD58?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51lWuK7NU4L._AC_UL200_SR220,200_.jpg",
+      "posted_at": "2026-11-12",
+      "updated": "2026-11-12",
+      "verified_on_amazon": false,
+      "discovery_source": "asin-resolved",
+      "asin": "B07Z4WVD58",
+      "last_seen": "2026-11-12"
+    },
+    {
+      "id": "df-5l-double-bottom-drip-torch-for-wildland-fire-forestry-heavy-duty-cast-iron-with",
+      "title": "5L Double-Bottom Drip Torch for Wildland Fire & Forestry, Heavy-Duty Cast Iron with Fuel Trap & Check Valve, Collapsible for Compact Storage",
+      "title_en": "5L Double-Bottom Drip Torch for Wildland Fire & Forestry, Heavy-Duty Cast Iron with Fuel Trap & Check Valve, Collapsible for Compact Storage",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 37.38,
+      "new_price": null,
+      "discount_percent": 78,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B0GX9Y56CQ?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/21Qf6EctuQL._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-12",
+      "updated": "2026-11-12",
+      "verified_on_amazon": false,
+      "discovery_source": "asin-resolved",
+      "asin": "B0GX9Y56CQ",
+      "last_seen": "2026-11-12"
+    },
+    {
+      "id": "df-ekena-millwork-cm26virzs-26-od-x-3-p-vincent-ceiling-medallion-fits-canopies-up-",
+      "title": "Ekena Millwork CM26VIRZS - 26\"OD x 3\"P Vincent Ceiling Medallion (Fits Canopies up to 6\") - Ceiling Medallion, Rubbed Bronze",
+      "title_en": "Ekena Millwork CM26VIRZS - 26\"OD x 3\"P Vincent Ceiling Medallion (Fits Canopies up to 6\") - Ceiling Medallion, Rubbed Bronze",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 54.43,
+      "new_price": null,
+      "discount_percent": 74,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B07BF1PD48?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51XxphSETyL._AC_UL200_SR220,200_.jpg",
+      "posted_at": "2026-11-12",
+      "updated": "2026-11-12",
+      "verified_on_amazon": false,
+      "discovery_source": "asin-resolved",
+      "asin": "B07BF1PD48",
+      "last_seen": "2026-11-12"
+    },
+    {
+      "id": "df-endurathane-craftsman-crosshead-38-bottom-width-x-46-1-2-top-width-x-12-h-x-1-1-",
+      "title": "Endurathane Craftsman Crosshead, 38\" Bottom Width x 46 1/2\" Top Width x 12\" H x 1 1/4\" P, Factory Primed",
+      "title_en": "Endurathane Craftsman Crosshead, 38\" Bottom Width x 46 1/2\" Top Width x 12\" H x 1 1/4\" P, Factory Primed",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 26.94,
+      "new_price": null,
+      "discount_percent": 80,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B017XYOJSO?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31ngH07QbHL._AC_UL200_SR220,200_.jpg",
+      "posted_at": "2026-11-12",
+      "updated": "2026-11-12",
+      "verified_on_amazon": false,
+      "discovery_source": "asin-resolved",
+      "asin": "B017XYOJSO",
+      "last_seen": "2026-11-12"
+    },
+    {
+      "id": "df-dayton-stainless-steel-33-x-22-x-7-1-16-1-hole-equal-double-bowl-drop-in-sink",
+      "title": "Dayton Stainless Steel 33\" x 22\" x 7-1/16\", 1-Hole Equal Double Bowl Drop-in Sink",
+      "title_en": "Dayton Stainless Steel 33\" x 22\" x 7-1/16\", 1-Hole Equal Double Bowl Drop-in Sink",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 95.67,
+      "new_price": null,
+      "discount_percent": 68,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B001RV22MK?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/310Z8Cmql4L._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-12",
+      "updated": "2026-11-12",
+      "verified_on_amazon": false,
+      "discovery_source": "asin-resolved",
+      "asin": "B001RV22MK",
+      "last_seen": "2026-11-12"
+    },
+    {
+      "id": "df-ge-profile-opal-2-0-countertop-nugget-ice-maker-chewable-nugget-ice-38-lbs-day-f",
+      "title": "GE Profile Opal 2.0 Countertop Nugget Ice Maker | Chewable nugget ice, 38 lbs/day, First batch in 10 min, 3 lb bin, Melted ice reused, SmartHQ WiFi & Alexa, Black Stainless",
+      "title_en": "GE Profile Opal 2.0 Countertop Nugget Ice Maker | Chewable nugget ice, 38 lbs/day, First batch in 10 min, 3 lb bin, Melted ice reused, SmartHQ WiFi & Alexa, Black Stainless",
+      "category": "Industrial & Scientific",
+      "condition": "",
+      "currency": "USD",
+      "price": 244.34,
+      "new_price": null,
+      "discount_percent": 55,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B09SBT74HX?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41IkTMJ3V1L._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-12",
+      "updated": "2026-11-12",
+      "verified_on_amazon": false,
+      "discovery_source": "asin-resolved",
+      "asin": "B09SBT74HX",
+      "last_seen": "2026-11-12"
+    },
     {
       "id": "df-voyager-step-in-flex-adjustable-dog-harness-turquoise-x-large",
       "title": "Voyager Step-in Flex Adjustable Dog Harness - Turquoise, X-Large",
@@ -24,7 +144,7 @@
       "verified_on_amazon": false,
       "discovery_source": "asin-resolved",
       "asin": "B097NPFSDM",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "id": "df-tidyladyo-makeup-organizer-countertop-with-dual-drawers",
@@ -44,7 +164,7 @@
       "verified_on_amazon": false,
       "discovery_source": "asin-resolved",
       "asin": "B0DHX9JJX1",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "id": "df-michael-kors-bryant-medium-double-zip-chain-camera-crossbody-bag-gold-tone-hardw",
@@ -64,7 +184,7 @@
       "verified_on_amazon": false,
       "discovery_source": "asin-resolved",
       "asin": "B0F22S6GSL",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "id": "df-night-cat-tail-bag-multifunctional-waterproof-saddle-bag-motorcycle-rear-seat-un",
@@ -84,7 +204,7 @@
       "verified_on_amazon": false,
       "discovery_source": "asin-resolved",
       "asin": "B0CZDPG45P",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "id": "df-cpowace-sport-roof-compatible-with-2016-2025-polaris-ranger-570-full-size",
@@ -104,7 +224,7 @@
       "verified_on_amazon": false,
       "discovery_source": "asin-resolved",
       "asin": "B0C83WP8F5",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "id": "df-house-guard-sliding-patio-door-handle-set-mortise-lock-3-15-16-black",
@@ -124,7 +244,7 @@
       "verified_on_amazon": false,
       "discovery_source": "asin-resolved",
       "asin": "B09XJ8XT1F",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "id": "df-vevor-4-pack-folding-chairs-portable-folding-card-table-chairs-garden",
@@ -144,7 +264,7 @@
       "verified_on_amazon": false,
       "discovery_source": "asin-resolved",
       "asin": "B0FBWWZ873",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "id": "df-khtumeware-3-pack-18inch-457mm-hole-center-appliance-pulls-vibrant-polished-chro",
@@ -164,7 +284,7 @@
       "verified_on_amazon": false,
       "discovery_source": "asin-resolved",
       "asin": "B0FMHTKBF3",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "id": "df-ekena-millwork-18-w-x-38-h-rustic-two-equal-louver-sandblasted-faux-wood-shutter",
@@ -184,7 +304,7 @@
       "verified_on_amazon": false,
       "discovery_source": "asin-resolved",
       "asin": "B09FCXJG4Y",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "id": "df-15-w-x-42-h-true-fit-pvc-single-x-board-farmhouse-fixed-mount-shutters-unfinishe",
@@ -204,7 +324,7 @@
       "verified_on_amazon": false,
       "discovery_source": "asin-resolved",
       "asin": "B09MR63HKM",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "id": "df-xanso-picture-lights-for-wall-24in-brass-artwork-display-lamp-rotatable-180gold-",
@@ -224,7 +344,7 @@
       "verified_on_amazon": false,
       "discovery_source": "asin-resolved",
       "asin": "B0F7Y1P7MG",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "id": "df-kichler-albers-pendant-light-opal-glass-champagne-bronze-knurled-detailing-adds-",
@@ -244,7 +364,7 @@
       "verified_on_amazon": false,
       "discovery_source": "asin-resolved",
       "asin": "B0BT87LRKM",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "id": "df-ksana-boho-chandelier-17-hemp-rope-pendant-light-with-gold-finish-adjustable-cha",
@@ -264,7 +384,7 @@
       "verified_on_amazon": false,
       "discovery_source": "asin-resolved",
       "asin": "B0FVX97FMB",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "id": "df-31-5-8-od-x-3-5-8-id-x-1-7-8-p-gorleen-ceiling-medallion-fits-canopies-up-to-3-5",
@@ -304,7 +424,7 @@
       "verified_on_amazon": false,
       "discovery_source": "asin-resolved",
       "asin": "B0DZZDSKQ1",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "id": "df-kingston-ks7970tx-bridge-bathroom-faucet-w-brass-pop-up-matte-black",
@@ -364,7 +484,7 @@
       "verified_on_amazon": false,
       "discovery_source": "asin-resolved",
       "asin": "B004MKLRTC",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "id": "df-sr-sun-rise-16-inch-ceiling-mount-rain-shower-system-brushed-gold-highpressure-s",
@@ -424,7 +544,7 @@
       "verified_on_amazon": false,
       "discovery_source": "asin-resolved",
       "asin": "B0GQMP9S9R",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "id": "df-goo-ki-brushed-copper-zinc-alloy-cabinet-handles-12-6-320mm-hole-center-affordab",
@@ -444,7 +564,7 @@
       "verified_on_amazon": false,
       "discovery_source": "asin-resolved",
       "asin": "B0GK8PPG9Z",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "id": "df-14-1-2-w-x-75-h-lifetime-vinyl-standard-cathedral-top-center-mullion-open-louver",
@@ -964,7 +1084,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0DSJZVT7R",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "id": "df-avla-asparagus-pot-4-quart-stainless-steel-steamer-cooker-vegetable-asparagus-co",
@@ -1024,7 +1144,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0D9H9TKM6",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "id": "df-nilight-headlight-assembly-compatible-with-2006-2007-2008-2009-2010-toyota-sienn",
@@ -1164,7 +1284,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0018OHBUY",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     {
       "id": "df-b-belk-for-macbook-air-15-inch-case-2026-2025-2023-m5-m4-m3-m2-airy-blue",
