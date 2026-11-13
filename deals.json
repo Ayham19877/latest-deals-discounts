@@ -7,6 +7,26 @@
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
     {
+      "id": "df-liyelonda-shower-head-with-handheld-high-pressure-rain-shower-head-with-fixed-sh",
+      "title": "Liyelonda Shower Head with Handheld High Pressure, Rain Shower Head with Fixed Showerhead and 9 Sprays Handheld Shower, Detachable 2-IN-1 Shower head with 59\" Rotatable Stainless Steel Hose (Nickel)",
+      "title_en": "Liyelonda Shower Head with Handheld High Pressure, Rain Shower Head with Fixed Showerhead and 9 Sprays Handheld Shower, Detachable 2-IN-1 Shower head with 59\" Rotatable Stainless Steel Hose (Nickel)",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 50.74,
+      "new_price": null,
+      "discount_percent": 70,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/s?k=Liyelonda+Shower+Head+with+Handheld+High+Pressure%2C+Rain+Shower+Head+with+Fixed+Showerhead+and+9+Sprays+Handheld+Shower%2C+Detachable+2-IN-1+Shower+head+with+59%22+Rotatable+Stainless+Steel+Hose+%28Nickel%29&tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51YGrbpbHoL._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-13",
+      "updated": "2026-11-13",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": null,
+      "last_seen": "2026-11-13"
+    },
+    {
       "id": "df-decoktool-3100psi-wall-mounted-powerwasher-with-4-quick-connect-nozzles-foam-can",
       "title": "DECOKTOOL 3100PSI Wall Mounted PowerWasher with 4 Quick Connect Nozzles, Foam Cannon for Car, Lane, Patio Cleaning",
       "title_en": "DECOKTOOL 3100PSI Wall Mounted PowerWasher with 4 Quick Connect Nozzles, Foam Cannon for Car, Lane, Patio Cleaning",
@@ -564,7 +584,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B08DL4QB25",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "df-copper-creek-cz2610xzl-bc-mid-century-modern-entrance-handleset-in-black-with-za",
