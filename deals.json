@@ -7,6 +7,46 @@
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
     {
+      "id": "df-kingston-brass-kb1605al-heritage-4-inch-centerset-lavatory-faucet-with-metal-lev",
+      "title": "Kingston Brass KB1605AL Heritage 4-Inch Centerset Lavatory Faucet with Metal Lever Handle, Oil Rubbed Bronze",
+      "title_en": "Kingston Brass KB1605AL Heritage 4-Inch Centerset Lavatory Faucet with Metal Lever Handle, Oil Rubbed Bronze",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 28.28,
+      "new_price": null,
+      "discount_percent": 81,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/s?k=Kingston+Brass+KB1605AL+Heritage+4-Inch+Centerset+Lavatory+Faucet+with+Metal+Lever+Handle%2C+Oil+Rubbed+Bronze&tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31AzRirMIUS._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-13",
+      "updated": "2026-11-13",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": null,
+      "last_seen": "2026-11-13"
+    },
+    {
+      "id": "df-prime-line-9066877-eye-bolts-with-nuts-3-8-in-16-x-8-in-zinc-plated-steel-20-pac",
+      "title": "Prime-Line 9066877 Eye Bolts with Nuts, 3/8 in.-16 X 8 in., Zinc Plated Steel (20 Pack)",
+      "title_en": "Prime-Line 9066877 Eye Bolts with Nuts, 3/8 in.-16 X 8 in., Zinc Plated Steel (20 Pack)",
+      "category": "Industrial & Scientific",
+      "condition": "",
+      "currency": "USD",
+      "price": 11.83,
+      "new_price": null,
+      "discount_percent": 79,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/s?k=Prime-Line+9066877+Eye+Bolts+with+Nuts%2C+3%2F8+in.-16+X+8+in.%2C+Zinc+Plated+Steel+%2820+Pack%29&tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/21mg+ZPn51L._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-13",
+      "updated": "2026-11-13",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": null,
+      "last_seen": "2026-11-13"
+    },
+    {
       "id": "df-reko-lighting-r2000-air-purifier-whole-house-uv-uvc-light-in-duct-for-hvac-ac-ai",
       "title": "REKO Lighting R2000 Air Purifier Whole House Uv uvc Light in Duct for HVAC Ac (Air Conditioning) Duct",
       "title_en": "REKO Lighting R2000 Air Purifier Whole House Uv uvc Light in Duct for HVAC Ac (Air Conditioning) Duct",
@@ -1104,7 +1144,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0DJ2WK47R",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "df-leviton-20a-125v-extra-heavy-duty-hospital-grade-non-tamper-resistant-duplex-sel",
