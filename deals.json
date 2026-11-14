@@ -7,6 +7,26 @@
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
     {
+      "id": "df-lt-vt-crystal-chandelier-modern-luxury-chandelier-ceiling-lights-fixture-for-din",
+      "title": "Lt-vt Crystal Chandelier Modern Luxury Chandelier Ceiling Lights Fixture for Dining Living Room 9-Lights 3-Tier Raindrop Chandeliers Lighting (Chrome, Dia 24 Inch)",
+      "title_en": "Lt-vt Crystal Chandelier Modern Luxury Chandelier Ceiling Lights Fixture for Dining Living Room 9-Lights 3-Tier Raindrop Chandeliers Lighting (Chrome, Dia 24 Inch)",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 100.93,
+      "new_price": null,
+      "discount_percent": 72,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B09DBQYKNT?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51NRnlAx2yL._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-14",
+      "updated": "2026-11-14",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B09DBQYKNT",
+      "last_seen": "2026-11-14"
+    },
+    {
       "id": "df-shark-hydrovac-messmaster-cordless-wet-dry-vacuum-mop-self-clean-wd261-3-in-1-va",
       "title": "Shark HydroVac MessMaster Cordless Wet Dry Vacuum, Mop & Self-Clean, WD261 | 3-in-1 Vacuum, Mop & Self-Cleaning System, Lightweight, Powerful Suction for Hard Floors & Area Rugs",
       "title_en": "Shark HydroVac MessMaster Cordless Wet Dry Vacuum, Mop & Self-Clean, WD261 | 3-in-1 Vacuum, Mop & Self-Cleaning System, Lightweight, Powerful Suction for Hard Floors & Area Rugs",
@@ -2284,7 +2304,7 @@
       "verified_on_amazon": false,
       "discovery_source": "asin-resolved",
       "asin": "B004MKLRTC",
-      "last_seen": "2026-11-13"
+      "last_seen": "2026-11-14"
     },
     {
       "id": "df-sr-sun-rise-16-inch-ceiling-mount-rain-shower-system-brushed-gold-highpressure-s",
