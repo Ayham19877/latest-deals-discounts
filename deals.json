@@ -7,6 +7,26 @@
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
     {
+      "id": "df-progress-lighting-kene-3-light-bath-vanity-light-brushed-nickel-craftsman-vanity",
+      "title": "Progress Lighting Kene 3-Light Bath Vanity Light, Brushed Nickel | Craftsman vanity light with layered clear and etched glass shades for bathrooms (23.5\" x 7.5\" x 8\"), P300122-009",
+      "title_en": "Progress Lighting Kene 3-Light Bath Vanity Light, Brushed Nickel | Craftsman vanity light with layered clear and etched glass shades for bathrooms (23.5\" x 7.5\" x 8\"), P300122-009",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 94.21,
+      "new_price": null,
+      "discount_percent": 68,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B083ZJRF31?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31Jo6PvKxnL._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-14",
+      "updated": "2026-11-14",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B083ZJRF31",
+      "last_seen": "2026-11-14"
+    },
+    {
       "id": "df-schlage-front-door-handleset-right-hand-accent-lever-matte-black-exterior-front-",
       "title": "SCHLAGE Front Door Handleset, Right Hand Accent Lever, Matte Black | Exterior front door handleset with deadbolt & handed interior lever, Easy install, Certified security & durability, 2 keys",
       "title_en": "SCHLAGE Front Door Handleset, Right Hand Accent Lever, Matte Black | Exterior front door handleset with deadbolt & handed interior lever, Easy install, Certified security & durability, 2 keys",
@@ -1124,7 +1144,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0FD9YVN24",
-      "last_seen": "2026-11-13"
+      "last_seen": "2026-11-14"
     },
     {
       "id": "df-solino-home-100-linen-tablecloth-for-rectangle-tables-pink-60-x-132-in-table-clo",
