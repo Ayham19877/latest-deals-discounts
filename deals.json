@@ -2,10 +2,30 @@
   "service": "Latest Deals & Discounts",
   "feed": "Latest Deals & Discounts — Amazon Warehouse (Amazon Resale) picks",
   "source_store": "Amazon Resale (formerly Amazon Warehouse Deals)",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "sync": "auto-discovery-sync-v1, every 6 hours via GitHub Actions. Prices are as discovered at pull time, not live Amazon-verified prices; check the Used offer on Amazon before buying. Warehouse stock is one-of-one.",
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
+    {
+      "id": "df-dewalt-20v-max-premium-lithium-ion-6-0ah-battery-pack-2-pack",
+      "title": "DEWALT 20V MAX Premium Lithium-Ion 6.0Ah Battery Pack (2 Pack)",
+      "title_en": "DEWALT 20V MAX Premium Lithium-Ion 6.0Ah Battery Pack (2 Pack)",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 114.0,
+      "new_price": null,
+      "discount_percent": 59,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B01M751WC3?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41IoAicuP7L._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-14",
+      "updated": "2026-11-14",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B01M751WC3",
+      "last_seen": "2026-11-14"
+    },
     {
       "id": "df-kingston-brass-kb1605al-heritage-4-inch-centerset-lavatory-faucet-with-metal-lev",
       "title": "Kingston Brass KB1605AL Heritage 4-Inch Centerset Lavatory Faucet with Metal Lever Handle, Oil Rubbed Bronze",
@@ -1484,7 +1504,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0FD986CNK",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-14"
     },
     {
       "id": "df-wingbo-48-dc-ceiling-fan-without-lights-4-carved-solid-wood-blades-6-speed-noise",
