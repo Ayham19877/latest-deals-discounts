@@ -7,6 +7,26 @@
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
     {
+      "id": "df-17-1-2-w-x-72-h-americraft-five-board-2-batten-exterior-real-wood-joined-board-n",
+      "title": "17 1/2\"W x 72\"H Americraft Five Board (2 Batten) Exterior Real Wood Joined Board-n-Batten Shutters w/Z-Bar (Per Pair), Unfinished",
+      "title_en": "17 1/2\"W x 72\"H Americraft Five Board (2 Batten) Exterior Real Wood Joined Board-n-Batten Shutters w/Z-Bar (Per Pair), Unfinished",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 101.24,
+      "new_price": null,
+      "discount_percent": 80,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B0BJ18SK2X?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41IRy1rrqiL._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-14",
+      "updated": "2026-11-14",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B0BJ18SK2X",
+      "last_seen": "2026-11-14"
+    },
+    {
       "id": "df-alstu-extra-large-inflatable-pool-with-pump-121-x-90-x-22-full-sized-blow-up-poo",
       "title": "ALSTU Extra Large Inflatable Pool with Pump, 121\" X 90\" X 22\" Full-Sized Blow Up Pool with Seats for Adults, Family Inflatable Swimming Pool for Summer Water Party Backyard Garden Lawn",
       "title_en": "ALSTU Extra Large Inflatable Pool with Pump, 121\" X 90\" X 22\" Full-Sized Blow Up Pool with Seats for Adults, Family Inflatable Swimming Pool for Summer Water Party Backyard Garden Lawn",
@@ -2664,7 +2684,7 @@
       "verified_on_amazon": false,
       "discovery_source": "asin-resolved",
       "asin": "B0B3SCXDP7",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-14"
     },
     {
       "id": "df-gates-27418-multi-use-hose-50-length-inner-diameter-3-4-replaces-33210-80033-800",
