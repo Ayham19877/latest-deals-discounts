@@ -7,6 +7,26 @@
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
     {
+      "id": "df-rubber-cal-air-ventilator-orange-flexible-ducting-18-diameter-x-25ft",
+      "title": "Rubber-Cal \"Air Ventilator Orange\" Flexible Ducting - 18\" Diameter x 25ft",
+      "title_en": "Rubber-Cal \"Air Ventilator Orange\" Flexible Ducting - 18\" Diameter x 25ft",
+      "category": "Industrial & Scientific",
+      "condition": "",
+      "currency": "USD",
+      "price": 115.42,
+      "new_price": null,
+      "discount_percent": 73,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B01GKB8Z2C?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51syb5GLffL._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-14",
+      "updated": "2026-11-14",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B01GKB8Z2C",
+      "last_seen": "2026-11-14"
+    },
+    {
       "id": "df-progress-lighting-kene-3-light-bath-vanity-light-brushed-nickel-craftsman-vanity",
       "title": "Progress Lighting Kene 3-Light Bath Vanity Light, Brushed Nickel | Craftsman vanity light with layered clear and etched glass shades for bathrooms (23.5\" x 7.5\" x 8\"), P300122-009",
       "title_en": "Progress Lighting Kene 3-Light Bath Vanity Light, Brushed Nickel | Craftsman vanity light with layered clear and etched glass shades for bathrooms (23.5\" x 7.5\" x 8\"), P300122-009",
