@@ -7,6 +7,26 @@
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
     {
+      "id": "df-dolria-modern-ring-chandelier-crystal-chandeliers-for-dining-room-round-ceiling-",
+      "title": "dolria Modern Ring Chandelier Crystal Chandeliers for Dining Room Round Ceiling Light Fixture for Living Room Bedroom Lighting LED Dimmable with Remote Ring Lights Black",
+      "title_en": "dolria Modern Ring Chandelier Crystal Chandeliers for Dining Room Round Ceiling Light Fixture for Living Room Bedroom Lighting LED Dimmable with Remote Ring Lights Black",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 223.5,
+      "new_price": null,
+      "discount_percent": 62,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B0DZWWHW6N?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/512ALv7B4pL._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-14",
+      "updated": "2026-11-14",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B0DZWWHW6N",
+      "last_seen": "2026-11-14"
+    },
+    {
       "id": "df-permanent-outdoor-lights-with-remote-150ft-with-90-rgb-ic-led-lights-for-house-d",
       "title": "Permanent Outdoor Lights with Remote, 150ft with 90 RGB-IC LED Lights for House Daily & Holiday Lighting , IP67 Waterproof, 90+ Scene Modes for Outdoor Decor, 2 in 1 Use for Eaves & Ground Lighting",
       "title_en": "Permanent Outdoor Lights with Remote, 150ft with 90 RGB-IC LED Lights for House Daily & Holiday Lighting , IP67 Waterproof, 90+ Scene Modes for Outdoor Decor, 2 in 1 Use for Eaves & Ground Lighting",
@@ -564,7 +584,7 @@
       "verified_on_amazon": false,
       "discovery_source": "asin-resolved",
       "asin": "B0D3JF33J8",
-      "last_seen": "2026-11-13"
+      "last_seen": "2026-11-14"
     },
     {
       "id": "df-atlas-lighting-wlm64led-64-watt-led-classic-wall-pack-medium-housing-4500k",
