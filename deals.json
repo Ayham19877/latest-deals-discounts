@@ -7,6 +7,26 @@
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
     {
+      "id": "df-2026-new-sk01-solar-pool-skimmer-robot-with-app-onyx-pearl-auto-surface-cleaning",
+      "title": "[2026 NEW] SK01 Solar Pool Skimmer Robot with APP, Onyx & Pearl | Auto Surface Cleaning, 24/7 Cleaning, Dual Charging Modes, Obstacle Avoidance, Large Filter, Ideal for Most Pool Surfaces",
+      "title_en": "[2026 NEW] SK01 Solar Pool Skimmer Robot with APP, Onyx & Pearl | Auto Surface Cleaning, 24/7 Cleaning, Dual Charging Modes, Obstacle Avoidance, Large Filter, Ideal for Most Pool Surfaces",
+      "category": "Garden & Outdoor",
+      "condition": "",
+      "currency": "USD",
+      "price": 130.16,
+      "new_price": null,
+      "discount_percent": 70,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B0HBVKNHT9?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41pf61KYlvL._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-15",
+      "updated": "2026-11-15",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B0HBVKNHT9",
+      "last_seen": "2026-11-15"
+    },
+    {
       "id": "df-aflcbyh-crystal-chandelier-6-lights-vintage-dining-room-light-fixture-gold-chand",
       "title": "AFLCBYH Crystal Chandelier, 6 Lights Vintage Dining Room Light Fixture, Gold Chandeliers for Living Room Bedroom Entryway Kitchen Island Hallway (G9 Bulbs Not Included",
       "title_en": "AFLCBYH Crystal Chandelier, 6 Lights Vintage Dining Room Light Fixture, Gold Chandeliers for Living Room Bedroom Entryway Kitchen Island Hallway (G9 Bulbs Not Included",
@@ -1764,7 +1784,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B01HD4E0LK",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "df-delta-modern-14-series-round-rain-shower-system-faucet-set-rainfall-chrome-showe",
