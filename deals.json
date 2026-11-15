@@ -7,6 +7,26 @@
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
     {
+      "id": "df-kingston-ks2430rkx-single-handle-kitchen-faucet-matte-black",
+      "title": "Kingston KS2430RKX Single-Handle Kitchen Faucet, Matte Black",
+      "title_en": "Kingston KS2430RKX Single-Handle Kitchen Faucet, Matte Black",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 181.82,
+      "new_price": null,
+      "discount_percent": 67,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B0CJCRCVQD?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31Sdi8LqfJL._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-15",
+      "updated": "2026-11-15",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B0CJCRCVQD",
+      "last_seen": "2026-11-15"
+    },
+    {
       "id": "df-1100w-air-blower-for-inflatables-commercial-bounce-house-electric-blower-work-fo",
       "title": "1100W Air Blower for Inflatables: Commercial Bounce House Electric Blower - Work for Bouncy Castle Jump Slides Water Slides Inflatable Arch",
       "title_en": "1100W Air Blower for Inflatables: Commercial Bounce House Electric Blower - Work for Bouncy Castle Jump Slides Water Slides Inflatable Arch",
@@ -304,7 +324,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B01GKB8Z2C",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "df-progress-lighting-kene-3-light-bath-vanity-light-brushed-nickel-craftsman-vanity",
@@ -1884,7 +1904,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0DRLJJMJZ",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "df-pool-alarm-with-home-receiver-110db-loud-floating-safety-pool-alarms-with-app-re",
@@ -2304,7 +2324,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0FD986CNK",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "df-wingbo-48-dc-ceiling-fan-without-lights-4-carved-solid-wood-blades-6-speed-noise",
