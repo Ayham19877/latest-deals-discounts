@@ -2,10 +2,110 @@
   "service": "Latest Deals & Discounts",
   "feed": "Latest Deals & Discounts — Amazon Warehouse (Amazon Resale) picks",
   "source_store": "Amazon Resale (formerly Amazon Warehouse Deals)",
-  "updated": "2026-11-14",
+  "updated": "2026-11-15",
   "sync": "auto-discovery-sync-v1, every 6 hours via GitHub Actions. Prices are as discovered at pull time, not live Amazon-verified prices; check the Used offer on Amazon before buying. Warehouse stock is one-of-one.",
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
+    {
+      "id": "df-modway-render-35-mdf-wood-wall-mount-bathroom-vanity-cabinet-in-oak",
+      "title": "Modway Render 35\" MDF Wood Wall-Mount Bathroom Vanity Cabinet in Oak",
+      "title_en": "Modway Render 35\" MDF Wood Wall-Mount Bathroom Vanity Cabinet in Oak",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 84.93,
+      "new_price": null,
+      "discount_percent": 68,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B0BLZ2XSJ8?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41u40ySVVSL._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-15",
+      "updated": "2026-11-15",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B0BLZ2XSJ8",
+      "last_seen": "2026-11-15"
+    },
+    {
+      "id": "df-kraus-dex-33-inch-undermount-16-gauge-stainless-steel-single-bowl-kitchen-sink-k",
+      "title": "KRAUS Dex 33-inch Undermount 16 Gauge Stainless Steel Single Bowl Kitchen Sink, KD1US33B",
+      "title_en": "KRAUS Dex 33-inch Undermount 16 Gauge Stainless Steel Single Bowl Kitchen Sink, KD1US33B",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 212.29,
+      "new_price": null,
+      "discount_percent": 52,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B075S8QMZT?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/416MR+6UCsL._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-15",
+      "updated": "2026-11-15",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B075S8QMZT",
+      "last_seen": "2026-11-15"
+    },
+    {
+      "id": "df-bublue-buvortex-v5-pool-skimmer-robot-pool-skimmer-with-ai-navigation",
+      "title": "BUBLUE BuVortex V5 Pool Skimmer Robot,Pool Skimmer with AI Navigation",
+      "title_en": "BUBLUE BuVortex V5 Pool Skimmer Robot,Pool Skimmer with AI Navigation",
+      "category": "Garden & Outdoor",
+      "condition": "",
+      "currency": "USD",
+      "price": 162.61,
+      "new_price": null,
+      "discount_percent": 67,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B0H2H9CJ45?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41yDZJZ8aoL._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-15",
+      "updated": "2026-11-15",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B0H2H9CJ45",
+      "last_seen": "2026-11-15"
+    },
+    {
+      "id": "df-plantronics-cs540-convertible-wireless-headset-with-hl10-handset-lifter-renewed",
+      "title": "Plantronics-CS540 Convertible Wireless Headset with HL10 Handset Lifter (Renewed)",
+      "title_en": "Plantronics-CS540 Convertible Wireless Headset with HL10 Handset Lifter (Renewed)",
+      "category": "Electronics",
+      "condition": "",
+      "currency": "USD",
+      "price": 74.67,
+      "new_price": null,
+      "discount_percent": 88,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B0859GZH98?tag=latestdealsdi-20",
+      "image": "",
+      "posted_at": "2026-11-15",
+      "updated": "2026-11-15",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B0859GZH98",
+      "last_seen": "2026-11-15"
+    },
+    {
+      "id": "df-air-quality-monitor-indoor-air-quality-monitor-indoor",
+      "title": "Air Quality Monitor Indoor | Air Quality Monitor Indoor",
+      "title_en": "Air Quality Monitor Indoor | Air Quality Monitor Indoor",
+      "category": "Industrial & Scientific",
+      "condition": "",
+      "currency": "USD",
+      "price": 41.37,
+      "new_price": null,
+      "discount_percent": 72,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B0G359X29J?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41iXrfQf+9L._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-15",
+      "updated": "2026-11-15",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B0G359X29J",
+      "last_seen": "2026-11-15"
+    },
     {
       "id": "df-decozayn-pre-cut-wall-molding-kit-wall-trim-molding-3-sets-item-panel-moulding-f",
       "title": "DECOZAYN Pre-Cut Wall Molding Kit, Wall Trim Molding, 3 Sets Item | Panel Moulding for compatible accent wall trim projects; pre-cut and ready to install; paintable",
@@ -44,7 +144,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0FJL1MYZB",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "df-sarlai-33-farmhouse-sink-black-stainless-steel-33-inch-apron-front-kitchen-sink-",
@@ -124,7 +224,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0DGPHGQ43",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "df-huanyu-power-feed-x-axis-for-milling-machine-auto-power-table-feed-driller-workt",
@@ -244,7 +344,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0GQT5ZQ31",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "df-misakomo-100pcs-chain-link-fence-sign-mounts-fastener-brackets-clamps-black-plas",
@@ -344,7 +444,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0G8CG79HP",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "df-kraus-fairlane-33-inch-undermount-double-bowl-18-gauge-stainless-steel-kitchen-s",
@@ -364,7 +464,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0D9MWSKYJ",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "df-271gal-pool-float-storage-super-large-capacity-metal-frame-360-wheels-for-outdoo",
@@ -384,7 +484,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0DSJ4KH91",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "df-generation-lighting-8039-71-lancaster-traditional-two-light-outdoor-wall-lantern",
@@ -404,7 +504,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B000ROBE68",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "df-goodyear-600h300-trapezoidal-timing-belt-h-profile-60-0-in-pitch-length-3-in-wid",
@@ -444,7 +544,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0D2J2K5BJ",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "df-adidas-womens-ultraboost-1-0-ecru-tint-ecru-tint-semi-coral-fusion-9-5",
@@ -464,7 +564,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B09VCMYY56",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "df-fujifilm-instax-share-sp-2-mobile-printer-gold",
@@ -644,7 +744,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B09DBQYKNT",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "df-shark-hydrovac-messmaster-cordless-wet-dry-vacuum-mop-self-clean-wd261-3-in-1-va",
@@ -724,7 +824,7 @@
       "verified_on_amazon": false,
       "discovery_source": "asin-resolved",
       "asin": "B074ZMYBR2",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "df-reko-lighting-r2000-air-purifier-whole-house-uv-uvc-light-in-duct-for-hvac-ac-ai",
@@ -804,7 +904,7 @@
       "verified_on_amazon": false,
       "discovery_source": "asin-resolved",
       "asin": "B0H1NB5RTM",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "df-decoktool-3100psi-wall-mounted-powerwasher-with-4-quick-connect-nozzles-foam-can",
@@ -1304,7 +1404,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0FD9YVN24",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "df-solino-home-100-linen-tablecloth-for-rectangle-tables-pink-60-x-132-in-table-clo",
@@ -1524,7 +1624,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0FHQ33D84",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "df-tooliom-ewla-2-tig-tungsten-electrodes-blue-1-8-x-7-in-10-pack-2-lanthanated-tun",
@@ -1884,7 +1984,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0GZ17VNHG",
-      "last_seen": "2026-11-13"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "df-wagner-spraytech-furno-550-18v-cordless-heat-gun-bare-tool-variable-temperature-",
