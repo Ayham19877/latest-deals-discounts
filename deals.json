@@ -7,6 +7,26 @@
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
     {
+      "id": "df-drywall-skimming-blades-3-sizes-stainless-steel-plaster-smoothing-finishing-3-si",
+      "title": "Drywall Skimming Blades 3 Sizes Stainless Steel Plaster Smoothing Finishing | 3-Size Stainless Steel Drywall Skimming Blade Set With Aluminum Handle For Flawless Drywall & Plaster Finishing",
+      "title_en": "Drywall Skimming Blades 3 Sizes Stainless Steel Plaster Smoothing Finishing | 3-Size Stainless Steel Drywall Skimming Blade Set With Aluminum Handle For Flawless Drywall & Plaster Finishing",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 21.03,
+      "new_price": null,
+      "discount_percent": 78,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B0H3N91WSM?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31tXhDd-KkL._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-15",
+      "updated": "2026-11-15",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B0H3N91WSM",
+      "last_seen": "2026-11-15"
+    },
+    {
       "id": "df-modway-render-35-mdf-wood-wall-mount-bathroom-vanity-cabinet-in-oak",
       "title": "Modway Render 35\" MDF Wood Wall-Mount Bathroom Vanity Cabinet in Oak",
       "title_en": "Modway Render 35\" MDF Wood Wall-Mount Bathroom Vanity Cabinet in Oak",
@@ -3024,7 +3044,7 @@
       "verified_on_amazon": false,
       "discovery_source": "asin-resolved",
       "asin": "B004MKLRTC",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "df-sr-sun-rise-16-inch-ceiling-mount-rain-shower-system-brushed-gold-highpressure-s",
