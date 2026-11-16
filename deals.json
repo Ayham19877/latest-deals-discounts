@@ -7,6 +7,26 @@
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
     {
+      "id": "df-snap-on-screens-12-x-8-garage-screen-includes-zipper-storage-kit-easy-assembly-e",
+      "title": "Snap On Screens 12' x 8' Garage Screen, Includes Zipper & Storage Kit, Easy Assembly, Easy Pass Through",
+      "title_en": "Snap On Screens 12' x 8' Garage Screen, Includes Zipper & Storage Kit, Easy Assembly, Easy Pass Through",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 61.52,
+      "new_price": null,
+      "discount_percent": 67,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B00V07FB6U?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31U0-ArwDnL._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-16",
+      "updated": "2026-11-16",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B00V07FB6U",
+      "last_seen": "2026-11-16"
+    },
+    {
       "id": "df-tunkayli-12-3-pendant-light-for-kitchen-island-1-light-drum-chandelier-3-tier-li",
       "title": "Tunkayli 12.3\" Pendant Light for Kitchen Island, 1-Light Drum Chandelier | 3-Tier Linen Fabric Shade, Gold Hardware, Small Modern Farmhouse Hanging Light for Bedroom, Dining Room, Foyer, No Assembly",
       "title_en": "Tunkayli 12.3\" Pendant Light for Kitchen Island, 1-Light Drum Chandelier | 3-Tier Linen Fabric Shade, Gold Hardware, Small Modern Farmhouse Hanging Light for Bedroom, Dining Room, Foyer, No Assembly",
@@ -604,7 +624,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0FPM6LCDK",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "df-seenming-house-led-24w-adjustable-3000-4000-5000k-18-inch-drum-lenin-fabric-blac",
