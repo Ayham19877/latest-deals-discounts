@@ -7,6 +7,46 @@
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
     {
+      "id": "df-2-in-1-slushie-machine-no-ice-needed",
+      "title": "2-in-1 Slushie Machine | No Ice Needed",
+      "title_en": "2-in-1 Slushie Machine | No Ice Needed",
+      "category": "Industrial & Scientific",
+      "condition": "",
+      "currency": "USD",
+      "price": 90.23,
+      "new_price": null,
+      "discount_percent": 74,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B0H69CSKTH?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41SQ2ruZ3FL._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-16",
+      "updated": "2026-11-16",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B0H69CSKTH",
+      "last_seen": "2026-11-16"
+    },
+    {
+      "id": "df-kobe-range-hoods-rax2142sqb-2-under-cabinet-range-hood-700-cfm-stainless-steel",
+      "title": "KOBE Range Hoods RAX2142SQB-2 Under Cabinet Range Hood, 700 CFM, Stainless Steel",
+      "title_en": "KOBE Range Hoods RAX2142SQB-2 Under Cabinet Range Hood, 700 CFM, Stainless Steel",
+      "category": "Appliances",
+      "condition": "",
+      "currency": "USD",
+      "price": 180.5,
+      "new_price": null,
+      "discount_percent": 72,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B0B3SDRV9B?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31ZRim7l8UL._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-16",
+      "updated": "2026-11-16",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B0B3SDRV9B",
+      "last_seen": "2026-11-16"
+    },
+    {
       "id": "df-dewalt-20v-max-xr-drill-driver-brushless-3-speed-tool-only-dcd991b-3-speed-brush",
       "title": "DEWALT 20V MAX XR Drill/Driver, Brushless, 3 Speed, Tool Only (DCD991B) | 3 Speed, Brushless, Tool Only, Brushless motor",
       "title_en": "DEWALT 20V MAX XR Drill/Driver, Brushless, 3 Speed, Tool Only (DCD991B) | 3 Speed, Brushless, Tool Only, Brushless motor",
@@ -2984,7 +3024,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0FD9YVN24",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "df-solino-home-100-linen-tablecloth-for-rectangle-tables-pink-60-x-132-in-table-clo",
