@@ -7,6 +7,26 @@
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
     {
+      "id": "df-livex-lighting-51053-91-flush-mount-brushed-nickel-off-white-fabric-hardback-sha",
+      "title": "Livex Lighting 51053-91 Flush Mount, Brushed Nickel | Off-White Fabric Hardback Shade",
+      "title_en": "Livex Lighting 51053-91 Flush Mount, Brushed Nickel | Off-White Fabric Hardback Shade",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 55.73,
+      "new_price": null,
+      "discount_percent": 66,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B00XKAS28E?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/21Uxggc-6oL._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-16",
+      "updated": "2026-11-16",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B00XKAS28E",
+      "last_seen": "2026-11-16"
+    },
+    {
       "id": "df-tipace-6-lights-dimmable-led-modern-vanity-lights-for-bathroom-chrome-bathroom-w",
       "title": "Tipace 6 Lights Dimmable LED Modern Vanity Lights for Bathroom, Chrome Bathroom Wall Light Fixtures Over Mirror (White Light 6000K)",
       "title_en": "Tipace 6 Lights Dimmable LED Modern Vanity Lights for Bathroom, Chrome Bathroom Wall Light Fixtures Over Mirror (White Light 6000K)",
@@ -964,7 +984,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0GYQLMWB1",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "df-frstem-automatic-wire-stripper-machine-with-9-channels-7-blades-0-06-0-79-electr",
@@ -1404,7 +1424,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0G1BZQKBS",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "df-globe-electric-51415-camden-5-piece-all-in-one-bathroom-set-3-vanity-light-with-",
