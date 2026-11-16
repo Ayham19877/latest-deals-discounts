@@ -2,7 +2,7 @@
   "service": "Latest Deals & Discounts",
   "feed": "Latest Deals & Discounts — Amazon Warehouse (Amazon Resale) picks",
   "source_store": "Amazon Resale (formerly Amazon Warehouse Deals)",
-  "updated": "2026-11-15",
+  "updated": "2026-11-16",
   "sync": "auto-discovery-sync-v1, every 6 hours via GitHub Actions. Prices are as discovered at pull time, not live Amazon-verified prices; check the Used offer on Amazon before buying. Warehouse stock is one-of-one.",
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
@@ -104,7 +104,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0GR9RLKV1",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "df-doraimy-lighting-2-pack-2-light-square-14-7-alabaster-marble-bathroom-wall-sconc",
@@ -184,7 +184,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B08D4L4MLW",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "df-ekena-millwork-14-5-in-w-x-74-in-h-builders-edge-custom-two-equal-panels-raised-",
@@ -204,7 +204,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B07M8JF5RR",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "df-washable-outdoor-rug-10x14-modern-area-rugs-outdoor-carpets-bordered-pattern-non",
@@ -304,7 +304,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0GS4517MX",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "df-kingston-brass-fsc1978apx-american-classic-widespread-bathroom-faucet-brushed-ni",
@@ -324,7 +324,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B08MT2S5PK",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "df-hunter-newsome-indoor-ceiling-fan-pull-chain-52-inch-premier-bronze-with-led-lig",
@@ -444,7 +444,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0GX5HSBD8",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "df-hxcockcrow-40-matte-black-air-fly-fan-for-doors-high-power-air-curtain-with-door",
@@ -604,7 +604,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B00P9GHCOW",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "df-bulk-case-pack-of-8-california-king-size-6-piece-bed-sheet-sets-white",
@@ -804,7 +804,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0FDWK54V2",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "df-bigzone-52-outdoor-indoor-black-ceiling-fans-without-lights-with-remote-control-",
@@ -964,7 +964,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0GQV3NG3L",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "df-french-quarter-one-light-outdoor-wall-lantern-with-clear-hurricane-glass-shade-i",
@@ -1044,7 +1044,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0GQDDTZ4Z",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "df-52-inch-wood-ceiling-fan-with-light-and-remote-3-blades-propeller-farmhouse-styl",
@@ -1064,7 +1064,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0DK9C2RT5",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "df-insinkerator-view-instant-hot-cold-water-dispenser-system-faucet-tank-chrome-hc-",
@@ -1104,7 +1104,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0CHRVJPQK",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "df-walking-pad-treadmill-with-9-incline-4-decline",
@@ -1204,7 +1204,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0CJCRCVQD",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "df-1100w-air-blower-for-inflatables-commercial-bounce-house-electric-blower-work-fo",
@@ -1224,7 +1224,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0GVDKMKJN",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "df-drywall-skimming-blades-3-sizes-stainless-steel-plaster-smoothing-finishing-3-si",
@@ -1684,7 +1684,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0G8CG79HP",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "df-kraus-fairlane-33-inch-undermount-double-bowl-18-gauge-stainless-steel-kitchen-s",
@@ -1704,7 +1704,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0D9MWSKYJ",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "df-271gal-pool-float-storage-super-large-capacity-metal-frame-360-wheels-for-outdoo",
@@ -1984,7 +1984,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B09DBQYKNT",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "df-shark-hydrovac-messmaster-cordless-wet-dry-vacuum-mop-self-clean-wd261-3-in-1-va",
@@ -2024,7 +2024,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B01M751WC3",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "df-kingston-brass-kb1605al-heritage-4-inch-centerset-lavatory-faucet-with-metal-lev",
@@ -2164,7 +2164,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0H9QHCHZV",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "df-signature-design-by-ashley-marshawn-glam-metal-table-lamp-with-3-way-switch-meta",
@@ -3504,7 +3504,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0FD986CNK",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "df-wingbo-48-dc-ceiling-fan-without-lights-4-carved-solid-wood-blades-6-speed-noise",
@@ -4264,7 +4264,7 @@
       "verified_on_amazon": false,
       "discovery_source": "asin-resolved",
       "asin": "B004MKLRTC",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "df-sr-sun-rise-16-inch-ceiling-mount-rain-shower-system-brushed-gold-highpressure-s",
