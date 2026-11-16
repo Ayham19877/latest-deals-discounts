@@ -7,6 +7,26 @@
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
     {
+      "id": "df-sogoting-24-low-profile-ceiling-fan-with-rgb-lights-bladeless-ceiling-fan-with-r",
+      "title": "SOGOTING 24\" Low Profile Ceiling Fan with RGB Lights, Bladeless Ceiling Fan with Remote/APP/Voice Control, 6 Speeds Flush Mount",
+      "title_en": "SOGOTING 24\" Low Profile Ceiling Fan with RGB Lights, Bladeless Ceiling Fan with Remote/APP/Voice Control, 6 Speeds Flush Mount",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 70.22,
+      "new_price": null,
+      "discount_percent": 67,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B0DDC21NJV?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/419JUeBhxdL._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-15",
+      "updated": "2026-11-15",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B0DDC21NJV",
+      "last_seen": "2026-11-15"
+    },
+    {
       "id": "df-insinkerator-contemporary-instant-hot-and-cold-water-dispenser-faucet-satin-nick",
       "title": "InSinkErator Contemporary Instant Hot and Cold Water Dispenser Faucet, Satin Nickel, F-HC1100SN",
       "title_en": "InSinkErator Contemporary Instant Hot and Cold Water Dispenser Faucet, Satin Nickel, F-HC1100SN",
