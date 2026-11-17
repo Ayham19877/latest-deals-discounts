@@ -7,6 +7,26 @@
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
     {
+      "id": "df-yale-assure-lock-2-touch-deadbolt-satin-nickel-smart-keyless-entry-door-lock-wit",
+      "title": "Yale Assure Lock 2 Touch Deadbolt, Satin Nickel Smart Keyless Entry Door Lock with Wi-Fi Connected Touch Keypad and Fingerprint Scanner, YRD450-F-WF1-619",
+      "title_en": "Yale Assure Lock 2 Touch Deadbolt, Satin Nickel Smart Keyless Entry Door Lock with Wi-Fi Connected Touch Keypad and Fingerprint Scanner, YRD450-F-WF1-619",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 127.78,
+      "new_price": null,
+      "discount_percent": 52,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B0CBN8W8C3?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41+xOtavtpL._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-17",
+      "updated": "2026-11-17",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B0CBN8W8C3",
+      "last_seen": "2026-11-17"
+    },
+    {
       "id": "df-reliancer-fiberglass-magnetic-door-screen-fit-doors-size-36-x96-auto-close-scree",
       "title": "RELIANCER Fiberglass Magnetic Door Screen,Fit Doors Size 36\"x96\",Auto Close Screen Door Mesh w/Magnets,Left Right Side Opening,Patio Doorway Net Screens,Self-Closing Doors Cover,Doorway Curtain Mesh",
       "title_en": "RELIANCER Fiberglass Magnetic Door Screen,Fit Doors Size 36\"x96\",Auto Close Screen Door Mesh w/Magnets,Left Right Side Opening,Patio Doorway Net Screens,Self-Closing Doors Cover,Doorway Curtain Mesh",
@@ -1704,7 +1724,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0G43F1WX4",
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "df-robotic-pool-cleaner-cordless-pool-vacuum-with-170-mins-runtime",
@@ -2284,7 +2304,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0CHRVJPQK",
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "df-walking-pad-treadmill-with-9-incline-4-decline",
