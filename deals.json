@@ -7,6 +7,46 @@
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
     {
+      "id": "df-bexilyny-20-silver-crystal-chandelier-ceiling-fans-silver-crystal-fandelier-ceil",
+      "title": "Bexilyny 20” Silver Crystal Chandelier Ceiling Fans, Silver Crystal Fandelier Ceiling Fan with Lights Caged, Remote Control 6 Speed for Living Room, Bedroom, Dining Room",
+      "title_en": "Bexilyny 20” Silver Crystal Chandelier Ceiling Fans, Silver Crystal Fandelier Ceiling Fan with Lights Caged, Remote Control 6 Speed for Living Room, Bedroom, Dining Room",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 34.19,
+      "new_price": null,
+      "discount_percent": 81,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B0FP57JXH6?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31km6roIJEL._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-16",
+      "updated": "2026-11-16",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B0FP57JXH6",
+      "last_seen": "2026-11-16"
+    },
+    {
+      "id": "df-20-000rpm-electric-weed-wacker-with-wheel-700w-cordless-weed-eater-battery-power",
+      "title": "20,000RPM Electric Weed Wacker with Wheel,700W Cordless Weed Eater, Battery Powered, 4-in-1 String Trimmer,Brush Cutter/Grass Trimmer/Lawn Mower/Lawn Edger with 3 Type Blades for Garden Yard",
+      "title_en": "20,000RPM Electric Weed Wacker with Wheel,700W Cordless Weed Eater, Battery Powered, 4-in-1 String Trimmer,Brush Cutter/Grass Trimmer/Lawn Mower/Lawn Edger with 3 Type Blades for Garden Yard",
+      "category": "Garden & Outdoor",
+      "condition": "",
+      "currency": "USD",
+      "price": 33.8,
+      "new_price": null,
+      "discount_percent": 83,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B0GZ2JQBL5?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/513sg4qivXL._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-16",
+      "updated": "2026-11-16",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B0GZ2JQBL5",
+      "last_seen": "2026-11-16"
+    },
+    {
       "id": "df-symmons-elm-single-handle-bathroom-faucet-with-push-pop-drain-satin-nickel-finis",
       "title": "Symmons Elm Single-Handle Bathroom Faucet with Push Pop Drain | Satin Nickel Finish, 1.0 GPM Flow Rate",
       "title_en": "Symmons Elm Single-Handle Bathroom Faucet with Push Pop Drain | Satin Nickel Finish, 1.0 GPM Flow Rate",
@@ -3204,7 +3244,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B01HD4E0LK",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "df-delta-modern-14-series-round-rain-shower-system-faucet-set-rainfall-chrome-showe",
