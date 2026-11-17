@@ -7,6 +7,26 @@
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
     {
+      "id": "df-insinkerator-pro-750-garbage-disposal-3-4-hp",
+      "title": "InSinkErator Pro 750 Garbage Disposal, 3/4 HP",
+      "title_en": "InSinkErator Pro 750 Garbage Disposal, 3/4 HP",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 139.5,
+      "new_price": null,
+      "discount_percent": 55,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B00DP0FQSI?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41GsHTeztfL._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-17",
+      "updated": "2026-11-17",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B00DP0FQSI",
+      "last_seen": "2026-11-17"
+    },
+    {
       "id": "df-micmi-gfci-outlet-light-almond-20a-wr-weather-resistant-tamper-resistant-tr-rece",
       "title": "Micmi GFCI Outlet Light Almond 20A WR Weather Resistant Tamper Resistant TR Receptacle Self-Test, 20Amp 125 Volt Screwless Wallplate Included ETL Listed (1Pack, Ivory, 20Amp GFCI Outlet)",
       "title_en": "Micmi GFCI Outlet Light Almond 20A WR Weather Resistant Tamper Resistant TR Receptacle Self-Test, 20Amp 125 Volt Screwless Wallplate Included ETL Listed (1Pack, Ivory, 20Amp GFCI Outlet)",
@@ -2224,7 +2244,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0D9NWXGGT",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "df-2026-new-sk01-solar-pool-skimmer-robot-with-app-onyx-pearl-auto-surface-cleaning",
