@@ -7,6 +7,26 @@
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
     {
+      "id": "df-hubbell-raco-5389-0-waterproof-box-2-gang-5-1-outlets-gray-pack-of-9",
+      "title": "Hubbell-Raco 5389-0 Waterproof Box, 2 Gang, 5-1\" Outlets, Gray (Pack of 9)",
+      "title_en": "Hubbell-Raco 5389-0 Waterproof Box, 2 Gang, 5-1\" Outlets, Gray (Pack of 9)",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 91.32,
+      "new_price": null,
+      "discount_percent": 68,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B0157WIZ1G?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/415dbOnKXNL._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-17",
+      "updated": "2026-11-17",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B0157WIZ1G",
+      "last_seen": "2026-11-17"
+    },
+    {
       "id": "df-gabrylly-shower-system-ceiling-shower-faucet-set-with-12-rain-shower-head-and-ha",
       "title": "Gabrylly Shower System, Ceiling Shower Faucet Set with 12\" Rain Shower head and Handheld Shower, Shower Combo Set with Valve, Brushed Nickel",
       "title_en": "Gabrylly Shower System, Ceiling Shower Faucet Set with 12\" Rain Shower head and Handheld Shower, Shower Combo Set with Valve, Brushed Nickel",
@@ -284,7 +304,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0GZ2JQBL5",
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "df-symmons-elm-single-handle-bathroom-faucet-with-push-pop-drain-satin-nickel-finis",
