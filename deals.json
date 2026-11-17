@@ -7,6 +7,26 @@
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
     {
+      "id": "df-pinzan-keyed-alike-padlock-60-pack-laminated-steel-standard-shackle-lock-laminat",
+      "title": "PinZan Keyed Alike Padlock 60 Pack, Laminated Steel Standard Shackle Lock | Laminated steel standard shackle padlock, keyed alike 60 pack",
+      "title_en": "PinZan Keyed Alike Padlock 60 Pack, Laminated Steel Standard Shackle Lock | Laminated steel standard shackle padlock, keyed alike 60 pack",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 32.86,
+      "new_price": null,
+      "discount_percent": 80,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B0GQRYS4ZQ?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41bSAG-M6fL._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-17",
+      "updated": "2026-11-17",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B0GQRYS4ZQ",
+      "last_seen": "2026-11-17"
+    },
+    {
       "id": "df-yale-assure-lock-2-touch-deadbolt-satin-nickel-smart-keyless-entry-door-lock-wit",
       "title": "Yale Assure Lock 2 Touch Deadbolt, Satin Nickel Smart Keyless Entry Door Lock with Wi-Fi Connected Touch Keypad and Fingerprint Scanner, YRD450-F-WF1-619",
       "title_en": "Yale Assure Lock 2 Touch Deadbolt, Satin Nickel Smart Keyless Entry Door Lock with Wi-Fi Connected Touch Keypad and Fingerprint Scanner, YRD450-F-WF1-619",
@@ -1924,7 +1944,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0GYQLMWB1",
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "df-frstem-automatic-wire-stripper-machine-with-9-channels-7-blades-0-06-0-79-electr",
@@ -4157,14 +4177,14 @@
       "new_price": null,
       "discount_percent": 66,
       "deal_rating": null,
-      "amazon_url": "https://www.amazon.com/s?k=Delta+Faucet+24-Inch+Reversible+Linear+Shower+Drain+Trim+in+Champagne+Bronze&tag=latestdealsdi-20",
+      "amazon_url": "https://www.amazon.com/dp/B0DTRKMWY1?tag=latestdealsdi-20",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31dWfyvhMQL._AC_UL200_SR220,200_._SL500_.jpg",
       "posted_at": "2026-11-12",
       "updated": "2026-11-12",
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
-      "asin": null,
-      "last_seen": "2026-11-12"
+      "asin": "B0DTRKMWY1",
+      "last_seen": "2026-11-17"
     },
     {
       "id": "df-alpine-commercial-indoor-recycle-bin-29-gallon-modern-looking-green-recycle-bin-",
