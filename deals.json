@@ -7,6 +7,46 @@
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
     {
+      "id": "df-delta-trinsic-touchless-kitchen-faucet-with-touch-technology-chrome-kitchen-sink",
+      "title": "Delta Trinsic Touchless Kitchen Faucet with Touch Technology, Chrome Kitchen Sink Faucet with Pull Down Sprayer, Single Hole, Chrome 9159TL-DST",
+      "title_en": "Delta Trinsic Touchless Kitchen Faucet with Touch Technology, Chrome Kitchen Sink Faucet with Pull Down Sprayer, Single Hole, Chrome 9159TL-DST",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 230.03,
+      "new_price": null,
+      "discount_percent": 66,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B0CTKTF9SN?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31q1d90mDbL._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-17",
+      "updated": "2026-11-17",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B0CTKTF9SN",
+      "last_seen": "2026-11-17"
+    },
+    {
+      "id": "df-wowkk-thermostatic-freestanding-bathtub-faucet-waterfall-tub-filler-brushed-nick",
+      "title": "Wowkk Thermostatic Freestanding Bathtub Faucet Waterfall Tub Filler Brushed Nickel Floor Mount Brass Bathroom Faucets with Hand Shower",
+      "title_en": "Wowkk Thermostatic Freestanding Bathtub Faucet Waterfall Tub Filler Brushed Nickel Floor Mount Brass Bathroom Faucets with Hand Shower",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 154.56,
+      "new_price": null,
+      "discount_percent": 61,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B08VDPPMK3?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31ro9gFBfSL._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-17",
+      "updated": "2026-11-17",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B08VDPPMK3",
+      "last_seen": "2026-11-17"
+    },
+    {
       "id": "df-kichler-nani-56-inch-weather-outdoor-5-blade-ceiling-fan-in-matte-white-with-war",
       "title": "Kichler Nani 56 Inch Weather+ Outdoor 5 Blade Ceiling Fan in Matte White with Warm Maple Blades for covered outdoor spaces, (56\" Dia x 13.25\" H), 310095MWH",
       "title_en": "Kichler Nani 56 Inch Weather+ Outdoor 5 Blade Ceiling Fan in Matte White with Warm Maple Blades for covered outdoor spaces, (56\" Dia x 13.25\" H), 310095MWH",
@@ -1024,7 +1064,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B00KJIM1D2",
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "df-2-pack-adjustable-undermount-sink-supports-brackets-304-stainless-steel-undermou",
@@ -4624,7 +4664,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0D17M8Q8Y",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "df-elgobst-modern-farmhouse-chandelier-for-dining-room-18-lights-black-and-gold-cha",
