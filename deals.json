@@ -7,6 +7,66 @@
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
     {
+      "id": "df-delta-trinsic-touchless-kitchen-faucet-with-touch-technology-polished-nickel-kit",
+      "title": "Delta Trinsic Touchless Kitchen Faucet with Touch Technology, Polished Nickel Kitchen Sink Faucet with Pull Down Sprayer, Single Hole, Polished Nickel 9159TL-PN-DST",
+      "title_en": "Delta Trinsic Touchless Kitchen Faucet with Touch Technology, Polished Nickel Kitchen Sink Faucet with Pull Down Sprayer, Single Hole, Polished Nickel 9159TL-PN-DST",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 307.33,
+      "new_price": null,
+      "discount_percent": 61,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B0FY48V5V7?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31QRiiScEdL._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-17",
+      "updated": "2026-11-17",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B0FY48V5V7",
+      "last_seen": "2026-11-17"
+    },
+    {
+      "id": "df-vulcan-hart-00-428104-00002-rack-r-h-guide",
+      "title": "Vulcan Hart 00-428104-00002 Rack R.H. Guide",
+      "title_en": "Vulcan Hart 00-428104-00002 Rack R.H. Guide",
+      "category": "Industrial & Scientific",
+      "condition": "",
+      "currency": "USD",
+      "price": 52.0,
+      "new_price": null,
+      "discount_percent": 81,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B07VQJX337?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31I0BMaBBaL._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-17",
+      "updated": "2026-11-17",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B07VQJX337",
+      "last_seen": "2026-11-17"
+    },
+    {
+      "id": "df-wavehaven-above-ground-pool-10ft-x-30in-frame-deep-swimming-pool-blue-family-poo",
+      "title": "WaveHaven Above Ground Pool,10ft x 30in Frame Deep Swimming Pool-Blue | Family Pool,Large Above Ground Pool Easy Set,1200 Gallon Pool,Outdoor Backyard Pool for Kids,Adults,Pump Not Included",
+      "title_en": "WaveHaven Above Ground Pool,10ft x 30in Frame Deep Swimming Pool-Blue | Family Pool,Large Above Ground Pool Easy Set,1200 Gallon Pool,Outdoor Backyard Pool for Kids,Adults,Pump Not Included",
+      "category": "Garden & Outdoor",
+      "condition": "",
+      "currency": "USD",
+      "price": 51.42,
+      "new_price": null,
+      "discount_percent": 71,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B0G6YWF86B?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51CkbGWhaAL._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-17",
+      "updated": "2026-11-17",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B0G6YWF86B",
+      "last_seen": "2026-11-17"
+    },
+    {
       "id": "df-pinzan-keyed-alike-padlock-60-pack-laminated-steel-standard-shackle-lock-laminat",
       "title": "PinZan Keyed Alike Padlock 60 Pack, Laminated Steel Standard Shackle Lock | Laminated steel standard shackle padlock, keyed alike 60 pack",
       "title_en": "PinZan Keyed Alike Padlock 60 Pack, Laminated Steel Standard Shackle Lock | Laminated steel standard shackle padlock, keyed alike 60 pack",
@@ -2064,7 +2124,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0FGFVRGTC",
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "df-toobaas-tool-battery-2-packs-20v-60v-9-0ah-battery",
@@ -2724,7 +2784,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B01GKB8Z2C",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "df-progress-lighting-kene-3-light-bath-vanity-light-brushed-nickel-craftsman-vanity",
