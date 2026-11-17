@@ -7,6 +7,46 @@
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
     {
+      "id": "df-moen-riley-chrome-one-handle-pulldown-kitchen-faucet-7402c",
+      "title": "Moen Riley Chrome One-Handle Pulldown Kitchen Faucet, 7402C",
+      "title_en": "Moen Riley Chrome One-Handle Pulldown Kitchen Faucet, 7402C",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 86.79,
+      "new_price": null,
+      "discount_percent": 83,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B06XWTWHFJ?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31GnaEmf2WL._AC_UL200_SR220,200_.jpg",
+      "posted_at": "2026-11-16",
+      "updated": "2026-11-16",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B06XWTWHFJ",
+      "last_seen": "2026-11-16"
+    },
+    {
+      "id": "df-orison-low-profile-ceiling-fan-with-light-modern-flush-mount-enclosed-ceiling-fa",
+      "title": "Orison Low Profile Ceiling Fan with Light - Modern Flush Mount Enclosed Ceiling Fan 19.7\" LED Dimmable Bladeless Ceiling Fans with Remote Control,Smart 3 Light Color and 6 speeds",
+      "title_en": "Orison Low Profile Ceiling Fan with Light - Modern Flush Mount Enclosed Ceiling Fan 19.7\" LED Dimmable Bladeless Ceiling Fans with Remote Control,Smart 3 Light Color and 6 speeds",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 72.06,
+      "new_price": null,
+      "discount_percent": 67,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B0BF8NLHBV?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51rdAo8fykL._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-16",
+      "updated": "2026-11-16",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B0BF8NLHBV",
+      "last_seen": "2026-11-16"
+    },
+    {
       "id": "df-amerock-18-blackrock-champagne-bronze-appliance-pull-18-inch-457mm-center-to-cen",
       "title": "Amerock 18\" Blackrock Champagne Bronze Appliance Pull | 18 inch (457mm) Center-to-Center Mounting Distance and 19-3/8 inches Overall Length, Durable Zinc Cabinet Hardware",
       "title_en": "Amerock 18\" Blackrock Champagne Bronze Appliance Pull | 18 inch (457mm) Center-to-Center Mounting Distance and 19-3/8 inches Overall Length, Durable Zinc Cabinet Hardware",
@@ -1344,7 +1384,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0DC6B2F4H",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "df-brushless-drywall-sander-1200w-800-2200-rpm-12-discs",
