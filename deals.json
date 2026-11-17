@@ -7,6 +7,46 @@
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
     {
+      "id": "df-reliancer-fiberglass-magnetic-door-screen-fit-doors-size-36-x96-auto-close-scree",
+      "title": "RELIANCER Fiberglass Magnetic Door Screen,Fit Doors Size 36\"x96\",Auto Close Screen Door Mesh w/Magnets,Left Right Side Opening,Patio Doorway Net Screens,Self-Closing Doors Cover,Doorway Curtain Mesh",
+      "title_en": "RELIANCER Fiberglass Magnetic Door Screen,Fit Doors Size 36\"x96\",Auto Close Screen Door Mesh w/Magnets,Left Right Side Opening,Patio Doorway Net Screens,Self-Closing Doors Cover,Doorway Curtain Mesh",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 14.87,
+      "new_price": null,
+      "discount_percent": 92,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B0DWMYC95Z?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41WEj0vdNFL._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-17",
+      "updated": "2026-11-17",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B0DWMYC95Z",
+      "last_seen": "2026-11-17"
+    },
+    {
+      "id": "df-sunlite-04952-su-wpm150mh-150-watt-metal-halide-wall-pack-fixture-small",
+      "title": "Sunlite 04952-SU WPM150MH 150-watt Metal Halide Wall Pack Fixture, Small",
+      "title_en": "Sunlite 04952-SU WPM150MH 150-watt Metal Halide Wall Pack Fixture, Small",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 88.28,
+      "new_price": null,
+      "discount_percent": 69,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B005WZXDIO?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61lzQCKkJTL._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-17",
+      "updated": "2026-11-17",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B005WZXDIO",
+      "last_seen": "2026-11-17"
+    },
+    {
       "id": "df-ekena-millwork-arw101bq621x60obh-americraft-six-2-exterior-real-wood-joined-boar",
       "title": "Ekena Millwork ARW101BQ621X60OBH Americraft Six 2 Exterior Real Wood Joined Board-n-Batten Shutters w/Arch Top (Per Pair), 60-in. H, Starless Night Blue",
       "title_en": "Ekena Millwork ARW101BQ621X60OBH Americraft Six 2 Exterior Real Wood Joined Board-n-Batten Shutters w/Arch Top (Per Pair), 60-in. H, Starless Night Blue",
@@ -2164,7 +2204,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0F47W1BMG",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "df-nordic-pure-18x20x1-pleated-ultra-merv-16-ac-furnace-air-filters-6-pack-actual-s",
