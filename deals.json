@@ -2,7 +2,7 @@
   "service": "Latest Deals & Discounts",
   "feed": "Latest Deals & Discounts — Amazon Warehouse (Amazon Resale) picks",
   "source_store": "Amazon Resale (formerly Amazon Warehouse Deals)",
-  "updated": "2026-11-17",
+  "updated": "2026-11-18",
   "sync": "auto-discovery-sync-v1, every 6 hours via GitHub Actions. Prices are as discovered at pull time, not live Amazon-verified prices; check the Used offer on Amazon before buying. Warehouse stock is one-of-one.",
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
@@ -324,7 +324,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0CTKTF9SN",
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "df-wowkk-thermostatic-freestanding-bathtub-faucet-waterfall-tub-filler-brushed-nick",
@@ -384,7 +384,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0FY48V5V7",
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "df-vulcan-hart-00-428104-00002-rack-r-h-guide",
@@ -544,7 +544,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0D2X1KLDZ",
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "df-jonathan-y-rover-1-light-wall-sconce-7-white-brass-gold-adjustable-arm-hardwired",
@@ -784,7 +784,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0BF8NLHBV",
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "df-amerock-18-blackrock-champagne-bronze-appliance-pull-18-inch-457mm-center-to-cen",
@@ -904,7 +904,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B004J4RP06",
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "df-delta-trinsic-brushed-nickel-bathroom-faucet-3-hole-8-inch-widespread-bathroom-s",
@@ -964,7 +964,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0GZ2JQBL5",
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "df-symmons-elm-single-handle-bathroom-faucet-with-push-pop-drain-satin-nickel-finis",
@@ -984,7 +984,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0CJCQQ1CH",
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "df-lightdot-6-pack-250w-led-wall-pack-lights-lwpn-20-bmax-6p-s-f-100-277v-ip65-etl-",
@@ -1104,7 +1104,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B00V07FB6U",
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "df-tunkayli-12-3-pendant-light-for-kitchen-island-1-light-drum-chandelier-3-tier-li",
@@ -1144,7 +1144,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0BJ19JRW2",
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "df-tochic-crystal-chandelier-6-light-3-tiers-gold-crystal-chandelier-light-modern-f",
@@ -1164,7 +1164,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0D6B9HR5J",
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "df-briza-infrared-electric-patio-heater-indoor-outdoor-heater-portable-wall-garage-",
@@ -1264,7 +1264,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0F12CGKXR",
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "df-2-in-1-slushie-machine-no-ice-needed",
@@ -1464,7 +1464,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B07BF2F1Z3",
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "df-mocoloo-30-inch-black-honeycomb-waterfall-kitchen-sink-drop-in-30x19-inch-stainl",
@@ -1504,7 +1504,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0H1MBX7JZ",
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "df-electactic-nugget-ice-maker-machine-under-counter-ice-machine-stainless-steel-bu",
@@ -1844,7 +1844,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B07M8JF5RR",
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "df-washable-outdoor-rug-10x14-modern-area-rugs-outdoor-carpets-bordered-pattern-non",
@@ -1964,7 +1964,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B08MT2S5PK",
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "df-hunter-newsome-indoor-ceiling-fan-pull-chain-52-inch-premier-bronze-with-led-lig",
@@ -2084,7 +2084,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0GX5HSBD8",
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "df-hxcockcrow-40-matte-black-air-fly-fan-for-doors-high-power-air-curtain-with-door",
@@ -2604,7 +2604,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0GQV3NG3L",
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "df-french-quarter-one-light-outdoor-wall-lantern-with-clear-hurricane-glass-shade-i",
@@ -3004,7 +3004,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0CVM6M3Z4",
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "df-antarctic-star-nugget-ice-maker-countertop-44lb-day-led-display-machine-10-15min",
@@ -4964,7 +4964,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0D17M8Q8Y",
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "df-elgobst-modern-farmhouse-chandelier-for-dining-room-18-lights-black-and-gold-cha",
@@ -4984,7 +4984,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0CQZKRM6L",
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "df-4075ss-01-3-4-hp-pressure-booster-pump-40-psi-stainless-steel-water-pressure-boo",
@@ -5904,7 +5904,7 @@
       "verified_on_amazon": false,
       "discovery_source": "asin-resolved",
       "asin": "B004MKLRTC",
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "df-sr-sun-rise-16-inch-ceiling-mount-rain-shower-system-brushed-gold-highpressure-s",
