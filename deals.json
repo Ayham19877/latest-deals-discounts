@@ -2,7 +2,7 @@
   "service": "Latest Deals & Discounts",
   "feed": "Latest Deals & Discounts — Amazon Warehouse (Amazon Resale) picks",
   "source_store": "Amazon Resale (formerly Amazon Warehouse Deals)",
-  "updated": "2026-11-18",
+  "updated": "2026-11-19",
   "sync": "auto-discovery-sync-v1, every 6 hours via GitHub Actions. Prices are as discovered at pull time, not live Amazon-verified prices; check the Used offer on Amazon before buying. Warehouse stock is one-of-one.",
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
@@ -84,7 +84,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0HJBWJ3Z2",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "df-moen-voss-m-core-3-series-transfer-valve-trim-kit-valve-required-ut3611bl-m-core",
@@ -184,7 +184,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0CNVVRZW5",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "df-a-frame-telescoping-ladder-10-5-ft-heavy-duty-aluminum-ladder-with-tool-bag-330-",
@@ -324,7 +324,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0CTKTF9SN",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "df-wowkk-thermostatic-freestanding-bathtub-faucet-waterfall-tub-filler-brushed-nick",
@@ -364,7 +364,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0CFYTYTH7",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "df-delta-trinsic-touchless-kitchen-faucet-with-touch-technology-polished-nickel-kit",
@@ -644,7 +644,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0DC6CDDLG",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "df-swisstrax-ribtrax-pro-garage-floor-tiles-15-75-racing-red-24-pack-interlocking-1",
@@ -784,7 +784,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0BF8NLHBV",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "df-amerock-18-blackrock-champagne-bronze-appliance-pull-18-inch-457mm-center-to-cen",
@@ -904,7 +904,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B004J4RP06",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "df-delta-trinsic-brushed-nickel-bathroom-faucet-3-hole-8-inch-widespread-bathroom-s",
@@ -1104,7 +1104,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B00V07FB6U",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "df-tunkayli-12-3-pendant-light-for-kitchen-island-1-light-drum-chandelier-3-tier-li",
@@ -1164,7 +1164,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0D6B9HR5J",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "df-briza-infrared-electric-patio-heater-indoor-outdoor-heater-portable-wall-garage-",
@@ -1264,7 +1264,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0F12CGKXR",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "df-2-in-1-slushie-machine-no-ice-needed",
@@ -1464,7 +1464,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B07BF2F1Z3",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "df-mocoloo-30-inch-black-honeycomb-waterfall-kitchen-sink-drop-in-30x19-inch-stainl",
@@ -3004,7 +3004,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0CVM6M3Z4",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "df-antarctic-star-nugget-ice-maker-countertop-44lb-day-led-display-machine-10-15min",
@@ -3564,7 +3564,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0DZ6KFRRH",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "df-szcflaghip-modern-led-linear-pendant-light-47-24in-dimmable-kitchen-island-light",
@@ -3624,7 +3624,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B09DBQYKNT",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "df-shark-hydrovac-messmaster-cordless-wet-dry-vacuum-mop-self-clean-wd261-3-in-1-va",
@@ -4964,7 +4964,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0D17M8Q8Y",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "df-elgobst-modern-farmhouse-chandelier-for-dining-room-18-lights-black-and-gold-cha",
@@ -4984,7 +4984,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0CQZKRM6L",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "df-4075ss-01-3-4-hp-pressure-booster-pump-40-psi-stainless-steel-water-pressure-boo",
@@ -5904,7 +5904,7 @@
       "verified_on_amazon": false,
       "discovery_source": "asin-resolved",
       "asin": "B004MKLRTC",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "df-sr-sun-rise-16-inch-ceiling-mount-rain-shower-system-brushed-gold-highpressure-s",
