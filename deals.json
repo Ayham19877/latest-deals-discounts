@@ -2,10 +2,30 @@
   "service": "Latest Deals & Discounts",
   "feed": "Latest Deals & Discounts — Amazon Warehouse (Amazon Resale) picks",
   "source_store": "Amazon Resale (formerly Amazon Warehouse Deals)",
-  "updated": "2026-11-20",
+  "updated": "2026-11-21",
   "sync": "auto-discovery-sync-v1, every 6 hours via GitHub Actions. Prices are as discovered at pull time, not live Amazon-verified prices; check the Used offer on Amazon before buying. Warehouse stock is one-of-one.",
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
+    {
+      "id": "df-osgner-20-black-outdoor-waterproof-ceiling-fan-with-remote-dimmable-light-plug-i",
+      "title": "OSGNER 20\" Black Outdoor Waterproof Ceiling Fan with Remote Dimmable Light | Plug-in cord, 6-speed, timer, reversible, IP64, for patios, pergolas, gazebos.",
+      "title_en": "OSGNER 20\" Black Outdoor Waterproof Ceiling Fan with Remote Dimmable Light | Plug-in cord, 6-speed, timer, reversible, IP64, for patios, pergolas, gazebos.",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 38.95,
+      "new_price": null,
+      "discount_percent": 75,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B0FD9BC3BH?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51g5SHZKPhL._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-21",
+      "updated": "2026-11-21",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B0FD9BC3BH",
+      "last_seen": "2026-11-21"
+    },
     {
       "id": "df-xanso-picture-lights-for-wall-24in-brass-artwork-display-lamp-rotatable-180gold-",
       "title": "XANSO Picture Lights for Wall,24in Brass Artwork Display Lamp,Rotatable 180°Gold Art Light Hardwired Artwork Display Lamp Pictures Frame,Painting Wall Lights,Bathroom Sconce E12 Base No Bulbs",
@@ -24,7 +44,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0F7Y1P7MG",
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "df-antlux-72w-4ft-led-wraparound-light-ultra-slim-led-shop-garage-lights-flush-moun",
@@ -2084,7 +2104,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0CR5RSJTL",
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "df-sogoting-24-low-profile-ceiling-fan-with-rgb-lights-bladeless-ceiling-fan-with-r",
@@ -4604,7 +4624,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B01HD4E0LK",
-      "last_seen": "2026-11-19"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "df-delta-modern-14-series-round-rain-shower-system-faucet-set-rainfall-chrome-showe",
@@ -6084,7 +6104,7 @@
       "verified_on_amazon": false,
       "discovery_source": "asin-resolved",
       "asin": "B004MKLRTC",
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "df-sr-sun-rise-16-inch-ceiling-mount-rain-shower-system-brushed-gold-highpressure-s",
