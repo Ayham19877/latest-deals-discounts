@@ -7,6 +7,46 @@
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
     {
+      "id": "df-sparta-4029000-stainless-steel-grill-brush-grill-scraper-with-metal-bristles-30-",
+      "title": "SPARTA 4029000 Stainless Steel Grill Brush, Grill Scraper With Metal Bristles, 30.5 Inches, Black, (Pack of 6)",
+      "title_en": "SPARTA 4029000 Stainless Steel Grill Brush, Grill Scraper With Metal Bristles, 30.5 Inches, Black, (Pack of 6)",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 61.24,
+      "new_price": null,
+      "discount_percent": 74,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B004NEWE12?tag=latestdealsdi-20",
+      "image": "",
+      "posted_at": "2026-11-22",
+      "updated": "2026-11-22",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B004NEWE12",
+      "last_seen": "2026-11-22"
+    },
+    {
+      "id": "df-delta-ashlyn-widespread-bathroom-faucet-gold-3-hole-bathroom-sink-faucet-metal-p",
+      "title": "Delta Ashlyn Widespread Bathroom Faucet, Gold 3-Hole Bathroom Sink Faucet, Metal Push-Pop Drain Assembly, Champagne Bronze 3564-CZMPU-DST",
+      "title_en": "Delta Ashlyn Widespread Bathroom Faucet, Gold 3-Hole Bathroom Sink Faucet, Metal Push-Pop Drain Assembly, Champagne Bronze 3564-CZMPU-DST",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 144.94,
+      "new_price": null,
+      "discount_percent": 63,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B0FDLF4DB6?tag=latestdealsdi-20",
+      "image": "",
+      "posted_at": "2026-11-22",
+      "updated": "2026-11-22",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B0FDLF4DB6",
+      "last_seen": "2026-11-22"
+    },
+    {
       "id": "df-moen-align-posi-temp-valve-trim-kit-valve-required-matte-black-t2191bl",
       "title": "Moen Align Posi-Temp Valve Trim Kit, Valve Required, Matte Black, T2191BL",
       "title_en": "Moen Align Posi-Temp Valve Trim Kit, Valve Required, Matte Black, T2191BL",
@@ -4213,18 +4253,18 @@
       "category": "Tools & Home Improvement",
       "condition": "",
       "currency": "USD",
-      "price": 66.82,
+      "price": 60.88,
       "new_price": null,
-      "discount_percent": 77,
+      "discount_percent": 79,
       "deal_rating": null,
       "amazon_url": "https://www.amazon.com/dp/B0FXB2W1TC?tag=latestdealsdi-20",
       "image": "https://images-na.ssl-images-amazon.com/images/I/413wxGwEIJL._AC_UL200_SR220,200_._SL500_.jpg",
       "posted_at": "2026-11-15",
-      "updated": "2026-11-15",
+      "updated": "2026-11-22",
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0FXB2W1TC",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-22"
     },
     {
       "id": "df-rattan-ceiling-light-fixture-4-light-boho-semi-flush-mount-ceiling-light-20-wick",
@@ -5544,7 +5584,7 @@
       "verified_on_amazon": false,
       "discovery_source": "asin-resolved",
       "asin": "B00006IBKI",
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-22"
     },
     {
       "id": "df-samsung-galaxy-ring-ai-smart-ring-size-first-w-sizing-kit-no-app-subscription-fi",
