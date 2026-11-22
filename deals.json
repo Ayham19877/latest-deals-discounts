@@ -7,6 +7,26 @@
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
     {
+      "id": "df-slushie-machine-for-home-ice-cream-maker-6-presets",
+      "title": "Slushie Machine for Home, Ice Cream Maker, 6 Presets",
+      "title_en": "Slushie Machine for Home, Ice Cream Maker, 6 Presets",
+      "category": "Industrial & Scientific",
+      "condition": "",
+      "currency": "USD",
+      "price": 61.18,
+      "new_price": null,
+      "discount_percent": 73,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B0GVYCZVM1?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41dd66Og+OL._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-21",
+      "updated": "2026-11-21",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B0GVYCZVM1",
+      "last_seen": "2026-11-21"
+    },
+    {
       "id": "df-slim-step-3-step-silver-design-stepstools-stepladder-by-hasegawa-ladders",
       "title": "Slim Step 3 Step Silver Design Stepstools Stepladder By Hasegawa Ladders",
       "title_en": "Slim Step 3 Step Silver Design Stepstools Stepladder By Hasegawa Ladders",
@@ -2344,7 +2364,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0F12CGKXR",
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "df-2-in-1-slushie-machine-no-ice-needed",
@@ -5964,7 +5984,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0H86Y6JRB",
-      "last_seen": "2026-11-19"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "df-mini-circular-saw-corded-6-1-2-inch-electric-wood-saw-with-vacuum-dust-bag-0-45-",
