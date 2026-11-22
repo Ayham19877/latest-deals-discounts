@@ -7,6 +7,66 @@
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
     {
+      "id": "df-amerock-12-cowrie-polished-nickel-appliance-pull-12-inch-305mm-center-to-center-",
+      "title": "Amerock 12\" Cowrie Polished Nickel Appliance Pull | 12 inch (305mm) Center-to-Center Mounting Distance and 13 inches Overall Length, Durable Zinc Cabinet Hardware",
+      "title_en": "Amerock 12\" Cowrie Polished Nickel Appliance Pull | 12 inch (305mm) Center-to-Center Mounting Distance and 13 inches Overall Length, Durable Zinc Cabinet Hardware",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 21.22,
+      "new_price": null,
+      "discount_percent": 83,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B0F5QB6HFM?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31FgXV4HFsL._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-22",
+      "updated": "2026-11-22",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B0F5QB6HFM",
+      "last_seen": "2026-11-22"
+    },
+    {
+      "id": "df-aero-pure-abf80g15-designer-series-80-cfm-0-4-sone-ceiling-mounted-energy-star-c",
+      "title": "Aero Pure ABF80G15 Designer Series 80 CFM 0.4 Sone Ceiling Mounted Energy Star Certified Bath Fan with Square on Square Design - Satin Gold",
+      "title_en": "Aero Pure ABF80G15 Designer Series 80 CFM 0.4 Sone Ceiling Mounted Energy Star Certified Bath Fan with Square on Square Design - Satin Gold",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 83.84,
+      "new_price": null,
+      "discount_percent": 63,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B0B9XKGBWF?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31GhCU6L58L._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-22",
+      "updated": "2026-11-22",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B0B9XKGBWF",
+      "last_seen": "2026-11-22"
+    },
+    {
+      "id": "df-ink-ivy-auburn-pendant-kitchen-lighting-for-dining-room-industrial-lights-hand-b",
+      "title": "INK+IVY Auburn Pendant Kitchen Lighting for Dining Room, Industrial Lights, Hand-blown Glass Bell Shaped Pendant Light for Kitchen Island, Foyer, Bedroom, 9\" Dia x 95.5\" H, Silver/Clear",
+      "title_en": "INK+IVY Auburn Pendant Kitchen Lighting for Dining Room, Industrial Lights, Hand-blown Glass Bell Shaped Pendant Light for Kitchen Island, Foyer, Bedroom, 9\" Dia x 95.5\" H, Silver/Clear",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 22.85,
+      "new_price": null,
+      "discount_percent": 70,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B0821SJ2LK?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/21B6pGJl2-L._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-22",
+      "updated": "2026-11-22",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B0821SJ2LK",
+      "last_seen": "2026-11-22"
+    },
+    {
       "id": "df-kichler-lytham-20-5-flush-mount-light-olde-bronze-satin-etched-white-glass-ceili",
       "title": "Kichler Lytham 20.5\" Flush Mount Light, Olde Bronze | Satin etched white glass ceiling light for bedrooms, hallways, and kitchens (20.5\" x 5.5\"), 42276OZ",
       "title_en": "Kichler Lytham 20.5\" Flush Mount Light, Olde Bronze | Satin etched white glass ceiling light for bedrooms, hallways, and kitchens (20.5\" x 5.5\"), 42276OZ",
@@ -2344,7 +2404,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B00V07FB6U",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-22"
     },
     {
       "id": "df-tunkayli-12-3-pendant-light-for-kitchen-island-1-light-drum-chandelier-3-tier-li",
@@ -3424,7 +3484,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0H24Z2WH1",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-22"
     },
     {
       "id": "df-wingbo-60-large-dc-ceiling-fans-without-lights-3-downrods-8-plywood-blades-6-spe",
