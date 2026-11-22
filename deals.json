@@ -2,10 +2,70 @@
   "service": "Latest Deals & Discounts",
   "feed": "Latest Deals & Discounts — Amazon Warehouse (Amazon Resale) picks",
   "source_store": "Amazon Resale (formerly Amazon Warehouse Deals)",
-  "updated": "2026-11-21",
+  "updated": "2026-11-22",
   "sync": "auto-discovery-sync-v1, every 6 hours via GitHub Actions. Prices are as discovered at pull time, not live Amazon-verified prices; check the Used offer on Amazon before buying. Warehouse stock is one-of-one.",
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
+    {
+      "id": "df-true-thermostat-162f-fixed",
+      "title": "True Thermostat-162F Fixed",
+      "title_en": "True Thermostat-162F Fixed",
+      "category": "Industrial & Scientific",
+      "condition": "",
+      "currency": "USD",
+      "price": 47.95,
+      "new_price": null,
+      "discount_percent": 68,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B0764MSSGX?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31kWLDQRaIL._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-22",
+      "updated": "2026-11-22",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B0764MSSGX",
+      "last_seen": "2026-11-22"
+    },
+    {
+      "id": "df-adidas-kaiser-5-liga-men-s-football-shoes-black-size-6-5-uk",
+      "title": "Adidas Kaiser 5 Liga, Men's Football Shoes Black Size: 6.5 UK",
+      "title_en": "Adidas Kaiser 5 Liga, Men's Football Shoes Black Size: 6.5 UK",
+      "category": "Sports & Outdoors",
+      "condition": "",
+      "currency": "USD",
+      "price": 43.75,
+      "new_price": null,
+      "discount_percent": 86,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B00NBQ9AWE?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41HGrEVeCyL._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-22",
+      "updated": "2026-11-22",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B00NBQ9AWE",
+      "last_seen": "2026-11-22"
+    },
+    {
+      "id": "df-miller-263368050-continuum-control-motor-cable-50ft",
+      "title": "Miller 263368050 Continuum Control/Motor Cable 50Ft",
+      "title_en": "Miller 263368050 Continuum Control/Motor Cable 50Ft",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 1326.11,
+      "new_price": null,
+      "discount_percent": 53,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B07PW8SHYV?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51-h7OTITgL._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-22",
+      "updated": "2026-11-22",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B07PW8SHYV",
+      "last_seen": "2026-11-22"
+    },
     {
       "id": "df-benicefun-60-inch-ceiling-fan-with-lights-3cct-dimmable-mordern-wood-ceiling-fan",
       "title": "Benicefun 60 Inch Ceiling Fan with Lights,3CCT,Dimmable Mordern Wood Ceiling Fan with Remote for Indoor Farmhouse Bedroom Living Room Outdoor Patio Porch, Reversible DC Motor, Noiseless,Dark Walnut",
@@ -24,7 +84,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0F5H7WMC7",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-22"
     },
     {
       "id": "df-slushie-machine-for-home-ice-cream-maker-6-presets",
@@ -84,7 +144,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0DBQLH21Y",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-22"
     },
     {
       "id": "df-xbox-one-kinect-sensor",
@@ -304,7 +364,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0FFGL9WJH",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-22"
     },
     {
       "id": "df-20-gold-drum-chandelier-5-light-modern-dining-room-light-fixture-white-fabric-sh",
@@ -504,7 +564,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0D8J7JF1P",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-22"
     },
     {
       "id": "df-aspen-creative-32774-hardback-empire-lamp-shade-18-inch-steel-gray-textured-gray",
@@ -544,7 +604,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0CLS1VPBY",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-22"
     },
     {
       "id": "df-louisville-slugger-2026-kryo-thundernight-8-fastpitch-softball-bat-33-25-oz",
@@ -564,7 +624,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0FQLR4JY7",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-22"
     },
     {
       "id": "df-25-inch-stainless-steel-topmount-4-hole-drop-in-single-bowl-8-inch-deep-kitchen-",
@@ -584,7 +644,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0F8KBTCKS",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-22"
     },
     {
       "id": "df-anatia-2-pack-1-5x59-inch-pool-pump-hose-for-intex-coleman-blue",
@@ -604,7 +664,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0GCJSBC8X",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-22"
     },
     {
       "id": "df-plug-in-h-type-led-track-lighting-kits-dimmable-adjustable-angle-heads-8-lights-",
@@ -624,7 +684,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0GG9MS6RF",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-22"
     },
     {
       "id": "df-8in-203mm-oval-cabinet-pull-with-backplate-oil-rubbed-bronze-10-pack",
@@ -684,7 +744,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0FD9BC3BH",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-22"
     },
     {
       "id": "df-xanso-picture-lights-for-wall-24in-brass-artwork-display-lamp-rotatable-180gold-",
@@ -764,7 +824,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0GX66VGHY",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-22"
     },
     {
       "id": "df-mohawk-basics-24-x-24-berber-loop-pile-0-07-pile-height-carpet-tile-pet-fiber-wa",
@@ -964,7 +1024,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B00MKTAQIA",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-22"
     },
     {
       "id": "df-bozzys-lockout-tagout-kit-loto-locks-for-breaker-and-plug-lock-out-tag-out-kits-",
@@ -1124,7 +1184,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0DNJFWYKK",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-22"
     },
     {
       "id": "df-mayna-modern-led-chandelier-black-pendant-light-with-5-rings-adjustable-height-m",
@@ -1204,7 +1264,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0HJBWJ3Z2",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-22"
     },
     {
       "id": "df-moen-voss-m-core-3-series-transfer-valve-trim-kit-valve-required-ut3611bl-m-core",
@@ -1304,7 +1364,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0CNVVRZW5",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-22"
     },
     {
       "id": "df-a-frame-telescoping-ladder-10-5-ft-heavy-duty-aluminum-ladder-with-tool-bag-330-",
@@ -1344,7 +1404,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0CKNDYBF3",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-22"
     },
     {
       "id": "df-progress-lighting-fresnel-lens-pendant-light-brushed-nickel-industrial-pendant-f",
@@ -1764,7 +1824,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0DC6CDDLG",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-22"
     },
     {
       "id": "df-swisstrax-ribtrax-pro-garage-floor-tiles-15-75-racing-red-24-pack-interlocking-1",
@@ -2084,7 +2144,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0GZ2JQBL5",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-22"
     },
     {
       "id": "df-symmons-elm-single-handle-bathroom-faucet-with-push-pop-drain-satin-nickel-finis",
@@ -3784,7 +3844,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0F47W1BMG",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-22"
     },
     {
       "id": "df-nordic-pure-18x20x1-pleated-ultra-merv-16-ac-furnace-air-filters-6-pack-actual-s",
@@ -3904,7 +3964,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0D78JZZXJ",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-22"
     },
     {
       "id": "df-stripes-clear-glass-pendant-light-for-kitchen-island-black-gold-8-inch-adjustabl",
@@ -3984,7 +4044,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0GVDKMKJN",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-22"
     },
     {
       "id": "df-drywall-skimming-blades-3-sizes-stainless-steel-plaster-smoothing-finishing-3-si",
@@ -4484,7 +4544,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0DSJ4KH91",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-22"
     },
     {
       "id": "df-generation-lighting-8039-71-lancaster-traditional-two-light-outdoor-wall-lantern",
@@ -5184,7 +5244,7 @@
       "verified_on_amazon": false,
       "discovery_source": "asin-resolved",
       "asin": "B0D3JF33J8",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-22"
     },
     {
       "id": "df-atlas-lighting-wlm64led-64-watt-led-classic-wall-pack-medium-housing-4500k",
@@ -5384,7 +5444,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0FD9YVN24",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-22"
     },
     {
       "id": "df-motorola-mg8702-docsis-3-1-cable-modem-wi-fi-router-high-speed-combo-with-intell",
@@ -6204,7 +6264,7 @@
       "verified_on_amazon": false,
       "discovery_source": "asin-resolved",
       "asin": "B004MKLRTC",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-22"
     },
     {
       "id": "df-sarlai-30-inch-farmhouse-stainless-steel-kitchen-sink-apron-front-single-bowl-wo",
