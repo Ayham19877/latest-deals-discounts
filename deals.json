@@ -7,6 +7,26 @@
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
     {
+      "id": "df-15-inch-undermount-kitchen-sink-304-stainless-steel-deep-single-bowl-prep-workst",
+      "title": "15-Inch Undermount Kitchen Sink,304 Stainless Steel Deep Single Bowl Prep Workstation Bar with Accessories",
+      "title_en": "15-Inch Undermount Kitchen Sink,304 Stainless Steel Deep Single Bowl Prep Workstation Bar with Accessories",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 85.49,
+      "new_price": null,
+      "discount_percent": 67,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B08C9LZDGH?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41KJ6q0JpVL._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-22",
+      "updated": "2026-11-22",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B08C9LZDGH",
+      "last_seen": "2026-11-22"
+    },
+    {
       "id": "df-true-thermostat-162f-fixed",
       "title": "True Thermostat-162F Fixed",
       "title_en": "True Thermostat-162F Fixed",
@@ -1684,7 +1704,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B005WZXDIO",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-22"
     },
     {
       "id": "df-ekena-millwork-arw101bq621x60obh-americraft-six-2-exterior-real-wood-joined-boar",
@@ -1904,7 +1924,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B00DYIYMZO",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-22"
     },
     {
       "id": "df-streamlight-20701-sl-450-lumen-flashlight-with-charger-black-450-lumens-recharge",
@@ -2984,7 +3004,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0G4D28B9G",
-      "last_seen": "2026-11-19"
+      "last_seen": "2026-11-22"
     },
     {
       "id": "df-delta-dryden-brushed-nickel-bathroom-faucet-3-hole-8-inch-widespread-bathroom-si",
