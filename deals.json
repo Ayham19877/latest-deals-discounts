@@ -2,7 +2,7 @@
   "service": "Latest Deals & Discounts",
   "feed": "Latest Deals & Discounts — Amazon Warehouse (Amazon Resale) picks",
   "source_store": "Amazon Resale (formerly Amazon Warehouse Deals)",
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "sync": "auto-discovery-sync-v1, every 6 hours via GitHub Actions. Prices are as discovered at pull time, not live Amazon-verified prices; check the Used offer on Amazon before buying. Warehouse stock is one-of-one.",
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
@@ -104,7 +104,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0DPXKZSCK",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     {
       "id": "df-hisafe-silver-front-door-handle-double-door-lock-set-with-camelot-trim-satin-nic",
@@ -204,7 +204,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B06Y5LJGDC",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     {
       "id": "df-ledmo-36000lm-led-parking-lot-lights-1000w-hid-hps-replacement-adjustable-with-d",
@@ -864,7 +864,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0DBQLH21Y",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     {
       "id": "df-xbox-one-kinect-sensor",
@@ -1164,7 +1164,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0D31W2G9V",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     {
       "id": "df-neoism-slushie-machine-for-home",
@@ -1244,7 +1244,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B00LEVP1Q2",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     {
       "id": "df-beverly-rug-outdoor-rug-10x14-modern-bordered-large-area-rugs-for-indoor-and-out",
@@ -1284,7 +1284,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0D8J7JF1P",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     {
       "id": "df-aspen-creative-32774-hardback-empire-lamp-shade-18-inch-steel-gray-textured-gray",
@@ -1324,7 +1324,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0CLS1VPBY",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     {
       "id": "df-louisville-slugger-2026-kryo-thundernight-8-fastpitch-softball-bat-33-25-oz",
@@ -1364,7 +1364,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0F8KBTCKS",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     {
       "id": "df-anatia-2-pack-1-5x59-inch-pool-pump-hose-for-intex-coleman-blue",
@@ -1544,7 +1544,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0GX66VGHY",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     {
       "id": "df-mohawk-basics-24-x-24-berber-loop-pile-0-07-pile-height-carpet-tile-pet-fiber-wa",
@@ -1584,7 +1584,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0FHHS7TTM",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     {
       "id": "df-gerber-plumbing-parma-widespread-roman-tub-faucet",
@@ -1644,7 +1644,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0FBWLZ2NP",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     {
       "id": "df-3-1-2-w-x-24-d-x-28-h-thorton-smooth-knee-brace-douglas-fir",
@@ -2284,7 +2284,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0FY48V5V7",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     {
       "id": "df-vulcan-hart-00-428104-00002-rack-r-h-guide",
@@ -2493,18 +2493,18 @@
       "category": "Tools & Home Improvement",
       "condition": "",
       "currency": "USD",
-      "price": 63.8,
+      "price": 64.24,
       "new_price": null,
-      "discount_percent": 68,
+      "discount_percent": 67,
       "deal_rating": null,
       "amazon_url": "https://www.amazon.com/dp/B0GKH2F7PZ?tag=latestdealsdi-20",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41Y+pU0uhDL._AC_UL200_SR220,200_._SL500_.jpg",
       "posted_at": "2026-11-17",
-      "updated": "2026-11-17",
+      "updated": "2026-11-23",
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0GKH2F7PZ",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-23"
     },
     {
       "id": "df-gyykzz-12-20ft-swageless-black-side-mount-cable-railing-post-kit-system-42-4-pac",
@@ -2964,7 +2964,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0GMWD99W6",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     {
       "id": "df-tr3nnd-unicorn-night-light-for-kids-13-colors-changing-cute-gifts-with-remote-po",
@@ -3004,7 +3004,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B00V07FB6U",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     {
       "id": "df-tunkayli-12-3-pendant-light-for-kitchen-island-1-light-drum-chandelier-3-tier-li",
@@ -3164,7 +3164,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0F12CGKXR",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     {
       "id": "df-2-in-1-slushie-machine-no-ice-needed",
@@ -3533,18 +3533,18 @@
       "category": "Garden & Outdoor",
       "condition": "",
       "currency": "USD",
-      "price": 36.93,
+      "price": 37.67,
       "new_price": null,
       "discount_percent": 81,
       "deal_rating": null,
       "amazon_url": "https://www.amazon.com/dp/B0CR5RSJTL?tag=latestdealsdi-20",
       "image": "",
       "posted_at": "2026-11-16",
-      "updated": "2026-11-16",
+      "updated": "2026-11-23",
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0CR5RSJTL",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-23"
     },
     {
       "id": "df-sogoting-24-low-profile-ceiling-fan-with-rgb-lights-bladeless-ceiling-fan-with-r",
@@ -3564,7 +3564,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0DDC21NJV",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     {
       "id": "df-insinkerator-contemporary-instant-hot-and-cold-water-dispenser-faucet-satin-nick",
@@ -4084,7 +4084,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0H24Z2WH1",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     {
       "id": "df-wingbo-60-large-dc-ceiling-fans-without-lights-3-downrods-8-plywood-blades-6-spe",
@@ -4564,7 +4564,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0F47W1BMG",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     {
       "id": "df-nordic-pure-18x20x1-pleated-ultra-merv-16-ac-furnace-air-filters-6-pack-actual-s",
@@ -4684,7 +4684,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0D78JZZXJ",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     {
       "id": "df-stripes-clear-glass-pendant-light-for-kitchen-island-black-gold-8-inch-adjustabl",
@@ -4764,7 +4764,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0GVDKMKJN",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     {
       "id": "df-drywall-skimming-blades-3-sizes-stainless-steel-plaster-smoothing-finishing-3-si",
@@ -5204,7 +5204,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0FQ4XNX61",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     {
       "id": "df-pureby-pool-pump-2-0hp-115v-two-speed-above-ground-pool-centrifugal-pumps",
@@ -5744,7 +5744,7 @@
       "verified_on_amazon": false,
       "discovery_source": "asin-resolved",
       "asin": "B0D3JF33J8",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     {
       "id": "df-2p-100-amp-disconnect-new-add-ground-design-disconnect-switch-non-fuse-nema-3r-s",
@@ -6084,7 +6084,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0GRTF9S4Z",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     {
       "id": "df-ekena-millwork-rbj06z16x060rwr-timbercraft-three-5-3-8-boards-joined-board-n-bat",
@@ -6384,7 +6384,7 @@
       "verified_on_amazon": false,
       "discovery_source": "asin-resolved",
       "asin": "B004MKLRTC",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     {
       "id": "df-sarlai-30-inch-farmhouse-stainless-steel-kitchen-sink-apron-front-single-bowl-wo",
