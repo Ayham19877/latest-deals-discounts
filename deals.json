@@ -2,10 +2,50 @@
   "service": "Latest Deals & Discounts",
   "feed": "Latest Deals & Discounts — Amazon Warehouse (Amazon Resale) picks",
   "source_store": "Amazon Resale (formerly Amazon Warehouse Deals)",
-  "updated": "2026-11-23",
+  "updated": "2026-11-24",
   "sync": "auto-discovery-sync-v1, every 6 hours via GitHub Actions. Prices are as discovered at pull time, not live Amazon-verified prices; check the Used offer on Amazon before buying. Warehouse stock is one-of-one.",
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
+    {
+      "id": "df-kudos-21-inch-black-and-gold-led-pendant-light-kdpl02-bk-l-five-selectable-color",
+      "title": "kudos 21 Inch Black and Gold LED Pendant Light, KDPL02-BK-L | Five Selectable Color Temperatures, Adjustable Hanging Cord, Hardwired, for Kitchens, Bars and Study rooms",
+      "title_en": "kudos 21 Inch Black and Gold LED Pendant Light, KDPL02-BK-L | Five Selectable Color Temperatures, Adjustable Hanging Cord, Hardwired, for Kitchens, Bars and Study rooms",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 34.81,
+      "new_price": null,
+      "discount_percent": 78,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B0GJZBWW9K?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31Ingq1TNrL._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-24",
+      "updated": "2026-11-24",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B0GJZBWW9K",
+      "last_seen": "2026-11-24"
+    },
+    {
+      "id": "df-ge-cync-reveal-hd-smart-undercabinet-puck-light-fixtures-3-in-3-pack",
+      "title": "GE Cync Reveal HD+ Smart Undercabinet Puck Light Fixtures, 3-in (3 Pack)",
+      "title_en": "GE Cync Reveal HD+ Smart Undercabinet Puck Light Fixtures, 3-in (3 Pack)",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 26.63,
+      "new_price": null,
+      "discount_percent": 71,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B0D4ZT54VG?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/415dZvpqCKL._AC_UL200_SR220,200_.jpg",
+      "posted_at": "2026-11-24",
+      "updated": "2026-11-24",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B0D4ZT54VG",
+      "last_seen": "2026-11-24"
+    },
     {
       "id": "df-shenmoyl-battery-operated-wall-sconce-set-of-2-10400mah-wireless-wall-sconces-30",
       "title": "Shenmoyl Battery Operated Wall Sconce Set of 2, 10400mAh Wireless Wall Sconces, 3000K-6000K Dimmable, 350°Rotate, Indoor Wall Lights with Remote for Bedroom Living Room Bathroom, Black Gold, 31.5 Inch",
@@ -44,7 +84,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0DCGPQ88M",
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "df-kingston-bak111148orb-bar-bathroom-accessory-set-oil-rubbed-bronze-victorian-col",
@@ -53,18 +93,18 @@
       "category": "Tools & Home Improvement",
       "condition": "",
       "currency": "USD",
-      "price": 109.84,
+      "price": 109.59,
       "new_price": null,
       "discount_percent": 61,
       "deal_rating": null,
       "amazon_url": "https://www.amazon.com/dp/B00JCCEDVY?tag=latestdealsdi-20",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31Ujh7iukLL._AC_UL200_SR220,200_._SL500_.jpg",
       "posted_at": "2026-11-23",
-      "updated": "2026-11-23",
+      "updated": "2026-11-24",
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B00JCCEDVY",
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "df-kingston-ks7970tx-bridge-bathroom-faucet-w-brass-pop-up-matte-black",
@@ -224,7 +264,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B08QY2PDKM",
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "df-voplls-4k-projector-now-with-netflix-auto-focus-wifi-bluetooth",
@@ -244,7 +284,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0H8RK27V5",
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "df-refice-25-6-rattan-chandelier-6-light-boho-chandelier-with-natural-woven-reed-sh",
@@ -644,7 +684,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B07BF29PK3",
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "df-ekena-millwork-gvpve12x4201sf-vertical-surface-mount-pvc-gable-vent-12-w-inch-x-",
@@ -1244,7 +1284,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0CFCPT16D",
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "df-advaning-47-x35-polycarbonate-awning-pa-series-premium-quality-uv-protection-fro",
@@ -1424,7 +1464,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0DT9KRRM1",
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "df-leaptrend-47310000-3-4-chrome-thermo-element-universal-brass-fit-for-grohe-therm",
@@ -2344,7 +2384,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B015W4YCV6",
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "df-2424-return-air-grille-duct-opening-size-return-vent-cover-for-wall-or-ceiling-s",
@@ -2364,7 +2404,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0DBQLH21Y",
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "df-xbox-one-kinect-sensor",
@@ -2593,18 +2633,18 @@
       "category": "Tools & Home Improvement",
       "condition": "",
       "currency": "USD",
-      "price": 84.7,
+      "price": 84.92,
       "new_price": null,
       "discount_percent": 78,
       "deal_rating": null,
       "amazon_url": "https://www.amazon.com/dp/B0G7B887SS?tag=latestdealsdi-20",
       "image": "https://images-na.ssl-images-amazon.com/images/I/412ht52lXJL._AC_UL200_SR220,200_._SL500_.jpg",
       "posted_at": "2026-11-21",
-      "updated": "2026-11-23",
+      "updated": "2026-11-24",
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0G7B887SS",
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "df-400ft-permanent-outdoor-lights-rgb-ic-eaves-lights-for-house",
@@ -2864,7 +2904,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0F8KBTCKS",
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "df-anatia-2-pack-1-5x59-inch-pool-pump-hose-for-intex-coleman-blue",
@@ -3144,7 +3184,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0FBWLZ2NP",
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "df-3-1-2-w-x-24-d-x-28-h-thorton-smooth-knee-brace-douglas-fir",
@@ -3324,7 +3364,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0FZM7G9Q8",
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "df-blinghy-modern-crystal-chandelier-black-crystal-ceiling-chandelier-adjustable-ce",
@@ -3784,7 +3824,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0FY48V5V7",
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "df-vulcan-hart-00-428104-00002-rack-r-h-guide",
@@ -4424,7 +4464,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0F2J2C58D",
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "df-cabdm-1-pack-appliance-pulls-18-inch-457mm-brushed-satinz-nickel-cabinet-pulls-e",
@@ -5204,7 +5244,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0G4D28B9G",
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "df-delta-dryden-brushed-nickel-bathroom-faucet-3-hole-8-inch-widespread-bathroom-si",
@@ -5584,7 +5624,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0H24Z2WH1",
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "df-wingbo-60-large-dc-ceiling-fans-without-lights-3-downrods-8-plywood-blades-6-spe",
@@ -6044,7 +6084,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0DK26K8Y7",
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "df-commercial-ice-maker-machine-130lbs-24h-stainless-steel-undercounter-freestandin",
@@ -6133,18 +6173,18 @@
       "category": "Tools & Home Improvement",
       "condition": "",
       "currency": "USD",
-      "price": 51.84,
+      "price": 51.91,
       "new_price": null,
       "discount_percent": 68,
       "deal_rating": null,
       "amazon_url": "https://www.amazon.com/dp/B0CHRVJPQK?tag=latestdealsdi-20",
       "image": "https://images-na.ssl-images-amazon.com/images/I/319SgjwUVRL._AC_UL200_SR220,200_._SL500_.jpg",
       "posted_at": "2026-11-15",
-      "updated": "2026-11-15",
+      "updated": "2026-11-24",
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0CHRVJPQK",
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "df-walking-pad-treadmill-with-9-incline-4-decline",
@@ -6184,7 +6224,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0D78JZZXJ",
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "df-stripes-clear-glass-pendant-light-for-kitchen-island-black-gold-8-inch-adjustabl",
@@ -6244,7 +6284,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0GVDKMKJN",
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "df-kraus-dex-33-inch-undermount-16-gauge-stainless-steel-single-bowl-kitchen-sink-k",
@@ -6484,7 +6524,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0FQ4XNX61",
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "df-pureby-pool-pump-2-0hp-115v-two-speed-above-ground-pool-centrifugal-pumps",
@@ -6564,7 +6604,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0CGXSB4BD",
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "df-greenpan-17-piece-nonstick-swift-cookware-set-ceramic-pfas-free-pots-pans-with-l",
@@ -6884,7 +6924,7 @@
       "verified_on_amazon": false,
       "discovery_source": "asin-resolved",
       "asin": "B0D3JF33J8",
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "df-2p-100-amp-disconnect-new-add-ground-design-disconnect-switch-non-fuse-nema-3r-s",
@@ -7064,7 +7104,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0GRTF9S4Z",
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "df-ekena-millwork-rbj06z16x060rwr-timbercraft-three-5-3-8-boards-joined-board-n-bat",
@@ -7304,7 +7344,7 @@
       "verified_on_amazon": false,
       "discovery_source": "asin-resolved",
       "asin": "B004MKLRTC",
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "df-sarlai-30-inch-farmhouse-stainless-steel-kitchen-sink-apron-front-single-bowl-wo",
