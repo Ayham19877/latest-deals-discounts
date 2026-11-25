@@ -7,6 +7,46 @@
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
     {
+      "id": "df-netgear-orbi-whole-home-tri-band-mesh-wifi-6-system-rbk752-router-with-1-satelli",
+      "title": "NETGEAR Orbi Whole Home Tri-Band Mesh WiFi 6 System (RBK752) – Router with 1 Satellite Extender | Coverage up to 5,000 sq. ft., 40 Devices | AX4200 (Up to 4.2Gbps)",
+      "title_en": "NETGEAR Orbi Whole Home Tri-Band Mesh WiFi 6 System (RBK752) – Router with 1 Satellite Extender | Coverage up to 5,000 sq. ft., 40 Devices | AX4200 (Up to 4.2Gbps)",
+      "category": "Electronics",
+      "condition": "",
+      "currency": "USD",
+      "price": 127.22,
+      "new_price": null,
+      "discount_percent": 73,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B086HJXKJJ?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/21IFTkI8N0L._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-25",
+      "updated": "2026-11-25",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B086HJXKJJ",
+      "last_seen": "2026-11-25"
+    },
+    {
+      "id": "df-poukaran-76-led-floor-lamp-12000lm-white-modern-dimmable-free-standing-lamp-100w",
+      "title": "poukaran 76\" LED Floor Lamp, 12000LM White Modern Dimmable Free-Standing Lamp, 100W Timing Eye-Caring Floor Tall Reading Lamps for Bedroom, Living Room, Office, Children's Room",
+      "title_en": "poukaran 76\" LED Floor Lamp, 12000LM White Modern Dimmable Free-Standing Lamp, 100W Timing Eye-Caring Floor Tall Reading Lamps for Bedroom, Living Room, Office, Children's Room",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 99.59,
+      "new_price": null,
+      "discount_percent": 60,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B0DQ4X9836?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41IskTGBbCL._AC_UL200_SR220,200_.jpg",
+      "posted_at": "2026-11-25",
+      "updated": "2026-11-25",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B0DQ4X9836",
+      "last_seen": "2026-11-25"
+    },
+    {
       "id": "df-lithonia-lighting-2x4-led-troffer-light-includes-emergency-battery-backup-stack-",
       "title": "Lithonia Lighting 2x4 LED Troffer Light, Includes Emergency Battery Backup | Stack Switch LED Lay-in Ceiling Light Fixture, Low, Medium, High Brightness, 3500K/4000K/5000K Switchable CCT, White",
       "title_en": "Lithonia Lighting 2x4 LED Troffer Light, Includes Emergency Battery Backup | Stack Switch LED Lay-in Ceiling Light Fixture, Low, Medium, High Brightness, 3500K/4000K/5000K Switchable CCT, White",
@@ -753,18 +793,18 @@
       "category": "Garden & Outdoor",
       "condition": "",
       "currency": "USD",
-      "price": 85.47,
+      "price": 87.63,
       "new_price": null,
       "discount_percent": 78,
       "deal_rating": null,
       "amazon_url": "https://www.amazon.com/dp/B0GMPZ2N4X?tag=latestdealsdi-20",
       "image": "https://images-na.ssl-images-amazon.com/images/I/417R9BlIGOL._AC_UL200_SR220,200_._SL500_.jpg",
       "posted_at": "2026-11-24",
-      "updated": "2026-11-24",
+      "updated": "2026-11-25",
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0GMPZ2N4X",
-      "last_seen": "2026-11-24"
+      "last_seen": "2026-11-25"
     },
     {
       "id": "df-zurn-z8104-1-1-ecoflushtm-pressure-assist-unit-1-1-gpf",
@@ -1064,7 +1104,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B09VCMYY56",
-      "last_seen": "2026-11-24"
+      "last_seen": "2026-11-25"
     },
     {
       "id": "df-sylvania-dulux-t-e-in-cfl-compact-fluorescent-light-bulb-4-pin-26w-10-pack",
@@ -5853,14 +5893,14 @@
       "category": "Tools & Home Improvement",
       "condition": "",
       "currency": "USD",
-      "price": 67.73,
+      "price": 68.59,
       "new_price": null,
-      "discount_percent": 66,
+      "discount_percent": 65,
       "deal_rating": null,
       "amazon_url": "https://www.amazon.com/dp/B0D9NWXGGT?tag=latestdealsdi-20",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41Hs4Fa8AzL._AC_UL200_SR220,200_._SL500_.jpg",
       "posted_at": "2026-11-15",
-      "updated": "2026-11-24",
+      "updated": "2026-11-25",
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0D9NWXGGT",
@@ -6513,7 +6553,7 @@
       "category": "Tools & Home Improvement",
       "condition": "",
       "currency": "USD",
-      "price": 114.19,
+      "price": 114.13,
       "new_price": null,
       "discount_percent": 59,
       "deal_rating": null,
@@ -7004,7 +7044,7 @@
       "verified_on_amazon": false,
       "discovery_source": "asin-resolved",
       "asin": "B004MKLRTC",
-      "last_seen": "2026-11-24"
+      "last_seen": "2026-11-25"
     }
   ]
 }
