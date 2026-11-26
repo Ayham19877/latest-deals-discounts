@@ -7,6 +7,26 @@
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
     {
+      "id": "df-32-undermount-workstation-kitchen-sink-beslend-32x19x10-in-undermount-kitchen-si",
+      "title": "32 Undermount Workstation Kitchen Sink | Beslend 32x19x10 In Undermount Kitchen Sinks Workstation Stainless Steel 16 Gauge Single Bowl 10 Inch Deep Ledge Basin",
+      "title_en": "32 Undermount Workstation Kitchen Sink | Beslend 32x19x10 In Undermount Kitchen Sinks Workstation Stainless Steel 16 Gauge Single Bowl 10 Inch Deep Ledge Basin",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 122.94,
+      "new_price": null,
+      "discount_percent": 54,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B093CB5ZXC?tag=latestdealsdi-20",
+      "image": "",
+      "posted_at": "2026-11-26",
+      "updated": "2026-11-26",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B093CB5ZXC",
+      "last_seen": "2026-11-26"
+    },
+    {
       "id": "df-cordless-robotic-pool-cleaner",
       "title": "Cordless Robotic Pool Cleaner",
       "title_en": "Cordless Robotic Pool Cleaner",
@@ -164,7 +184,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0FF1TJ2RT",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "df-4-w-x-14-d-x-22-h-olympic-rough-sawn-knee-brace-douglas-fir",
@@ -6573,18 +6593,18 @@
       "category": "Garden & Outdoor",
       "condition": "",
       "currency": "USD",
-      "price": 59.7,
+      "price": 59.2,
       "new_price": null,
       "discount_percent": 77,
       "deal_rating": null,
       "amazon_url": "https://www.amazon.com/dp/B0H24Z2WH1?tag=latestdealsdi-20",
       "image": "https://images-na.ssl-images-amazon.com/images/I/31vuTYZwnkL._AC_UL200_SR220,200_._SL500_.jpg",
       "posted_at": "2026-11-15",
-      "updated": "2026-11-22",
+      "updated": "2026-11-26",
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0H24Z2WH1",
-      "last_seen": "2026-11-24"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "df-wingbo-60-large-dc-ceiling-fans-without-lights-3-downrods-8-plywood-blades-6-spe",
@@ -7824,7 +7844,7 @@
       "verified_on_amazon": false,
       "discovery_source": "asin-resolved",
       "asin": "B004MKLRTC",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     }
   ]
 }
