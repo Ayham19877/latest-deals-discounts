@@ -7,6 +7,26 @@
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
     {
+      "id": "df-fhumsh-headphone-headset-for-gym-running-work",
+      "title": "Fhumsh Headphone Headset for Gym/Running/Work",
+      "title_en": "Fhumsh Headphone Headset for Gym/Running/Work",
+      "category": "Electronics",
+      "condition": "",
+      "currency": "USD",
+      "price": 11.0,
+      "new_price": null,
+      "discount_percent": 95,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B0H2Y8X459?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41o4B4eDI+L._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-26",
+      "updated": "2026-11-26",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B0H2Y8X459",
+      "last_seen": "2026-11-26"
+    },
+    {
       "id": "df-32-undermount-workstation-kitchen-sink-beslend-32x19x10-in-undermount-kitchen-si",
       "title": "32 Undermount Workstation Kitchen Sink | Beslend 32x19x10 In Undermount Kitchen Sinks Workstation Stainless Steel 16 Gauge Single Bowl 10 Inch Deep Ledge Basin",
       "title_en": "32 Undermount Workstation Kitchen Sink | Beslend 32x19x10 In Undermount Kitchen Sinks Workstation Stainless Steel 16 Gauge Single Bowl 10 Inch Deep Ledge Basin",
@@ -1904,7 +1924,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B09VCMYY56",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "df-sylvania-dulux-t-e-in-cfl-compact-fluorescent-light-bulb-4-pin-26w-10-pack",
@@ -5033,18 +5053,18 @@
       "category": "Tools & Home Improvement",
       "condition": "",
       "currency": "USD",
-      "price": 205.12,
+      "price": 205.58,
       "new_price": null,
       "discount_percent": 59,
       "deal_rating": null,
       "amazon_url": "https://www.amazon.com/dp/B0FZM7G9Q8?tag=latestdealsdi-20",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41v6x-p+WmL._AC_UL200_SR220,200_._SL500_.jpg",
       "posted_at": "2026-11-20",
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0FZM7G9Q8",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "df-blinghy-modern-crystal-chandelier-black-crystal-ceiling-chandelier-adjustable-ce",
@@ -5753,18 +5773,18 @@
       "category": "Tools & Home Improvement",
       "condition": "",
       "currency": "USD",
-      "price": 35.13,
+      "price": 35.24,
       "new_price": null,
       "discount_percent": 74,
       "deal_rating": null,
       "amazon_url": "https://www.amazon.com/dp/B0DC6CDDLG?tag=latestdealsdi-20",
       "image": "https://images-na.ssl-images-amazon.com/images/I/21XkjLu77HL._AC_UL200_SR220,200_._SL500_.jpg",
       "posted_at": "2026-11-17",
-      "updated": "2026-11-22",
+      "updated": "2026-11-26",
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0DC6CDDLG",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "df-swisstrax-ribtrax-pro-garage-floor-tiles-15-75-racing-red-24-pack-interlocking-1",
@@ -6233,18 +6253,18 @@
       "category": "Tools & Home Improvement",
       "condition": "",
       "currency": "USD",
-      "price": 99.39,
+      "price": 99.35,
       "new_price": null,
       "discount_percent": 62,
       "deal_rating": null,
       "amazon_url": "https://www.amazon.com/dp/B00KJIM1D2?tag=latestdealsdi-20",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41IZFl5MK2L._AC_UL200_SR220,200_._SL500_.jpg",
       "posted_at": "2026-11-16",
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B00KJIM1D2",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "df-ekena-millwork-cm30dypws-30-od-x-2-1-4-p-dylar-ceiling-medallion-fits-canopies-u",
@@ -7824,7 +7844,7 @@
       "verified_on_amazon": false,
       "discovery_source": "asin-resolved",
       "asin": "B09SBT74HX",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "df-2011-physicians-desk-reference-library-hospital-version-physicians-desk-referenc",
