@@ -2,7 +2,7 @@
   "service": "Latest Deals & Discounts",
   "feed": "Latest Deals & Discounts — Amazon Warehouse (Amazon Resale) picks",
   "source_store": "Amazon Resale (formerly Amazon Warehouse Deals)",
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "sync": "auto-discovery-sync-v1, every 6 hours via GitHub Actions. Prices are as discovered at pull time, not live Amazon-verified prices; check the Used offer on Amazon before buying. Warehouse stock is one-of-one.",
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
@@ -44,7 +44,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0GH7CZ7K3",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "df-kingston-cck225ab-clawfoot-tub-faucet-package-antique-brass-vintage-collection-w",
@@ -64,7 +64,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B08N9YWX9Q",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "df-bykistok-46-flush-mount-ceiling-fan-with-lights-white-modern-fan-light-with-reve",
@@ -84,7 +84,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0FJL31HJ2",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "df-dolaimi-house-2-pack-1-light-pendant-ceiling-light-kitchen-island-6-5-hand-blown",
@@ -104,7 +104,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0BBLNTNGL",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "df-hoffman-e2pbss-enclosure-for-2-30-5-mm-pushbuttons-stainless-steel-type-304",
@@ -284,7 +284,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B00IJHNS1Y",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "df-motorola-mg7700-modem-wifi-router-combo-with-power-boost-approved-by-comcast-xfi",
@@ -544,7 +544,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B00AYBLMVG",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "df-a-la-maison-ceilings-r133-corrugated-pre-painted-foam-glue-up-ceiling-tile-129-6",
@@ -564,7 +564,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0C3LYPK2L",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "df-netgear-nighthawk-x6s-smart-wi-fi-router-r8000p-ac4000-tri-band-wireless-speed-u",
@@ -604,7 +604,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0CHLSNJ4D",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "df-cobalt-drill-bit-m35-hss-with-5-cobalt-din-338-twist-drill-for-hardened-steel-st",
@@ -613,18 +613,18 @@
       "category": "Tools & Home Improvement",
       "condition": "",
       "currency": "USD",
-      "price": 15.41,
+      "price": 15.48,
       "new_price": null,
       "discount_percent": 94,
       "deal_rating": null,
       "amazon_url": "https://www.amazon.com/dp/B0CTKN7KYX?tag=latestdealsdi-20",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41r6jm87p4L._AC_UL200_SR220,200_._SL500_.jpg",
       "posted_at": "2026-11-25",
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0CTKN7KYX",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "df-zylorix-4ft-8ft-modular-36in-cable-railing-system-for-stair-with-handrail",
@@ -684,7 +684,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B08PBY2XFW",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "df-american-standard-4279300-gn0-delancey-pull-down-kitchen-faucet-with-sprayer-bru",
@@ -804,7 +804,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B086HJXKJJ",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "df-poukaran-76-led-floor-lamp-12000lm-white-modern-dimmable-free-standing-lamp-100w",
@@ -944,7 +944,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B082YWC3MV",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "df-patio-kingdom-15ft-patio-umbrella-with-solar-lights-double-sided-extra-large-out",
@@ -1244,7 +1244,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B07CDD1SSX",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "df-47-2-x15-7-electric-warming-trays-food-warmers-for-parties-buffet-9036",
@@ -1544,7 +1544,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0CKSVCM47",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "df-delta-leland-brushed-nickel-kitchen-faucet-with-pull-down-sprayer-traditional-si",
@@ -2084,7 +2084,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0B9GW8CKR",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "df-gajttr-77-solar-street-light-with-water-filled-base-no-drilling-outdoor-lamp-pos",
@@ -4304,7 +4304,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0G7B887SS",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "df-400ft-permanent-outdoor-lights-rgb-ic-eaves-lights-for-house",
@@ -4444,7 +4444,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B00LEVP1Q2",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "df-beverly-rug-outdoor-rug-10x14-modern-bordered-large-area-rugs-for-indoor-and-out",
@@ -5084,7 +5084,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0C62ZHWG7",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "df-taloya-72-inch-ceiling-fans-with-lights-led-remote-control-flush-mount-low-profi",
@@ -5884,7 +5884,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0BF8NLHBV",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "df-amerock-18-blackrock-champagne-bronze-appliance-pull-18-inch-457mm-center-to-cen",
@@ -6184,7 +6184,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0F12CGKXR",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "df-2-in-1-slushie-machine-no-ice-needed",
@@ -6364,7 +6364,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0DDC21NJV",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "df-hlmrchen-14-lights-rectangle-chandelier-with-glass-tube-55-gold-rectangular-dini",
@@ -6404,7 +6404,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0F1F97B4D",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "df-pink-mason-line-string-line-36-roll-pack-18-braided-nylon-string-1000-ft-length-",
@@ -6433,18 +6433,18 @@
       "category": "Tools & Home Improvement",
       "condition": "",
       "currency": "USD",
-      "price": 166.38,
+      "price": 164.86,
       "new_price": null,
       "discount_percent": 72,
       "deal_rating": null,
       "amazon_url": "https://www.amazon.com/dp/B0G4D28B9G?tag=latestdealsdi-20",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41pgj3uEMcL._AC_UL200_SR220,200_._SL500_.jpg",
       "posted_at": "2026-11-15",
-      "updated": "2026-11-23",
+      "updated": "2026-11-26",
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0G4D28B9G",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "df-delta-dryden-brushed-nickel-bathroom-faucet-3-hole-8-inch-widespread-bathroom-si",
@@ -6884,7 +6884,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0CHRVJPQK",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "df-walking-pad-treadmill-with-9-incline-4-decline",
@@ -6924,7 +6924,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0D78JZZXJ",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "df-stripes-clear-glass-pendant-light-for-kitchen-island-black-gold-8-inch-adjustabl",
@@ -7064,7 +7064,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0GQ928PRC",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "df-rubber-cal-air-ventilator-orange-flexible-ducting-18-diameter-x-25ft",
@@ -7133,18 +7133,18 @@
       "category": "Tools & Home Improvement",
       "condition": "",
       "currency": "USD",
-      "price": 26.62,
+      "price": 33.67,
       "new_price": null,
-      "discount_percent": 73,
+      "discount_percent": 65,
       "deal_rating": null,
       "amazon_url": "https://www.amazon.com/dp/B0CTPGFP32?tag=latestdealsdi-20",
       "image": "https://images-na.ssl-images-amazon.com/images/I/411ncK-u6bL._AC_UL200_SR220,200_._SL500_.jpg",
       "posted_at": "2026-11-14",
-      "updated": "2026-11-14",
+      "updated": "2026-11-26",
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0CTPGFP32",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "df-ansehan-wallcovering-w1021-burlap-collection-36-w-x-8-yard-l-natural-paper-weave",
@@ -7333,18 +7333,18 @@
       "category": "Tools & Home Improvement",
       "condition": "",
       "currency": "USD",
-      "price": 114.18,
+      "price": 114.12,
       "new_price": null,
       "discount_percent": 59,
       "deal_rating": null,
       "amazon_url": "https://www.amazon.com/dp/B01M751WC3?tag=latestdealsdi-20",
       "image": "https://images-na.ssl-images-amazon.com/images/I/41IoAicuP7L._AC_UL200_SR220,200_._SL500_.jpg",
       "posted_at": "2026-11-14",
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B01M751WC3",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "df-decoktool-3100psi-wall-mounted-powerwasher-with-4-quick-connect-nozzles-foam-can",
