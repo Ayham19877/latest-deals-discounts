@@ -293,9 +293,9 @@
       "category": "Electronics",
       "condition": "",
       "currency": "USD",
-      "price": 26.04,
+      "price": 27.73,
       "new_price": null,
-      "discount_percent": 86,
+      "discount_percent": 85,
       "deal_rating": null,
       "amazon_url": "https://www.amazon.com/dp/B000NPKO4E?tag=latestdealsdi-20",
       "image": "https://images-na.ssl-images-amazon.com/images/I/416phW16QpL._AC_UL200_SR220,200_._SL500_.jpg",
@@ -544,7 +544,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0F8HDC9RK",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "df-armor-guys-00-840-cut-resistant-work-gloves-ansi-a4-large-72-pairs",
