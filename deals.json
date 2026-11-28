@@ -2,10 +2,90 @@
   "service": "Latest Deals & Discounts",
   "feed": "Latest Deals & Discounts — Amazon Warehouse (Amazon Resale) picks",
   "source_store": "Amazon Resale (formerly Amazon Warehouse Deals)",
-  "updated": "2026-11-27",
+  "updated": "2026-11-28",
   "sync": "auto-discovery-sync-v1, every 6 hours via GitHub Actions. Prices are as discovered at pull time, not live Amazon-verified prices; check the Used offer on Amazon before buying. Warehouse stock is one-of-one.",
   "note": "Prices/discounts are discovery values at last pull time. Open the Amazon link, then pick a Used offer sold by Amazon Resale / Amazon Warehouse and read the seller condition note before buying.",
   "deals": [
+    {
+      "id": "df-31-x17-drop-in-smart-workstation-kitchen-sink-waterfall-kitchen-sink-16-gauge-st",
+      "title": "31\"x17\" Drop In Smart Workstation Kitchen Sink Waterfall Kitchen Sink | 16 Gauge Stainless Steel Workstation Sink Topmount Handmade R10 Round Corner Single Bowl Basin with Accessories",
+      "title_en": "31\"x17\" Drop In Smart Workstation Kitchen Sink Waterfall Kitchen Sink | 16 Gauge Stainless Steel Workstation Sink Topmount Handmade R10 Round Corner Single Bowl Basin with Accessories",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 103.05,
+      "new_price": null,
+      "discount_percent": 76,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B0FHQ33D84?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51njv-MpfUL._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-28",
+      "updated": "2026-11-28",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B0FHQ33D84",
+      "last_seen": "2026-11-28"
+    },
+    {
+      "id": "df-transolid-rtde3322-17-ca-radius-33-in-w-x-22-in-l-silq-granite-drop-in-double-bo",
+      "title": "Transolid RTDE3322-17-CA Radius 33-in W x 22-in L silQ Granite Drop-in Double Bowl Kitchen Sink with 2 CA Faucet Holes in Grey",
+      "title_en": "Transolid RTDE3322-17-CA Radius 33-in W x 22-in L silQ Granite Drop-in Double Bowl Kitchen Sink with 2 CA Faucet Holes in Grey",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 122.84,
+      "new_price": null,
+      "discount_percent": 74,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B01LBFCI84?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31U8aqL8ufS._AC_UL200_SR220,200_._SL500_.jpg",
+      "posted_at": "2026-11-28",
+      "updated": "2026-11-28",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B01LBFCI84",
+      "last_seen": "2026-11-28"
+    },
+    {
+      "id": "df-5-pack-black-silk-pleated-chandelier-shades-4-top-x-6-bottom-x-6-high-4x6x6-inch",
+      "title": "5 Pack Black Silk Pleated Chandelier Shades, 4\" Top x 6\" Bottom x 6\" High, 4x6x6 Inch Clip On E12 Bulb, Pendant Light Wall Sconce Lamp Shades, Silk-Pleat Handmade Barrel Lampshade Covers(Large Size)",
+      "title_en": "5 Pack Black Silk Pleated Chandelier Shades, 4\" Top x 6\" Bottom x 6\" High, 4x6x6 Inch Clip On E12 Bulb, Pendant Light Wall Sconce Lamp Shades, Silk-Pleat Handmade Barrel Lampshade Covers(Large Size)",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 18.6,
+      "new_price": null,
+      "discount_percent": 81,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B0G2V3KZN9?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31M2x7DnOwL._AC_UL200_SR220,200_.jpg",
+      "posted_at": "2026-11-28",
+      "updated": "2026-11-28",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B0G2V3KZN9",
+      "last_seen": "2026-11-28"
+    },
+    {
+      "id": "df-akro-mils-30270-akrobins-plastic-hanging-stackable-storage-organizer-bin-18-inch",
+      "title": "Akro-Mils 30270 AkroBins Plastic Hanging Stackable Storage Organizer Bin, 18-Inch x 16-Inch x 11-Inch, Stone, 3-Pack",
+      "title_en": "Akro-Mils 30270 AkroBins Plastic Hanging Stackable Storage Organizer Bin, 18-Inch x 16-Inch x 11-Inch, Stone, 3-Pack",
+      "category": "Tools & Home Improvement",
+      "condition": "",
+      "currency": "USD",
+      "price": 37.09,
+      "new_price": null,
+      "discount_percent": 66,
+      "deal_rating": null,
+      "amazon_url": "https://www.amazon.com/dp/B001VXUQPY?tag=latestdealsdi-20",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/317kPu2VfEL._AC_UL200_SR220,200_.jpg",
+      "posted_at": "2026-11-28",
+      "updated": "2026-11-28",
+      "verified_on_amazon": false,
+      "discovery_source": "dealforager-discovery-only",
+      "asin": "B001VXUQPY",
+      "last_seen": "2026-11-28"
+    },
     {
       "id": "df-uritue-04-31677-000-def-header-unit-level-sensor",
       "title": "Uritue 04-31677-000 DEF Header Unit Level Sensor",
@@ -24,7 +104,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0DCZ45F1H",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     {
       "id": "df-delta-trinsic-brushed-nickel-bathroom-faucet-3-hole-8-inch-widespread-bathroom-s",
@@ -44,7 +124,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B008X0VK3U",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     {
       "id": "df-2-pack-11-ft-shade-sail-poles-heavy-duty-metal-outdoor-support-post-kit-rust-res",
@@ -124,7 +204,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B07V25TCRF",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     {
       "id": "df-pfister-avalon-single-handle-kitchen-sink-faucet-with-side-sprayer-and-soap-disp",
@@ -164,7 +244,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0BMJB3P4F",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     {
       "id": "df-mocoloo-33x19-inch-smart-waterfall-gunmetal-black-drop-in-kitchen-sink-workstati",
@@ -564,7 +644,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0BJ1NYJPF",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     {
       "id": "df-biogreen-electric-greenhouse-heater-fan-with-digital-thermostat-palma-1500-watts",
@@ -664,7 +744,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0GYX95RQM",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     {
       "id": "df-lecloc-mini-tankless-under-sink-instant-water-heater-120v-3kw-plug-in-grey-large",
@@ -764,7 +844,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B08N5QDP13",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     {
       "id": "df-adidas-women-s-handball-spezial-w-clear-pinksolar-orange-gum4-8-5-us",
@@ -944,7 +1024,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0F7KPWTZN",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     {
       "id": "df-gdy-10x10-pop-up-canopy-tent-with-4-sidewalls-easy-set-up-outdoor-silver-coated-",
@@ -1084,7 +1164,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0F8HDC9RK",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     {
       "id": "df-armor-guys-00-840-cut-resistant-work-gloves-ansi-a4-large-72-pairs",
@@ -1124,7 +1204,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B00CMLX0NO",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     {
       "id": "df-logmey-16-rose-gold-shallow-bathroom-vessel-sink-16x12-handmade-16-gauge-stainle",
@@ -1144,7 +1224,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0CMG9HDN6",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     {
       "id": "df-grill-replacement-parts-for-broil-king-baron-420-440-490-320-340-9221-64-9221-67",
@@ -1744,7 +1824,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0CSVLX784",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     {
       "id": "df-vt85lp-lamp-vt480g-580-695-595",
@@ -1884,7 +1964,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B009OLAW4K",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     {
       "id": "df-fynvex-18-inch-3-light-double-drum-chandelier-for-dining-room-bedroom-2-layer-li",
@@ -2284,7 +2364,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0GH7CZ7K3",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     {
       "id": "df-kingston-cck225ab-clawfoot-tub-faucet-package-antique-brass-vintage-collection-w",
@@ -2304,7 +2384,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B08N9YWX9Q",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     {
       "id": "df-bykistok-46-flush-mount-ceiling-fan-with-lights-white-modern-fan-light-with-reve",
@@ -2324,7 +2404,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0FJL31HJ2",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     {
       "id": "df-dolaimi-house-2-pack-1-light-pendant-ceiling-light-kitchen-island-6-5-hand-blown",
@@ -2724,7 +2804,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0FG37NWSS",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     {
       "id": "df-moen-essie-motionsense-wave-touchless-kitchen-faucet-chrome-87014ewc",
@@ -3184,7 +3264,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B082YWC3MV",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     {
       "id": "df-patio-kingdom-15ft-patio-umbrella-with-solar-lights-double-sided-extra-large-out",
@@ -4304,7 +4384,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B06ZYB8K77",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     {
       "id": "df-untrammelife-40in-gold-linear-cage-chandelier-5-light-kitchen-island-light-open-",
@@ -4844,7 +4924,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B08RLM9BKV",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     {
       "id": "df-apple-9-7-ipad-early-2018-32gb-wi-fi-only-space-gray-mr7f2ll-a-gray",
@@ -6624,7 +6704,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0H3FV5VYN",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     {
       "id": "df-ekena-millwork-18-w-x-38-h-rustic-two-equal-louver-sandblasted-faux-wood-shutter",
@@ -7524,7 +7604,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B0BF8NLHBV",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     {
       "id": "df-amerock-18-blackrock-champagne-bronze-appliance-pull-18-inch-457mm-center-to-cen",
@@ -7764,7 +7844,7 @@
       "verified_on_amazon": false,
       "discovery_source": "dealforager-discovery-only",
       "asin": "B00KJIM1D2",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     {
       "id": "df-ekena-millwork-cm30dypws-30-od-x-2-1-4-p-dylar-ceiling-medallion-fits-canopies-u",
@@ -8864,7 +8944,7 @@
       "verified_on_amazon": false,
       "discovery_source": "asin-resolved",
       "asin": "B004MKLRTC",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     }
   ]
 }
